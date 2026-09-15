@@ -1,2 +1,38 @@
-# Convenience pointer. Canonical configuration lives in configs/config.yaml.
-extends: configs/config.yaml
+project:
+  name: "SEA E-commerce Intelligent Pricing Engine"
+  version: "1.0.0"
+
+data:
+  raw_path: "data/raw/marketplace_data.csv"
+  processed_path: "data/processed/cleaned_products.csv"
+  mock_rows_per_month: 800
+
+model:
+  model_dir: "models"
+  market_price_model: "market_price_model.joblib"
+  demand_model: "demand_model.joblib"
+  tfidf_vectorizer: "tfidf_vectorizer.joblib"
+
+pricing:
+  market_weight: 0.60
+  ml_weight: 0.40
+  price_grid_points: 80
+  max_competitor_multiple: 1.20
+
+supported:
+  countries:
+    - "Vietnam"
+    - "Thailand"
+    - "Malaysia"
+    - "Singapore"
+    - "Indonesia"
+    - "Philippines"
+  marketplaces:
+    - "Shopee"
+    - "Lazada"
+  categories:
+    - "Accessories"
+    - "Groceries"
+    - "Beauty"
+    - "Electronics"
+    - "Home & Living"

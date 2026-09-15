@@ -1,0 +1,21 @@
+services:
+  api:
+    build: .
+    container_name: sea-pricing-api
+    command: uvicorn api.main:app --host 0.0.0.0 --port 8000
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./:/app
+  streamlit:
+    build: .
+    container_name: sea-pricing-streamlit
+    command: streamlit run app/streamlit_app.py --server.address 0.0.0.0 --server.port 8501
+    ports:
+      - "8501:8501"
+    environment:
+      PRICING_API_URL: http://api:8000
+    depends_on:
+      - api
+    volumes:
+      - ./:/app
