@@ -1,0 +1,163 @@
+project:
+  name: sea-intelligent-pricing-engine
+  version: 0.1.0
+  description: Cost + margin + competitor-aware pricing for SEA marketplaces
+
+paths:
+  raw_dir: data/raw
+  processed_dir: data/processed
+  external_dir: data/external
+  models_dir: models
+  mock_csv: data/raw/mock_marketplace_data.csv
+  magpie_csv: data/raw/marketplace_data.csv
+  local_sample_csv: data/raw/pages-new.csv
+  cleaned_parquet: data/processed/cleaned_products.parquet
+  competitor_features_parquet: data/processed/competitor_features.parquet
+
+markets:
+  countries:
+    - Vietnam
+    - Thailand
+    - Malaysia
+    - Singapore
+    - Indonesia
+    - Philippines
+  marketplaces:
+    - Shopee
+    - Lazada
+  categories:
+    - Accessories
+    - Groceries
+    - Beauty
+    - Electronics
+    - Home
+
+# Approximate USD conversion for local listed prices. These are config values,
+# not live FX feeds. Update when a real Magpie extract is USD-denominated.
+fx_to_usd:
+  USD: 1.0
+  VND: 0.000040
+  THB: 0.028
+  MYR: 0.225
+  SGD: 0.74
+  IDR: 0.000062
+  PHP: 0.0175
+
+country_currency:
+  Vietnam: VND
+  Thailand: THB
+  Malaysia: MYR
+  Singapore: SGD
+  Indonesia: IDR
+  Philippines: PHP
+
+country_aliases:
+  vn: Vietnam
+  viet nam: Vietnam
+  vietnam: Vietnam
+  th: Thailand
+  thai: Thailand
+  thailand: Thailand
+  my: Malaysia
+  malaysia: Malaysia
+  sg: Singapore
+  singapore: Singapore
+  id: Indonesia
+  indonesia: Indonesia
+  ph: Philippines
+  philippines: Philippines
+
+marketplace_aliases:
+  shopee: Shopee
+  lazada: Lazada
+  shopee.vn: Shopee
+  lazada.vn: Lazada
+  shopee.co.th: Shopee
+  lazada.co.th: Lazada
+  shopee.com.my: Shopee
+  lazada.com.my: Lazada
+  shopee.sg: Shopee
+  lazada.sg: Lazada
+  shopee.co.id: Shopee
+  lazada.co.id: Lazada
+  shopee.ph: Shopee
+  lazada.com.ph: Lazada
+
+# Map heterogeneous extracts onto the canonical schema.
+# First matching source column wins.
+column_aliases:
+  sku_name: [sku_name, product_name, name, title]
+  brand: [brand, brand_name]
+  category: [category, category_name, cate_name, leaf_category]
+  merchant: [merchant, seller_name, seller, shop_name]
+  price_usd: [price_usd, gmv_price_usd]
+  price_local: [price_current, price, listed_price, sale_price]
+  price_original_local: [price_original, original_price, list_price]
+  discount: [discount, discount_rate, discount_pct]
+  sold: [sold, sold_count, item_sold, historical_sold]
+  gmv_usd: [gmv_usd, gmv]
+  rating: [rating, rating_score, item_rating]
+  reviews: [reviews, review_count, rating_count]
+  month: [month, snapshot_month, date, crawl_month]
+  country: [country, location, nation]
+  marketplace: [marketplace, platform, site]
+  product_url: [product_url, url, item_url]
+  currency: [currency, ccy]
+
+required_fields:
+  - sku_name
+  - brand
+  - category
+  - price_usd
+  - month
+  - country
+  - marketplace
+
+optional_fields:
+  - merchant
+  - discount
+  - sold
+  - gmv_usd
+  - rating
+  - reviews
+
+validation:
+  min_price_usd: 0.05
+  max_price_usd: 50000.0
+  min_rating: 0.0
+  max_rating: 5.0
+  min_discount: 0.0
+  max_discount: 0.95
+  drop_invalid_prices: true
+  drop_duplicates: true
+  flag_statistical_outliers: true
+  outlier_log_iqr_multiplier: 3.0
+
+temporal:
+  train_months: ["2026-03", "2026-04", "2026-05"]
+  test_months: ["2026-06"]
+  preferred_window: ["2026-03", "2026-04", "2026-05", "2026-06"]
+
+similarity:
+  ngram_range: [1, 2]
+  min_df: 2
+  max_features: 50000
+  top_k: 25
+  min_cosine: 0.15
+
+competitor:
+  volume_weight: log1p_sold
+  min_competitors: 3
+
+pricing:
+  strategies: [competitive, balanced, premium]
+  market_anchor_competitor_weight: 0.60
+  market_anchor_model_weight: 0.40
+  default_strategy: balanced
+
+mock:
+  seed: 42
+  n_base_skus: 80
+  n_merchants: 18
+  months: ["2026-03", "2026-04", "2026-05", "2026-06"]
+  mark_as_mock: true

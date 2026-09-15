@@ -1,0 +1,2 @@
+# Convenience pointer. Canonical configuration lives in configs/config.yaml.
+extends: configs/config.yaml
