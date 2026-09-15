@@ -1,6 +1,4 @@
-"""Ingest heterogeneous marketplace extracts into a canonical product table.
-
-Responsibilities:
+"""
     1. Load CSV or Parquet.
     2. Map source columns via config aliases (never assume Magpie names).
     3. Normalize country / marketplace / category / text.
@@ -9,10 +7,7 @@ Responsibilities:
     6. Drop only *invalid* prices/dates — flag statistical outliers instead of
        deleting premium, bundle, or flash-sale listings.
     7. Persist cleaned parquet for later stages.
-
-This module does not train models and does not look at future periods.
 """
-
 from __future__ import annotations
 
 from pathlib import Path
