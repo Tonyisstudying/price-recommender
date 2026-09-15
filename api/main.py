@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-form .route import router
+from .routes import router
 
 app = FastAPI(
     title="SEA E-commerce Intelligent Pricing Engine",
