@@ -1,11 +1,56 @@
 from __future__ import annotations
 
 from pathlib import Path
-import numpy as np
 import pandas as pd
 
 from .utils import clean_text
 from .validation import validate_schema, validate_business_rules
+
+COLUMN_ALIASES = {
+    "product_name": "sku_name",
+    "title": "sku_name",
+    "name": "sku_name",
+    "product_title": "sku_name",
+    "product": "sku_name",
+    "sale_price": "price_usd",
+    "price": "price_usd",
+    "selling_price": "price_usd",
+    "cost_price": "cost_usd",
+    "seller": "merchant",
+    "seller_name": "merchant",
+    "store": "merchant",
+    "store_name": "merchant",
+    "brand_name": "brand",
+    "product_category": "category",
+    "category_name": "category",
+    "sold_count": "sold",
+    "units_sold": "sold",
+    "sales": "sold",
+    "review_count": "reviews",
+    "review_num": "reviews",
+    "rating_count": "reviews",
+    "date": "month",
+    "month_date": "month",
+    "period": "month",
+    "market": "country",
+    "country_name": "country",
+    "platform": "marketplace",
+    "site": "marketplace",
+    "platform_name": "marketplace",
+}
+
+def normalize_column_names(df: pd.DataFrame) -> pd.DataFrame:
+    """Map common external-source column names to the internal schema."""
+    out = df.copy()
+    renamed = {}
+    normalized_existing = {c.strip().lower(): c for c in out.columns}
+    for alias, canonical in COLUMN_ALIASES.items():
+        actual = normalized_existing.get(alias)
+        if actual is not None and canonical not in out.columns:
+            renamed[actual] = canonical
+    if renamed:
+        out = out.rename(columns=renamed)
+    return out
 
 NUMERIC_COLUMNS = [
     "price_usd",
