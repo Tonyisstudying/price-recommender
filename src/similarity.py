@@ -16,6 +16,13 @@ class SimilarityEngine:
 
     @classmethod
     def fit(cls, df: pd.DataFrame) -> "SimilarityEngine":
+        df = df.copy()
+        if "product_name_clean" not in df:
+            names = df["product_name"] if "product_name" in df else pd.Series("", index=df.index)
+            df["product_name_clean"] = names.fillna("").astype(str).str.lower()
+        if "brand_clean" not in df:
+            brands = df["brand_name"] if "brand_name" in df else pd.Series("", index=df.index)
+            df["brand_clean"] = brands.fillna("").astype(str).str.lower()
         corpus = (
             df["product_name_clean"].fillna("") + " " +
             df["brand_clean"].fillna("") + " " +
@@ -40,6 +47,7 @@ class SimilarityEngine:
         category: str,
         country: str,
         marketplace: str,
+        snapshot_date: pd.Timestamp | None = None,
         top_k: int = 30,
         min_similarity: float = 0.20,
     ) -> pd.DataFrame:
@@ -61,7 +69,8 @@ class SimilarityEngine:
         sim = cosine_similarity(self._query(product_name, brand, category), self.matrix[positions]).ravel()
         pool["similarity"] = sim
         if brand:
-            same = pool["brand"].str.lower().str.strip() == brand.lower().strip()
+            brand_col = "brand_name" if "brand_name" in pool else "brand"
+            same = pool[brand_col].fillna("").str.lower().str.strip() == brand.lower().strip()
             pool.loc[same, "similarity"] += 0.10
         return pool[pool["similarity"] >= min_similarity].sort_values("similarity", ascending=False).head(top_k).reset_index(drop=True)
 

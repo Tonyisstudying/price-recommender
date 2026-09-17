@@ -33,6 +33,21 @@ def optimize_price(
     for price in prices:
         row = base_row.copy()
         row["price_usd"] = price
+        model_features = getattr(demand_model, "feature_names_in_", None)
+        if model_features is not None:
+            compatible = row.copy()
+            aliases = {
+                "brand": "brand_name",
+                "rating": "rating_score",
+                "discount": "discount_rate",
+                "competitor_p25": "competitor_p25_usd",
+                "competitor_median": "competitor_median_usd",
+                "competitor_p75": "competitor_p75_usd",
+            }
+            for target, source in aliases.items():
+                if target in model_features and target not in compatible:
+                    compatible[target] = compatible[source]
+            row = compatible[list(model_features)]
         predicted_demand = float(demand_model.predict(row)[0])
         predicted_demand = max(predicted_demand, 0.0)
         profit = (price - cost) * predicted_demand

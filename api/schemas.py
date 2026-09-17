@@ -11,6 +11,7 @@ class PricingRequest(BaseModel):
     category: str = Field(min_length=2)
     product_name: str = Field(min_length=2)
     brand: str = ""
+    currency: str = ""
     cost: float = Field(gt=0)
     target_margin: float = Field(gt=0, lt=1)
     strategy: Strategy = "balanced"

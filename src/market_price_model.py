@@ -50,9 +50,32 @@ def train_model(train_df: pd.DataFrame):
 
 
 def predict_usd(model, df: pd.DataFrame) -> np.ndarray:
+    def bounded(values: np.ndarray) -> np.ndarray:
+        median = pd.to_numeric(df.get("competitor_median_usd", 0), errors="coerce").to_numpy()
+        upper = np.where(median > 0, median * 3.0, np.inf)
+        return np.minimum(np.maximum(values, 0), upper)
+
+    # Support artifacts produced by the pre-canonical feature contract.
+    if getattr(model, "feature_names_", None) and "brand" in model.feature_names_:
+        legacy = pd.DataFrame(index=df.index)
+        legacy["country"] = df.get("country", "Unknown").astype(str)
+        legacy["marketplace"] = df.get("marketplace", "Unknown").astype(str)
+        legacy["category"] = df.get("category", "Unknown").astype(str)
+        legacy["brand"] = df.get("brand_name", df.get("brand", "Unknown")).astype(str)
+        legacy["rating"] = pd.to_numeric(df.get("rating_score", 0), errors="coerce").fillna(0)
+        legacy["log_reviews"] = np.log1p(pd.to_numeric(df.get("review_count", 0), errors="coerce").fillna(0))
+        legacy["log_sold"] = np.log1p(pd.to_numeric(df.get("sold_count", 0), errors="coerce").fillna(0))
+        legacy["discount"] = pd.to_numeric(df.get("discount_rate", 0), errors="coerce").fillna(0)
+        dates = df["snapshot_date"] if "snapshot_date" in df else pd.Series(pd.NaT, index=df.index)
+        legacy["month_num"] = pd.to_datetime(dates, errors="coerce").dt.month.fillna(0)
+        legacy["competitor_p25"] = df.get("competitor_p25_usd", 0)
+        legacy["competitor_median"] = df.get("competitor_median_usd", 0)
+        legacy["competitor_p75"] = df.get("competitor_p75_usd", 0)
+        legacy["competitor_count"] = df.get("competitor_count", 0)
+        return bounded(np.expm1(model.predict(legacy[model.feature_names_])))
     frame = prepare_frame(df)
     x = frame[CATEGORICAL + NUMERIC]
-    return np.maximum(np.expm1(model.predict(x)), 0)
+    return bounded(np.expm1(model.predict(x)))
 
 
 def evaluate(model, test_df: pd.DataFrame) -> dict:

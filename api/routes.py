@@ -19,13 +19,13 @@ from .schemas import PricingRequest, PricingResponse
 
 router = APIRouter(prefix="/api/v1", tags=["pricing"])
 
-DATA_PATH = ROOT / CONFIG["data"]["processed_path"]
-MODEL_DIR = ROOT / CONFIG["model"]["model_dir"]
-MARKET_MODEL_PATH = MODEL_DIR / CONFIG["model"]["market_price_model"]
-DEMAND_MODEL_PATH = MODEL_DIR / CONFIG["model"]["demand_model"]
-VECTORIZER_PATH = MODEL_DIR / CONFIG["model"]["tfidf_vectorizer"]
+DATA_PATH = ROOT / CONFIG["paths"].get("cleaned_parquet", "data/processed/cleaned_products.csv")
+MODEL_DIR = ROOT / CONFIG["paths"]["models_dir"]
+MARKET_MODEL_PATH = MODEL_DIR / "market_price_model.joblib"
+DEMAND_MODEL_PATH = MODEL_DIR / "demand_model.joblib"
+VECTORIZER_PATH = MODEL_DIR / "tfidf_vectorizer.joblib"
 
-REGISTRY = ModelRegistry(ROOT / CONFIG["model"]["registry_dir"])
+REGISTRY = ModelRegistry(ROOT / CONFIG["paths"].get("registry_dir", "models/registry"))
 _CACHE = {"version": None, "data": None, "similarity": None, "market": None, "demand": None, "metadata": None}
 _CACHE_LOCK = Lock()
 
@@ -37,23 +37,22 @@ DEMAND_MODEL = None
 
 def _load_production_bundle() -> None:
     current = REGISTRY.get_current()
-    if not current:
-        raise RuntimeError("No promoted model exists. Run `python train.py` first.")
-    version = current["version"]
+    version = current["version"] if current else "local"
     if _CACHE["version"] == version:
         return
     with _CACHE_LOCK:
         current = REGISTRY.get_current()
-        if not current:
-            raise RuntimeError("No promoted model exists.")
-        version = current["version"]
+        version = current["version"] if current else "local"
         if _CACHE["version"] == version:
             return
-        version_dir = REGISTRY.versions / version
+        version_dir = REGISTRY.versions / version if current else MODEL_DIR
         # Serving catalog is always the latest validated master dataset.
         # The ML artifacts remain versioned and protected by the registry.
-        master_path = ROOT / CONFIG["data"]["master_path"]
+        master_path = ROOT / CONFIG["paths"].get("cleaned_parquet", "data/processed/cleaned_products.csv")
+        if not master_path.exists():
+            master_path = ROOT / "data" / "processed" / "cleaned_products.csv"
         data = load_master_dataset(master_path)
+        data = _canonicalize_serving_data(data)
         similarity = SimilarityEngine.fit(data)
         market = load_market_model(version_dir / "market_price_model.joblib")
         demand = load_demand_model(version_dir / "demand_model.joblib")
@@ -67,6 +66,34 @@ def _load_production_bundle() -> None:
             "demand": demand,
             "metadata": metadata,
         })
+
+
+def _canonicalize_serving_data(data: pd.DataFrame) -> pd.DataFrame:
+    """Accept both the current canonical schema and legacy processed exports."""
+    out = data.copy()
+    renames = {
+        "sku_name": "product_name",
+        "brand": "brand_name",
+        "merchant": "seller_name",
+        "price_usd": "price_current_usd",
+        "sold": "sold_count",
+        "reviews": "review_count",
+        "rating": "rating_score",
+    }
+    out = out.rename(columns={old: new for old, new in renames.items() if old in out})
+    if "snapshot_date" not in out:
+        out["snapshot_date"] = pd.to_datetime(out.get("month"), errors="coerce")
+    if "price_current_local" not in out:
+        out["price_current_local"] = out["price_current_usd"]
+    if "discount_rate" not in out:
+        out["discount_rate"] = pd.to_numeric(out.get("discount", 0), errors="coerce").fillna(0)
+    if "currency" not in out:
+        out["currency"] = out["country"].map(CONFIG["country_currency"]).fillna("USD")
+    if "product_name_clean" not in out:
+        out["product_name_clean"] = out["product_name"].fillna("").astype(str).str.lower()
+    if "brand_clean" not in out:
+        out["brand_clean"] = out["brand_name"].fillna("").astype(str).str.lower()
+    return out
 
 
 def ensure_loaded() -> None:
@@ -91,8 +118,8 @@ def model_info() -> dict:
         "market_model": _CACHE["market"].__class__.__name__,
         "demand_model": _CACHE["demand"].__class__.__name__,
         "data_rows": int(len(data)),
-        "date_min": str(data["snapshot_date"].min().date()),
-        "date_max": str(data["snapshot_date"].max().date()),
+        "date_min": str(pd.to_datetime(data["snapshot_date"]).min().date()),
+        "date_max": str(pd.to_datetime(data["snapshot_date"]).max().date()),
         "model_dataset_fingerprint": current.get("dataset_fingerprint"),
         "serving_dataset_fingerprint": dataset_fingerprint(data),
     }
@@ -106,11 +133,13 @@ def recommend(request: PricingRequest) -> PricingResponse:
         market_model = _CACHE["market"]
         demand_model = _CACHE["demand"]
 
-        category = request.category.strip() or infer_category(request.product_name)
+        category = request.category.strip()
         currency = request.currency.upper().strip()
         if not currency:
-            currency = CONFIG["supported"]["currency_by_country"].get(request.country, "USD")
-        fx = CONFIG["supported"]["fx_to_usd"].get(currency)
+            # Costs in the public API contract are USD unless a currency is
+            # explicitly supplied; this keeps the example request unit-safe.
+            currency = "USD"
+        fx = CONFIG["fx_to_usd"].get(currency)
         if fx is None:
             raise HTTPException(status_code=400, detail=f"Unsupported currency: {currency}")
 
@@ -168,8 +197,12 @@ def recommend(request: PricingRequest) -> PricingResponse:
             stats=local_stats,
             predicted_market_price=predicted_market_local,
             strategy=request.strategy,
-            market_weight=float(CONFIG["pricing"]["market_weight"]),
-            ml_weight=float(CONFIG["pricing"]["ml_weight"]),
+            market_weight=float(CONFIG["pricing"].get(
+                "market_weight", CONFIG["pricing"].get("market_anchor_competitor_weight", 0.60)
+            )),
+            ml_weight=float(CONFIG["pricing"].get(
+                "ml_weight", CONFIG["pricing"].get("market_anchor_model_weight", 0.40)
+            )),
         )
 
         demand_row = prepare_demand_frame(row)
@@ -190,9 +223,9 @@ def recommend(request: PricingRequest) -> PricingResponse:
             demand_model=demand_model,
             base_row=demand_base,
             strategy_price=strategy_usd,
-            grid_points=int(CONFIG["pricing"]["price_grid_points"]),
+            grid_points=int(CONFIG["pricing"].get("price_grid_points", 80)),
             competitor_p90=stats["p90"] * fx,
-            max_competitor_multiple=float(CONFIG["pricing"]["max_competitor_multiple"]),
+            max_competitor_multiple=float(CONFIG["pricing"].get("max_competitor_multiple", 1.20)),
         )
 
         comparable = competitors[[
