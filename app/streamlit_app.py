@@ -6,7 +6,10 @@ import pandas as pd
 import streamlit as st
 import matplotlib.pyplot as plt
 
-API_URL = os.getenv("PRICING_API_URL", "http://127.0.0.1:8000")
+API_URL = os.getenv(
+    "PRICING_API_URL",
+    "https://sea-price-recommender.onrender.com",
+).rstrip("/")
 
 st.set_page_config(page_title="SEA Smart Pricing", layout="wide")
 st.title("SEA E-commerce Intelligent Pricing Engine")
