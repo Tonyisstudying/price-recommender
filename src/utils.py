@@ -12,6 +12,8 @@ def clean_text(value: Any) -> str:
     text = re.sub(r"[^a-z0-9\s]+", " ", text)
     return re.sub(r"\s+", " ", text).strip()
 
+def ensure_dir(path: Path) -> None:
+    path.mkdir(parents=True, exist_ok=True)
 
 def save_json(payload: dict, path: Path) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)

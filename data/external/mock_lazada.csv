@@ -1,0 +1,1201 @@
+product_id,product_name,brand_id,brand_name,seller_id,seller_name,price_current,price_original,sold_count,review_count,in_stock,rating_score,location,product_url,snapshot_date
+P-Ne-Co-0,Nestle Coffee,B-Nestle,Nestle,S-19,Nestle Official Store,194548.11,206937.95,4456,1487,True,4.87,Malaysia,,2026-03-01
+P-Ne-Ch-1,Nestle Chocolate Drink,B-Nestle,Nestle,S-24,Nestle Official Store,156068.97,161655.5,2463,1220,True,4.99,Thailand,,2026-03-01
+P-Lo-Ke-2,Logitech Keyboard,B-Logitech,Logitech,S-16,Logitech Official Store,634313.72,655288.18,1836,194,True,4.09,Thailand,,2026-03-01
+P-An-Ch-3,Anker Charger,B-Anker,Anker,S-7,Anker Official Store,483794.65,499762.83,2918,2219,True,4.01,Vietnam,,2026-03-01
+P-Lo-Ke-4,Logitech Keyboard,B-Logitech,Logitech,S-28,Logitech Official Store,835817.37,906569.53,1508,780,True,4.03,Thailand,,2026-03-01
+P-Lo-Ke-5,Logitech Keyboard,B-Logitech,Logitech,S-42,Logitech Official Store,846621.01,964338.28,3873,1505,True,4.97,Thailand,,2026-03-01
+P-Pa-Se-6,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-8,Paula's Choice Official Store,923925.43,1180891.99,3828,1280,True,4.05,Thailand,,2026-03-01
+P-JB-He-7,JBL Headphones,B-JBL,JBL,S-24,JBL Official Store,1778579.4,2082918.87,4023,2269,True,4.28,Thailand,,2026-03-01
+P-Ne-Co-8,Nestle Coffee,B-Nestle,Nestle,S-9,Nestle Official Store,162673.72,166639.41,2057,1500,True,4.01,Vietnam,,2026-03-01
+P-An-Po-9,Anker Power Bank,B-Anker,Anker,S-5,Anker Official Store,658181.87,816967.68,3591,2283,True,4.65,Malaysia,,2026-03-01
+P-Ne-Ch-10,Nestle Chocolate Drink,B-Nestle,Nestle,S-23,Nestle Official Store,108478.94,112579.05,3675,1756,True,4.67,Vietnam,,2026-03-01
+P-Ne-Ce-11,Nestle Cereal,B-Nestle,Nestle,S-35,Nestle Official Store,171159.0,201479.5,2720,1033,True,4.56,Malaysia,,2026-03-01
+P-An-Po-12,Anker Power Bank,B-Anker,Anker,S-32,Anker Official Store,667302.67,700807.67,2820,568,True,4.56,Malaysia,,2026-03-01
+P-Ne-Ce-13,Nestle Cereal,B-Nestle,Nestle,S-45,Nestle Official Store,148908.44,162280.69,1708,545,True,4.23,Vietnam,,2026-03-01
+P-An-Ch-14,Anker Charger,B-Anker,Anker,S-6,Anker Official Store,466106.75,514012.01,4921,1056,True,4.22,Thailand,,2026-03-01
+P-Ne-Ce-15,Nestle Cereal,B-Nestle,Nestle,S-28,Nestle Official Store,167039.61,195606.02,3332,2242,True,4.11,Thailand,,2026-03-01
+P-Lo-We-16,Logitech Webcam,B-Logitech,Logitech,S-37,Logitech Official Store,990915.1,1158919.84,4809,668,True,4.94,Thailand,,2026-03-01
+P-Lo-Wi-17,Logitech Wireless Mouse,B-Logitech,Logitech,S-12,Logitech Official Store,470507.04,607941.66,3611,1641,True,4.28,Thailand,,2026-03-01
+P-Lo-We-18,Logitech Webcam,B-Logitech,Logitech,S-32,Logitech Official Store,1091534.84,1123466.82,3504,1666,True,4.14,Vietnam,,2026-03-01
+P-Ne-Ce-19,Nestle Cereal,B-Nestle,Nestle,S-4,Nestle Official Store,156338.51,170061.19,3540,207,True,4.37,Thailand,,2026-03-01
+P-Lo-We-20,Logitech Webcam,B-Logitech,Logitech,S-11,Logitech Official Store,1301666.67,1558600.47,3612,2196,True,4.84,Thailand,,2026-03-01
+P-Ne-Ch-21,Nestle Chocolate Drink,B-Nestle,Nestle,S-3,Nestle Official Store,109871.59,133475.04,689,1960,True,4.02,Thailand,,2026-03-01
+P-An-Ch-22,Anker Charger,B-Anker,Anker,S-40,Anker Official Store,412737.51,529685.25,2415,645,True,4.68,Malaysia,,2026-03-01
+P-Lo-Wi-23,Logitech Wireless Mouse,B-Logitech,Logitech,S-30,Logitech Official Store,484063.48,619075.66,3399,1639,True,4.23,Thailand,,2026-03-01
+P-Pa-Cl-24,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-37,Paula's Choice Official Store,625176.15,794736.68,4120,2061,True,4.28,Vietnam,,2026-03-01
+P-An-Ch-25,Anker Charger,B-Anker,Anker,S-24,Anker Official Store,439019.39,543666.31,4753,591,True,4.94,Thailand,,2026-03-01
+P-Ne-Ce-26,Nestle Cereal,B-Nestle,Nestle,S-16,Nestle Official Store,153180.24,185919.55,986,1709,True,4.18,Thailand,,2026-03-01
+P-Ne-Co-27,Nestle Coffee,B-Nestle,Nestle,S-20,Nestle Official Store,155544.87,172827.76,1557,1924,True,4.74,Thailand,,2026-03-01
+P-An-Po-28,Anker Power Bank,B-Anker,Anker,S-22,Anker Official Store,755356.01,905047.27,1723,2090,True,4.98,Vietnam,,2026-03-01
+P-An-US-29,Anker USB-C Cable,B-Anker,Anker,S-21,Anker Official Store,360969.09,412093.3,4923,2336,True,4.67,Malaysia,,2026-03-01
+P-Lo-Wi-30,Logitech Wireless Mouse,B-Logitech,Logitech,S-17,Logitech Official Store,698322.24,862564.23,1273,2210,True,4.95,Vietnam,,2026-03-01
+P-JB-Ea-31,JBL Earbuds,B-JBL,JBL,S-37,JBL Official Store,1394770.41,1714676.7,2357,306,True,4.97,Malaysia,,2026-03-01
+P-An-Po-32,Anker Power Bank,B-Anker,Anker,S-3,Anker Official Store,624616.62,684063.23,157,2070,True,4.56,Malaysia,,2026-03-01
+P-Pa-Mo-33,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-32,Paula's Choice Official Store,726084.38,760362.41,4044,1691,True,4.14,Thailand,,2026-03-01
+P-An-US-34,Anker USB-C Cable,B-Anker,Anker,S-48,Anker Official Store,277938.94,294129.98,2836,542,True,4.81,Thailand,,2026-03-01
+P-Lo-Wi-35,Logitech Wireless Mouse,B-Logitech,Logitech,S-36,Logitech Official Store,473755.6,483918.49,4810,24,True,4.65,Thailand,,2026-03-01
+P-Ne-Ch-36,Nestle Chocolate Drink,B-Nestle,Nestle,S-22,Nestle Official Store,131070.66,149783.98,4176,579,True,4.98,Malaysia,,2026-03-01
+P-Pa-Se-37,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-42,Paula's Choice Official Store,856852.42,934029.45,4963,1082,True,4.54,Thailand,,2026-03-01
+P-JB-He-38,JBL Headphones,B-JBL,JBL,S-30,JBL Official Store,1850121.78,1987819.7,4172,273,True,4.97,Vietnam,,2026-03-01
+P-Pa-Se-39,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-19,Paula's Choice Official Store,883813.84,1098273.15,3705,1086,True,4.08,Malaysia,,2026-03-01
+P-JB-Ea-40,JBL Earbuds,B-JBL,JBL,S-1,JBL Official Store,1377384.14,1670463.9,1111,638,True,4.16,Vietnam,,2026-03-01
+P-Pa-Se-41,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-40,Paula's Choice Official Store,818255.11,998342.31,3373,1217,True,4.74,Thailand,,2026-03-01
+P-JB-Ea-42,JBL Earbuds,B-JBL,JBL,S-37,JBL Official Store,1166663.35,1306280.7,2774,1248,True,4.05,Vietnam,,2026-03-01
+P-Lo-Ke-43,Logitech Keyboard,B-Logitech,Logitech,S-5,Logitech Official Store,802015.76,1038019.28,2989,2270,True,4.76,Thailand,,2026-03-01
+P-JB-Bl-44,JBL Bluetooth Speaker,B-JBL,JBL,S-5,JBL Official Store,2319519.67,2397122.67,2879,2494,True,4.5,Vietnam,,2026-03-01
+P-JB-He-45,JBL Headphones,B-JBL,JBL,S-28,JBL Official Store,1507111.39,1935719.48,925,2212,True,4.94,Malaysia,,2026-03-01
+P-Ne-Ce-46,Nestle Cereal,B-Nestle,Nestle,S-37,Nestle Official Store,139326.38,163398.18,3943,1071,True,4.2,Malaysia,,2026-03-01
+P-JB-Bl-47,JBL Bluetooth Speaker,B-JBL,JBL,S-35,JBL Official Store,2319020.23,2377232.53,2804,94,True,4.32,Thailand,,2026-03-01
+P-Pa-Se-48,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-45,Paula's Choice Official Store,775731.97,898988.4,3176,417,True,4.04,Thailand,,2026-03-01
+P-Lo-Wi-49,Logitech Wireless Mouse,B-Logitech,Logitech,S-10,Logitech Official Store,452890.3,497712.71,2534,2244,True,4.58,Vietnam,,2026-03-01
+P-An-US-50,Anker USB-C Cable,B-Anker,Anker,S-37,Anker Official Store,230708.86,295448.55,3881,1553,True,4.74,Vietnam,,2026-03-01
+P-An-Po-51,Anker Power Bank,B-Anker,Anker,S-20,Anker Official Store,804734.82,1024197.93,758,1370,True,4.3,Thailand,,2026-03-01
+P-An-Po-52,Anker Power Bank,B-Anker,Anker,S-19,Anker Official Store,727766.53,936031.48,3607,1395,True,4.08,Vietnam,,2026-03-01
+P-JB-Bl-53,JBL Bluetooth Speaker,B-JBL,JBL,S-21,JBL Official Store,1772107.47,2082291.59,3666,1172,True,4.79,Vietnam,,2026-03-01
+P-JB-He-54,JBL Headphones,B-JBL,JBL,S-9,JBL Official Store,1989023.11,2568271.48,983,1547,True,4.43,Thailand,,2026-03-01
+P-Pa-Cl-55,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-2,Paula's Choice Official Store,682336.07,866383.35,1570,2081,True,4.08,Thailand,,2026-03-01
+P-An-Po-56,Anker Power Bank,B-Anker,Anker,S-45,Anker Official Store,673842.28,858579.0,1185,1832,True,4.38,Vietnam,,2026-03-01
+P-An-Po-57,Anker Power Bank,B-Anker,Anker,S-10,Anker Official Store,739588.01,900391.92,3632,43,True,4.43,Thailand,,2026-03-01
+P-JB-He-58,JBL Headphones,B-JBL,JBL,S-41,JBL Official Store,1474210.39,1552740.13,1988,2439,True,4.58,Thailand,,2026-03-01
+P-Lo-We-59,Logitech Webcam,B-Logitech,Logitech,S-33,Logitech Official Store,1093656.56,1140912.99,163,2110,True,4.01,Vietnam,,2026-03-01
+P-JB-He-60,JBL Headphones,B-JBL,JBL,S-37,JBL Official Store,1613429.36,2094279.94,1280,1687,True,4.97,Malaysia,,2026-03-01
+P-Pa-Mo-61,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-15,Paula's Choice Official Store,877708.41,948545.23,3516,1401,True,4.7,Vietnam,,2026-03-01
+P-An-Ch-62,Anker Charger,B-Anker,Anker,S-8,Anker Official Store,442328.84,464397.38,1175,1376,True,4.65,Vietnam,,2026-03-01
+P-Pa-Se-63,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-27,Paula's Choice Official Store,837417.04,1082638.33,2538,929,True,4.13,Vietnam,,2026-03-01
+P-An-Po-64,Anker Power Bank,B-Anker,Anker,S-45,Anker Official Store,597439.1,765417.45,1045,1829,True,4.78,Thailand,,2026-03-01
+P-Pa-Mo-65,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-26,Paula's Choice Official Store,971721.24,1093659.54,4188,1245,True,4.97,Vietnam,,2026-03-01
+P-An-Po-66,Anker Power Bank,B-Anker,Anker,S-5,Anker Official Store,718612.53,840501.4,1490,718,True,4.85,Vietnam,,2026-03-01
+P-Lo-Wi-67,Logitech Wireless Mouse,B-Logitech,Logitech,S-1,Logitech Official Store,471765.96,508286.63,4176,689,True,4.61,Thailand,,2026-03-01
+P-Lo-Wi-68,Logitech Wireless Mouse,B-Logitech,Logitech,S-34,Logitech Official Store,452714.16,546897.04,4563,2170,True,4.83,Thailand,,2026-03-01
+P-Pa-Cl-69,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-30,Paula's Choice Official Store,626725.49,809123.07,4888,1853,True,4.59,Thailand,,2026-03-01
+P-JB-He-70,JBL Headphones,B-JBL,JBL,S-34,JBL Official Store,1425058.43,1507974.04,1359,2150,True,4.64,Thailand,,2026-03-01
+P-An-Ch-71,Anker Charger,B-Anker,Anker,S-38,Anker Official Store,488614.46,597766.62,1388,1024,True,4.3,Malaysia,,2026-03-01
+P-Pa-Mo-72,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-24,Paula's Choice Official Store,778623.59,850497.11,4194,2105,True,4.35,Vietnam,,2026-03-01
+P-An-Ch-73,Anker Charger,B-Anker,Anker,S-23,Anker Official Store,495127.96,515547.89,3475,1940,True,4.64,Malaysia,,2026-03-01
+P-Ne-Co-74,Nestle Coffee,B-Nestle,Nestle,S-19,Nestle Official Store,180946.46,233868.03,4729,686,True,4.18,Malaysia,,2026-03-01
+P-JB-Ea-75,JBL Earbuds,B-JBL,JBL,S-12,JBL Official Store,1592514.28,1862666.15,2423,1973,True,4.5,Vietnam,,2026-03-01
+P-JB-Bl-76,JBL Bluetooth Speaker,B-JBL,JBL,S-30,JBL Official Store,1791031.2,2171768.11,4232,52,True,4.06,Vietnam,,2026-03-01
+P-Pa-Cl-77,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-15,Paula's Choice Official Store,583449.84,692693.74,332,643,True,4.92,Vietnam,,2026-03-01
+P-Pa-Mo-78,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-7,Paula's Choice Official Store,950216.68,978980.97,1676,923,True,4.51,Thailand,,2026-03-01
+P-Ne-Co-79,Nestle Coffee,B-Nestle,Nestle,S-35,Nestle Official Store,174700.4,200080.09,1936,1220,True,4.27,Thailand,,2026-03-01
+P-JB-Ea-80,JBL Earbuds,B-JBL,JBL,S-44,JBL Official Store,1232593.79,1370273.6,4662,2197,True,4.34,Malaysia,,2026-03-01
+P-Lo-Ke-81,Logitech Keyboard,B-Logitech,Logitech,S-18,Logitech Official Store,785807.26,944281.32,2188,2280,True,4.54,Malaysia,,2026-03-01
+P-Pa-Mo-82,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-26,Paula's Choice Official Store,613012.76,683193.6,1791,1980,True,4.5,Vietnam,,2026-03-01
+P-JB-He-83,JBL Headphones,B-JBL,JBL,S-21,JBL Official Store,1818657.1,1858866.92,1763,1610,True,4.25,Vietnam,,2026-03-01
+P-Ne-Ce-84,Nestle Cereal,B-Nestle,Nestle,S-15,Nestle Official Store,153164.31,195571.03,675,122,True,4.26,Malaysia,,2026-03-01
+P-An-US-85,Anker USB-C Cable,B-Anker,Anker,S-11,Anker Official Store,278775.15,340431.31,1171,1815,True,4.2,Vietnam,,2026-03-01
+P-Ne-Co-86,Nestle Coffee,B-Nestle,Nestle,S-11,Nestle Official Store,202645.07,211650.87,2056,2311,True,4.05,Malaysia,,2026-03-01
+P-Pa-Se-87,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-44,Paula's Choice Official Store,986436.83,1023669.88,2090,1196,True,4.81,Vietnam,,2026-03-01
+P-Lo-We-88,Logitech Webcam,B-Logitech,Logitech,S-31,Logitech Official Store,1465352.13,1820555.01,1634,2370,True,4.75,Vietnam,,2026-03-01
+P-Pa-Se-89,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-9,Paula's Choice Official Store,837034.28,1025068.08,2665,1575,True,4.93,Vietnam,,2026-03-01
+P-Ne-Co-90,Nestle Coffee,B-Nestle,Nestle,S-21,Nestle Official Store,167605.82,178638.25,2928,82,True,4.52,Malaysia,,2026-03-01
+P-Ne-Co-91,Nestle Coffee,B-Nestle,Nestle,S-18,Nestle Official Store,193167.23,228850.21,2373,1868,True,4.44,Vietnam,,2026-03-01
+P-An-Po-92,Anker Power Bank,B-Anker,Anker,S-17,Anker Official Store,529492.04,625698.71,1278,507,True,4.53,Thailand,,2026-03-01
+P-JB-Bl-93,JBL Bluetooth Speaker,B-JBL,JBL,S-6,JBL Official Store,2157786.77,2271569.99,2656,2443,True,4.73,Malaysia,,2026-03-01
+P-Pa-Mo-94,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-36,Paula's Choice Official Store,841535.12,1068993.58,2234,1125,True,4.71,Malaysia,,2026-03-01
+P-An-Ch-95,Anker Charger,B-Anker,Anker,S-22,Anker Official Store,590949.59,608317.06,1887,521,True,4.88,Vietnam,,2026-03-01
+P-Lo-Ke-96,Logitech Keyboard,B-Logitech,Logitech,S-15,Logitech Official Store,649277.37,745344.49,3258,2099,True,4.41,Thailand,,2026-03-01
+P-JB-Ea-97,JBL Earbuds,B-JBL,JBL,S-36,JBL Official Store,1518266.59,1821193.17,823,1839,True,4.6,Malaysia,,2026-03-01
+P-Ne-Ch-98,Nestle Chocolate Drink,B-Nestle,Nestle,S-47,Nestle Official Store,132688.7,150235.24,375,2354,True,4.61,Thailand,,2026-03-01
+P-Pa-Cl-99,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-33,Paula's Choice Official Store,718553.53,753203.97,1669,832,True,4.59,Thailand,,2026-03-01
+P-Ne-Co-100,Nestle Coffee,B-Nestle,Nestle,S-9,Nestle Official Store,163710.55,193401.21,4176,1435,True,4.12,Vietnam,,2026-03-01
+P-JB-He-101,JBL Headphones,B-JBL,JBL,S-23,JBL Official Store,1693131.6,2124696.39,2902,1859,True,4.31,Thailand,,2026-03-01
+P-An-Ch-102,Anker Charger,B-Anker,Anker,S-26,Anker Official Store,532140.37,573414.43,604,2296,True,4.54,Vietnam,,2026-03-01
+P-An-US-103,Anker USB-C Cable,B-Anker,Anker,S-27,Anker Official Store,230122.78,264732.34,447,2399,True,4.45,Thailand,,2026-03-01
+P-An-Ch-104,Anker Charger,B-Anker,Anker,S-6,Anker Official Store,436923.63,506631.72,3602,1884,True,4.31,Malaysia,,2026-03-01
+P-JB-Bl-105,JBL Bluetooth Speaker,B-JBL,JBL,S-28,JBL Official Store,1742045.22,2085287.36,3150,971,True,4.98,Malaysia,,2026-03-01
+P-Lo-Wi-106,Logitech Wireless Mouse,B-Logitech,Logitech,S-7,Logitech Official Store,506634.81,542935.0,1822,1764,True,4.07,Thailand,,2026-03-01
+P-An-Ch-107,Anker Charger,B-Anker,Anker,S-30,Anker Official Store,515328.99,576049.36,2362,433,True,4.38,Malaysia,,2026-03-01
+P-An-US-108,Anker USB-C Cable,B-Anker,Anker,S-28,Anker Official Store,242466.52,282917.04,2191,1706,True,4.77,Vietnam,,2026-03-01
+P-Ne-Co-109,Nestle Coffee,B-Nestle,Nestle,S-3,Nestle Official Store,215602.41,224472.49,4925,782,True,4.27,Vietnam,,2026-03-01
+P-Pa-Cl-110,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-3,Paula's Choice Official Store,630273.79,740245.43,2520,1795,True,4.02,Malaysia,,2026-03-01
+P-Lo-We-111,Logitech Webcam,B-Logitech,Logitech,S-33,Logitech Official Store,1243866.37,1330927.69,3705,1292,True,4.1,Vietnam,,2026-03-01
+P-An-Po-112,Anker Power Bank,B-Anker,Anker,S-7,Anker Official Store,646913.34,822210.05,4455,779,True,4.74,Thailand,,2026-03-01
+P-JB-Bl-113,JBL Bluetooth Speaker,B-JBL,JBL,S-29,JBL Official Store,1608503.08,2035406.78,4207,518,True,4.91,Vietnam,,2026-03-01
+P-JB-Bl-114,JBL Bluetooth Speaker,B-JBL,JBL,S-20,JBL Official Store,1703636.77,1754036.94,834,938,True,4.77,Thailand,,2026-03-01
+P-Lo-Ke-115,Logitech Keyboard,B-Logitech,Logitech,S-22,Logitech Official Store,968609.16,1067843.56,1417,1308,True,4.11,Vietnam,,2026-03-01
+P-An-US-116,Anker USB-C Cable,B-Anker,Anker,S-14,Anker Official Store,240128.72,246442.04,4646,241,True,4.4,Malaysia,,2026-03-01
+P-Lo-Ke-117,Logitech Keyboard,B-Logitech,Logitech,S-4,Logitech Official Store,999006.87,1252535.3,471,2081,True,4.17,Thailand,,2026-03-01
+P-JB-Bl-118,JBL Bluetooth Speaker,B-JBL,JBL,S-25,JBL Official Store,1480286.29,1739587.8,4713,1627,True,4.11,Thailand,,2026-03-01
+P-JB-Bl-119,JBL Bluetooth Speaker,B-JBL,JBL,S-27,JBL Official Store,1923238.15,2105214.08,4293,614,True,4.6,Vietnam,,2026-03-01
+P-Lo-Wi-120,Logitech Wireless Mouse,B-Logitech,Logitech,S-46,Logitech Official Store,576485.09,653288.37,4255,1850,True,4.74,Malaysia,,2026-03-01
+P-An-Po-121,Anker Power Bank,B-Anker,Anker,S-21,Anker Official Store,721936.3,785970.43,3880,1324,True,4.44,Malaysia,,2026-03-01
+P-Ne-Co-122,Nestle Coffee,B-Nestle,Nestle,S-47,Nestle Official Store,192834.61,222395.02,2741,762,True,4.14,Malaysia,,2026-03-01
+P-Lo-Ke-123,Logitech Keyboard,B-Logitech,Logitech,S-35,Logitech Official Store,688701.2,753049.26,3950,369,True,4.15,Malaysia,,2026-03-01
+P-Lo-Ke-124,Logitech Keyboard,B-Logitech,Logitech,S-42,Logitech Official Store,846438.66,1026520.74,4150,1067,True,4.08,Thailand,,2026-03-01
+P-Pa-Cl-125,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-34,Paula's Choice Official Store,803894.82,881230.01,2352,1641,True,4.09,Malaysia,,2026-03-01
+P-An-Po-126,Anker Power Bank,B-Anker,Anker,S-12,Anker Official Store,758034.43,883840.99,1371,220,True,4.76,Vietnam,,2026-03-01
+P-JB-He-127,JBL Headphones,B-JBL,JBL,S-16,JBL Official Store,1806191.72,2208518.99,739,1228,True,4.25,Malaysia,,2026-03-01
+P-Lo-We-128,Logitech Webcam,B-Logitech,Logitech,S-7,Logitech Official Store,1213523.79,1249328.65,4262,1526,True,4.42,Malaysia,,2026-03-01
+P-JB-Ea-129,JBL Earbuds,B-JBL,JBL,S-39,JBL Official Store,1422667.96,1794513.45,3072,406,True,4.52,Malaysia,,2026-03-01
+P-Lo-Ke-130,Logitech Keyboard,B-Logitech,Logitech,S-3,Logitech Official Store,947196.82,1093725.64,3013,187,True,4.4,Malaysia,,2026-03-01
+P-Lo-Wi-131,Logitech Wireless Mouse,B-Logitech,Logitech,S-18,Logitech Official Store,392751.83,435660.24,4141,497,True,4.62,Thailand,,2026-03-01
+P-Pa-Mo-132,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-35,Paula's Choice Official Store,787739.93,1010622.24,843,33,True,4.77,Malaysia,,2026-03-01
+P-JB-Ea-133,JBL Earbuds,B-JBL,JBL,S-16,JBL Official Store,1590947.71,1836492.62,3541,1776,True,4.98,Vietnam,,2026-03-01
+P-Pa-Se-134,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-49,Paula's Choice Official Store,931533.02,1141161.58,2080,1170,True,4.3,Vietnam,,2026-03-01
+P-Pa-Se-135,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-48,Paula's Choice Official Store,700762.23,830368.48,734,2003,True,4.43,Thailand,,2026-03-01
+P-Lo-Wi-136,Logitech Wireless Mouse,B-Logitech,Logitech,S-46,Logitech Official Store,490154.84,620611.08,3445,15,True,4.9,Malaysia,,2026-03-01
+P-Pa-Cl-137,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-8,Paula's Choice Official Store,588691.44,763843.17,914,1394,True,4.23,Malaysia,,2026-03-01
+P-Pa-Cl-138,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-23,Paula's Choice Official Store,687594.99,822595.89,2766,1549,True,4.93,Thailand,,2026-03-01
+P-Pa-Cl-139,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-35,Paula's Choice Official Store,690872.39,755030.49,2767,854,True,4.7,Vietnam,,2026-03-01
+P-An-Ch-140,Anker Charger,B-Anker,Anker,S-4,Anker Official Store,530935.51,546737.34,1963,1385,True,4.09,Thailand,,2026-03-01
+P-Lo-We-141,Logitech Webcam,B-Logitech,Logitech,S-9,Logitech Official Store,1194037.56,1261219.1,1248,925,True,4.85,Malaysia,,2026-03-01
+P-Pa-Cl-142,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-24,Paula's Choice Official Store,703450.62,734653.08,1004,42,True,4.26,Malaysia,,2026-03-01
+P-JB-Ea-143,JBL Earbuds,B-JBL,JBL,S-48,JBL Official Store,1781929.53,1858005.34,3050,800,True,4.08,Thailand,,2026-03-01
+P-Lo-Ke-144,Logitech Keyboard,B-Logitech,Logitech,S-40,Logitech Official Store,1151094.19,1439916.01,3960,2001,True,4.27,Vietnam,,2026-03-01
+P-An-Po-145,Anker Power Bank,B-Anker,Anker,S-41,Anker Official Store,656797.72,829431.99,392,1721,True,4.68,Malaysia,,2026-03-01
+P-An-US-146,Anker USB-C Cable,B-Anker,Anker,S-32,Anker Official Store,283237.46,289310.26,3538,1579,True,4.16,Malaysia,,2026-03-01
+P-Ne-Ce-147,Nestle Cereal,B-Nestle,Nestle,S-12,Nestle Official Store,148304.1,182689.59,324,1990,True,4.29,Thailand,,2026-03-01
+P-An-Po-148,Anker Power Bank,B-Anker,Anker,S-24,Anker Official Store,594605.17,712052.53,4800,1012,True,4.11,Vietnam,,2026-03-01
+P-Pa-Cl-149,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-15,Paula's Choice Official Store,710893.61,793161.21,1275,2089,True,4.1,Thailand,,2026-03-01
+P-Ne-Ce-150,Nestle Cereal,B-Nestle,Nestle,S-1,Nestle Official Store,159092.48,193838.3,51,478,True,4.07,Malaysia,,2026-03-01
+P-Pa-Se-151,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-29,Paula's Choice Official Store,837097.99,1082013.53,4841,767,True,4.13,Thailand,,2026-03-01
+P-JB-Bl-152,JBL Bluetooth Speaker,B-JBL,JBL,S-26,JBL Official Store,2172002.49,2630995.93,3583,1458,True,4.47,Vietnam,,2026-03-01
+P-Ne-Co-153,Nestle Coffee,B-Nestle,Nestle,S-39,Nestle Official Store,178585.38,204728.2,3372,891,True,4.83,Malaysia,,2026-03-01
+P-An-US-154,Anker USB-C Cable,B-Anker,Anker,S-17,Anker Official Store,286026.17,313631.32,3483,993,True,4.94,Malaysia,,2026-03-01
+P-JB-Bl-155,JBL Bluetooth Speaker,B-JBL,JBL,S-5,JBL Official Store,2106550.81,2597011.33,4695,938,True,4.23,Thailand,,2026-03-01
+P-JB-Bl-156,JBL Bluetooth Speaker,B-JBL,JBL,S-16,JBL Official Store,1548988.19,1954854.55,3640,1612,True,4.16,Vietnam,,2026-03-01
+P-Lo-Wi-157,Logitech Wireless Mouse,B-Logitech,Logitech,S-15,Logitech Official Store,594582.72,735764.68,1080,1714,True,4.53,Vietnam,,2026-03-01
+P-An-Po-158,Anker Power Bank,B-Anker,Anker,S-7,Anker Official Store,686554.25,700522.14,3374,1264,True,4.25,Vietnam,,2026-03-01
+P-Lo-Ke-159,Logitech Keyboard,B-Logitech,Logitech,S-22,Logitech Official Store,723632.3,770690.93,146,2438,True,4.8,Vietnam,,2026-03-01
+P-An-Po-160,Anker Power Bank,B-Anker,Anker,S-32,Anker Official Store,663018.95,787670.33,758,2048,True,4.78,Vietnam,,2026-03-01
+P-An-US-161,Anker USB-C Cable,B-Anker,Anker,S-17,Anker Official Store,186904.05,196133.46,2966,1700,True,4.02,Malaysia,,2026-03-01
+P-Ne-Co-162,Nestle Coffee,B-Nestle,Nestle,S-30,Nestle Official Store,181355.13,229796.79,947,2246,True,4.98,Thailand,,2026-03-01
+P-Pa-Se-163,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-34,Paula's Choice Official Store,819535.64,1019636.96,135,891,True,4.67,Thailand,,2026-03-01
+P-An-Po-164,Anker Power Bank,B-Anker,Anker,S-31,Anker Official Store,717913.07,856218.51,1469,557,True,4.71,Malaysia,,2026-03-01
+P-Pa-Se-165,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-7,Paula's Choice Official Store,1000275.07,1191759.97,488,1112,True,4.55,Thailand,,2026-03-01
+P-Pa-Se-166,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-14,Paula's Choice Official Store,839520.3,894861.35,2164,1565,True,4.87,Thailand,,2026-03-01
+P-Pa-Mo-167,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-45,Paula's Choice Official Store,777747.04,895693.26,1957,2361,True,4.66,Malaysia,,2026-03-01
+P-An-US-168,Anker USB-C Cable,B-Anker,Anker,S-41,Anker Official Store,223514.28,290339.13,1112,1742,True,4.4,Thailand,,2026-03-01
+P-JB-He-169,JBL Headphones,B-JBL,JBL,S-33,JBL Official Store,1751377.67,1801436.78,932,1360,True,4.17,Thailand,,2026-03-01
+P-JB-Bl-170,JBL Bluetooth Speaker,B-JBL,JBL,S-44,JBL Official Store,1698599.84,1897101.27,3483,960,True,4.04,Thailand,,2026-03-01
+P-Lo-We-171,Logitech Webcam,B-Logitech,Logitech,S-34,Logitech Official Store,1328683.49,1518435.85,3841,2387,True,4.9,Vietnam,,2026-03-01
+P-Pa-Mo-172,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-18,Paula's Choice Official Store,701140.73,790520.19,3653,2073,True,4.73,Malaysia,,2026-03-01
+P-An-US-173,Anker USB-C Cable,B-Anker,Anker,S-44,Anker Official Store,212277.88,227203.4,555,2386,True,4.51,Thailand,,2026-03-01
+P-JB-He-174,JBL Headphones,B-JBL,JBL,S-47,JBL Official Store,1312514.4,1658768.78,43,508,True,4.58,Thailand,,2026-03-01
+P-Ne-Ce-175,Nestle Cereal,B-Nestle,Nestle,S-25,Nestle Official Store,149095.13,158903.6,2070,32,True,4.26,Malaysia,,2026-03-01
+P-JB-He-176,JBL Headphones,B-JBL,JBL,S-23,JBL Official Store,1966028.44,2223705.44,3404,2339,True,4.24,Malaysia,,2026-03-01
+P-An-US-177,Anker USB-C Cable,B-Anker,Anker,S-29,Anker Official Store,300658.27,334527.13,2921,866,True,4.15,Thailand,,2026-03-01
+P-JB-Bl-178,JBL Bluetooth Speaker,B-JBL,JBL,S-43,JBL Official Store,1646652.26,1854493.38,2764,2025,True,4.53,Vietnam,,2026-03-01
+P-Lo-Wi-179,Logitech Wireless Mouse,B-Logitech,Logitech,S-44,Logitech Official Store,427540.68,540033.46,1304,961,True,4.03,Malaysia,,2026-03-01
+P-Pa-Cl-180,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-5,Paula's Choice Official Store,560310.65,599758.16,1038,1234,True,4.69,Malaysia,,2026-03-01
+P-Ne-Co-181,Nestle Coffee,B-Nestle,Nestle,S-43,Nestle Official Store,194118.1,250457.62,155,221,True,4.64,Thailand,,2026-03-01
+P-Lo-We-182,Logitech Webcam,B-Logitech,Logitech,S-38,Logitech Official Store,1119714.78,1249537.84,3953,2203,True,4.03,Malaysia,,2026-03-01
+P-JB-Ea-183,JBL Earbuds,B-JBL,JBL,S-8,JBL Official Store,1145173.91,1403080.47,2063,1369,True,4.09,Thailand,,2026-03-01
+P-JB-Ea-184,JBL Earbuds,B-JBL,JBL,S-26,JBL Official Store,1382828.36,1505016.79,3749,307,True,4.57,Vietnam,,2026-03-01
+P-Ne-Ch-185,Nestle Chocolate Drink,B-Nestle,Nestle,S-33,Nestle Official Store,129582.68,157192.54,3102,1315,True,4.66,Vietnam,,2026-03-01
+P-JB-He-186,JBL Headphones,B-JBL,JBL,S-6,JBL Official Store,1659173.99,2156653.83,604,1613,True,4.87,Vietnam,,2026-03-01
+P-Lo-Wi-187,Logitech Wireless Mouse,B-Logitech,Logitech,S-31,Logitech Official Store,456731.18,477437.03,518,1352,True,4.65,Vietnam,,2026-03-01
+P-Ne-Ce-188,Nestle Cereal,B-Nestle,Nestle,S-19,Nestle Official Store,161148.02,200369.48,1418,1359,True,4.38,Malaysia,,2026-03-01
+P-Lo-Wi-189,Logitech Wireless Mouse,B-Logitech,Logitech,S-7,Logitech Official Store,543890.98,650742.96,2220,921,True,4.38,Malaysia,,2026-03-01
+P-JB-He-190,JBL Headphones,B-JBL,JBL,S-26,JBL Official Store,1481904.7,1605844.53,3368,966,True,4.46,Vietnam,,2026-03-01
+P-An-Po-191,Anker Power Bank,B-Anker,Anker,S-2,Anker Official Store,597234.34,768290.61,2531,1952,True,4.03,Thailand,,2026-03-01
+P-Pa-Cl-192,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-15,Paula's Choice Official Store,773107.82,904079.02,72,948,True,4.55,Vietnam,,2026-03-01
+P-Pa-Mo-193,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-23,Paula's Choice Official Store,626660.88,642393.28,1044,340,True,4.65,Malaysia,,2026-03-01
+P-Ne-Ch-194,Nestle Chocolate Drink,B-Nestle,Nestle,S-13,Nestle Official Store,112745.24,121224.04,4595,791,True,4.1,Vietnam,,2026-03-01
+P-JB-He-195,JBL Headphones,B-JBL,JBL,S-47,JBL Official Store,1922625.15,2126502.61,135,1448,True,4.72,Thailand,,2026-03-01
+P-Pa-Cl-196,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-31,Paula's Choice Official Store,577711.08,618567.85,3209,1067,True,4.53,Vietnam,,2026-03-01
+P-Lo-Ke-197,Logitech Keyboard,B-Logitech,Logitech,S-36,Logitech Official Store,827393.48,903379.29,1505,1803,True,4.82,Vietnam,,2026-03-01
+P-Ne-Co-198,Nestle Coffee,B-Nestle,Nestle,S-26,Nestle Official Store,185426.13,219950.77,4646,1811,True,4.61,Thailand,,2026-03-01
+P-Pa-Cl-199,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-24,Paula's Choice Official Store,851523.36,1084542.31,4845,1077,True,4.24,Vietnam,,2026-03-01
+P-JB-Ea-200,JBL Earbuds,B-JBL,JBL,S-19,JBL Official Store,1475119.4,1838984.74,3070,1467,True,4.59,Malaysia,,2026-03-01
+P-Lo-We-201,Logitech Webcam,B-Logitech,Logitech,S-21,Logitech Official Store,1224315.39,1410912.99,691,2471,True,4.61,Thailand,,2026-03-01
+P-An-US-202,Anker USB-C Cable,B-Anker,Anker,S-2,Anker Official Store,297853.02,345239.87,1373,1831,True,4.6,Vietnam,,2026-03-01
+P-Pa-Mo-203,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-39,Paula's Choice Official Store,637182.81,726322.07,4038,1003,True,4.34,Thailand,,2026-03-01
+P-An-US-204,Anker USB-C Cable,B-Anker,Anker,S-40,Anker Official Store,205756.91,214447.55,4478,1927,True,4.4,Thailand,,2026-03-01
+P-Lo-We-205,Logitech Webcam,B-Logitech,Logitech,S-4,Logitech Official Store,1176932.69,1317457.23,1834,960,True,4.8,Thailand,,2026-03-01
+P-An-Po-206,Anker Power Bank,B-Anker,Anker,S-3,Anker Official Store,857341.89,929900.59,371,1158,True,4.99,Thailand,,2026-03-01
+P-Pa-Se-207,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-23,Paula's Choice Official Store,999109.03,1297577.4,4241,666,True,4.56,Vietnam,,2026-03-01
+P-Ne-Co-208,Nestle Coffee,B-Nestle,Nestle,S-42,Nestle Official Store,210671.93,224941.54,2523,637,True,4.82,Vietnam,,2026-03-01
+P-Ne-Co-209,Nestle Coffee,B-Nestle,Nestle,S-45,Nestle Official Store,195641.83,250345.21,4473,634,True,4.99,Malaysia,,2026-03-01
+P-Ne-Co-210,Nestle Coffee,B-Nestle,Nestle,S-8,Nestle Official Store,166520.32,181835.73,1796,804,True,4.13,Vietnam,,2026-03-01
+P-Ne-Ce-211,Nestle Cereal,B-Nestle,Nestle,S-36,Nestle Official Store,155002.38,160841.4,4606,1691,True,4.26,Thailand,,2026-03-01
+P-Pa-Cl-212,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-3,Paula's Choice Official Store,561456.49,652818.25,1755,1694,True,4.6,Vietnam,,2026-03-01
+P-An-US-213,Anker USB-C Cable,B-Anker,Anker,S-37,Anker Official Store,229343.09,270827.69,273,494,True,4.5,Malaysia,,2026-03-01
+P-Lo-Ke-214,Logitech Keyboard,B-Logitech,Logitech,S-30,Logitech Official Store,806420.96,1020794.11,163,952,True,4.82,Thailand,,2026-03-01
+P-JB-Bl-215,JBL Bluetooth Speaker,B-JBL,JBL,S-35,JBL Official Store,2070402.42,2200965.15,4391,1565,True,4.58,Thailand,,2026-03-01
+P-JB-Ea-216,JBL Earbuds,B-JBL,JBL,S-46,JBL Official Store,1395801.78,1660656.31,2976,1965,True,4.83,Vietnam,,2026-03-01
+P-JB-He-217,JBL Headphones,B-JBL,JBL,S-34,JBL Official Store,1764973.34,1833963.05,993,541,True,4.23,Thailand,,2026-03-01
+P-JB-He-218,JBL Headphones,B-JBL,JBL,S-6,JBL Official Store,1131349.41,1187448.62,2749,1889,True,4.02,Malaysia,,2026-03-01
+P-Pa-Mo-219,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-5,Paula's Choice Official Store,807938.74,911523.79,1983,2397,True,4.06,Malaysia,,2026-03-01
+P-An-US-220,Anker USB-C Cable,B-Anker,Anker,S-9,Anker Official Store,208920.86,238273.08,4274,1357,True,4.78,Vietnam,,2026-03-01
+P-An-Ch-221,Anker Charger,B-Anker,Anker,S-39,Anker Official Store,500246.09,581605.21,2178,1387,True,4.22,Vietnam,,2026-03-01
+P-JB-Ea-222,JBL Earbuds,B-JBL,JBL,S-35,JBL Official Store,1555382.8,1762783.08,2169,1554,True,4.18,Malaysia,,2026-03-01
+P-JB-Ea-223,JBL Earbuds,B-JBL,JBL,S-2,JBL Official Store,1517857.88,1552903.33,2323,746,True,4.26,Vietnam,,2026-03-01
+P-Pa-Mo-224,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-26,Paula's Choice Official Store,824022.97,915143.52,271,2390,True,4.06,Thailand,,2026-03-01
+P-Ne-Co-225,Nestle Coffee,B-Nestle,Nestle,S-11,Nestle Official Store,155979.6,170710.05,4828,1945,True,4.84,Malaysia,,2026-03-01
+P-JB-Ea-226,JBL Earbuds,B-JBL,JBL,S-40,JBL Official Store,1327474.63,1628094.52,3834,1464,True,4.86,Thailand,,2026-03-01
+P-Pa-Cl-227,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-41,Paula's Choice Official Store,584522.95,742217.72,46,397,True,4.94,Thailand,,2026-03-01
+P-Pa-Cl-228,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-34,Paula's Choice Official Store,643145.67,770756.33,805,2252,True,4.23,Vietnam,,2026-03-01
+P-Lo-We-229,Logitech Webcam,B-Logitech,Logitech,S-32,Logitech Official Store,1228596.1,1304827.19,2178,1036,True,4.04,Vietnam,,2026-03-01
+P-Lo-We-230,Logitech Webcam,B-Logitech,Logitech,S-17,Logitech Official Store,1254175.53,1316260.87,1698,152,True,4.74,Malaysia,,2026-03-01
+P-Pa-Mo-231,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-15,Paula's Choice Official Store,835757.31,1084516.09,2576,567,True,4.17,Thailand,,2026-03-01
+P-JB-He-232,JBL Headphones,B-JBL,JBL,S-17,JBL Official Store,1453898.39,1692489.11,1276,364,True,4.62,Thailand,,2026-03-01
+P-Pa-Mo-233,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-36,Paula's Choice Official Store,766570.17,784139.77,1643,1645,True,4.64,Thailand,,2026-03-01
+P-Pa-Mo-234,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-27,Paula's Choice Official Store,751647.88,793037.67,799,2426,True,4.49,Thailand,,2026-03-01
+P-Ne-Ce-235,Nestle Cereal,B-Nestle,Nestle,S-17,Nestle Official Store,162888.98,168141.5,965,2235,True,4.1,Malaysia,,2026-03-01
+P-An-US-236,Anker USB-C Cable,B-Anker,Anker,S-21,Anker Official Store,268001.89,291423.63,3273,690,True,4.01,Thailand,,2026-03-01
+P-JB-Bl-237,JBL Bluetooth Speaker,B-JBL,JBL,S-39,JBL Official Store,1832187.46,2287422.17,2574,784,True,4.92,Thailand,,2026-03-01
+P-Pa-Cl-238,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-32,Paula's Choice Official Store,679713.81,727678.83,4381,602,True,4.75,Vietnam,,2026-03-01
+P-Lo-Ke-239,Logitech Keyboard,B-Logitech,Logitech,S-2,Logitech Official Store,1029811.47,1260309.24,4338,467,True,4.09,Vietnam,,2026-03-01
+P-Pa-Mo-240,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-43,Paula's Choice Official Store,904957.42,1108739.74,2498,1729,True,4.74,Malaysia,,2026-03-01
+P-An-Ch-241,Anker Charger,B-Anker,Anker,S-29,Anker Official Store,451150.13,531547.86,1334,1139,True,4.16,Thailand,,2026-03-01
+P-Pa-Cl-242,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-42,Paula's Choice Official Store,622868.2,669151.72,3592,1433,True,4.73,Vietnam,,2026-03-01
+P-An-Ch-243,Anker Charger,B-Anker,Anker,S-13,Anker Official Store,484189.77,542054.16,2577,2286,True,4.76,Thailand,,2026-03-01
+P-Ne-Co-244,Nestle Coffee,B-Nestle,Nestle,S-6,Nestle Official Store,151256.04,160586.83,3925,1129,True,4.12,Thailand,,2026-03-01
+P-JB-Ea-245,JBL Earbuds,B-JBL,JBL,S-37,JBL Official Store,1225949.02,1454039.79,4947,2028,True,4.18,Thailand,,2026-03-01
+P-Pa-Se-246,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-7,Paula's Choice Official Store,1035231.75,1082891.11,2593,530,True,4.72,Thailand,,2026-03-01
+P-JB-Ea-247,JBL Earbuds,B-JBL,JBL,S-24,JBL Official Store,1306971.33,1590354.3,191,598,True,4.6,Malaysia,,2026-03-01
+P-Ne-Ch-248,Nestle Chocolate Drink,B-Nestle,Nestle,S-12,Nestle Official Store,115405.65,140185.13,571,1342,True,4.71,Vietnam,,2026-03-01
+P-Ne-Ch-249,Nestle Chocolate Drink,B-Nestle,Nestle,S-49,Nestle Official Store,136161.35,144506.23,1236,1174,True,4.37,Vietnam,,2026-03-01
+P-Lo-We-250,Logitech Webcam,B-Logitech,Logitech,S-33,Logitech Official Store,1206932.69,1332265.63,2478,202,True,4.64,Malaysia,,2026-03-01
+P-An-Ch-251,Anker Charger,B-Anker,Anker,S-11,Anker Official Store,500252.75,649085.65,4727,841,True,4.18,Thailand,,2026-03-01
+P-JB-Ea-252,JBL Earbuds,B-JBL,JBL,S-45,JBL Official Store,1488666.51,1762621.1,2787,1905,True,4.78,Thailand,,2026-03-01
+P-An-US-253,Anker USB-C Cable,B-Anker,Anker,S-5,Anker Official Store,225613.03,257267.41,2033,2101,True,4.44,Malaysia,,2026-03-01
+P-JB-Ea-254,JBL Earbuds,B-JBL,JBL,S-1,JBL Official Store,1434985.29,1663161.05,2869,1866,True,4.06,Thailand,,2026-03-01
+P-Ne-Co-255,Nestle Coffee,B-Nestle,Nestle,S-25,Nestle Official Store,172008.24,219884.06,4673,1436,True,4.06,Malaysia,,2026-03-01
+P-Ne-Ch-256,Nestle Chocolate Drink,B-Nestle,Nestle,S-16,Nestle Official Store,144588.83,186946.67,3283,2019,True,4.45,Malaysia,,2026-03-01
+P-JB-Ea-257,JBL Earbuds,B-JBL,JBL,S-43,JBL Official Store,1288337.79,1489988.33,2673,2302,True,4.56,Vietnam,,2026-03-01
+P-JB-Ea-258,JBL Earbuds,B-JBL,JBL,S-32,JBL Official Store,1371927.41,1490324.21,1201,1500,True,4.56,Vietnam,,2026-03-01
+P-JB-Ea-259,JBL Earbuds,B-JBL,JBL,S-14,JBL Official Store,1418765.27,1613508.02,4290,2366,True,4.98,Thailand,,2026-03-01
+P-JB-Bl-260,JBL Bluetooth Speaker,B-JBL,JBL,S-25,JBL Official Store,1864538.59,2144034.97,4978,388,True,4.97,Malaysia,,2026-03-01
+P-JB-He-261,JBL Headphones,B-JBL,JBL,S-4,JBL Official Store,1359631.64,1444403.47,924,2379,True,4.68,Vietnam,,2026-03-01
+P-Lo-Wi-262,Logitech Wireless Mouse,B-Logitech,Logitech,S-39,Logitech Official Store,471336.04,552364.75,3699,181,True,4.54,Vietnam,,2026-03-01
+P-Pa-Cl-263,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-2,Paula's Choice Official Store,549702.32,586211.83,3167,102,True,4.86,Thailand,,2026-03-01
+P-An-Po-264,Anker Power Bank,B-Anker,Anker,S-10,Anker Official Store,642771.39,747864.99,640,1732,True,4.79,Malaysia,,2026-03-01
+P-Lo-We-265,Logitech Webcam,B-Logitech,Logitech,S-4,Logitech Official Store,1109780.88,1183157.13,2821,2265,True,4.66,Vietnam,,2026-03-01
+P-Ne-Ce-266,Nestle Cereal,B-Nestle,Nestle,S-49,Nestle Official Store,151557.34,186446.49,4572,2118,True,4.07,Malaysia,,2026-03-01
+P-An-Po-267,Anker Power Bank,B-Anker,Anker,S-6,Anker Official Store,755767.89,876227.85,1844,2431,True,4.38,Thailand,,2026-03-01
+P-An-Po-268,Anker Power Bank,B-Anker,Anker,S-28,Anker Official Store,657080.16,687522.76,2241,489,True,4.63,Malaysia,,2026-03-01
+P-Lo-We-269,Logitech Webcam,B-Logitech,Logitech,S-40,Logitech Official Store,1034409.38,1320139.34,4593,2438,True,4.32,Malaysia,,2026-03-01
+P-An-Po-270,Anker Power Bank,B-Anker,Anker,S-8,Anker Official Store,949865.58,977741.68,642,1920,True,4.82,Malaysia,,2026-03-01
+P-JB-Ea-271,JBL Earbuds,B-JBL,JBL,S-19,JBL Official Store,1431050.89,1847446.13,2621,1552,True,4.74,Thailand,,2026-03-01
+P-Lo-We-272,Logitech Webcam,B-Logitech,Logitech,S-31,Logitech Official Store,968335.13,1226822.29,1624,251,True,4.13,Vietnam,,2026-03-01
+P-JB-He-273,JBL Headphones,B-JBL,JBL,S-25,JBL Official Store,1684384.95,1966808.96,1969,934,True,4.21,Malaysia,,2026-03-01
+P-JB-Bl-274,JBL Bluetooth Speaker,B-JBL,JBL,S-6,JBL Official Store,1547651.88,1976503.49,3020,1392,True,4.46,Vietnam,,2026-03-01
+P-JB-Ea-275,JBL Earbuds,B-JBL,JBL,S-28,JBL Official Store,1240324.75,1552774.7,1851,990,True,4.24,Thailand,,2026-03-01
+P-Ne-Ce-276,Nestle Cereal,B-Nestle,Nestle,S-47,Nestle Official Store,139606.98,177789.59,4463,1342,True,4.61,Thailand,,2026-03-01
+P-Lo-Wi-277,Logitech Wireless Mouse,B-Logitech,Logitech,S-27,Logitech Official Store,608826.72,764836.41,960,293,True,4.13,Malaysia,,2026-03-01
+P-Pa-Se-278,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-9,Paula's Choice Official Store,851194.53,909898.69,4249,2053,True,4.84,Malaysia,,2026-03-01
+P-An-US-279,Anker USB-C Cable,B-Anker,Anker,S-15,Anker Official Store,256108.22,276686.09,4658,2279,True,4.76,Vietnam,,2026-03-01
+P-JB-Ea-280,JBL Earbuds,B-JBL,JBL,S-13,JBL Official Store,1367006.83,1703387.41,2287,1143,True,4.91,Thailand,,2026-03-01
+P-An-Ch-281,Anker Charger,B-Anker,Anker,S-34,Anker Official Store,466503.84,497919.47,2627,146,True,4.86,Malaysia,,2026-03-01
+P-An-Ch-282,Anker Charger,B-Anker,Anker,S-40,Anker Official Store,444753.78,455890.42,4395,158,True,4.97,Thailand,,2026-03-01
+P-Lo-We-283,Logitech Webcam,B-Logitech,Logitech,S-42,Logitech Official Store,1303059.95,1661421.82,2361,984,True,4.98,Thailand,,2026-03-01
+P-Lo-We-284,Logitech Webcam,B-Logitech,Logitech,S-38,Logitech Official Store,1432259.66,1641306.29,1490,1857,True,4.07,Malaysia,,2026-03-01
+P-Lo-Ke-285,Logitech Keyboard,B-Logitech,Logitech,S-25,Logitech Official Store,906036.84,927304.37,4946,1767,True,4.23,Vietnam,,2026-03-01
+P-Lo-We-286,Logitech Webcam,B-Logitech,Logitech,S-16,Logitech Official Store,1232872.84,1565557.05,2554,1090,True,4.79,Thailand,,2026-03-01
+P-Ne-Ch-287,Nestle Chocolate Drink,B-Nestle,Nestle,S-21,Nestle Official Store,159621.93,207304.59,690,1353,True,4.25,Malaysia,,2026-03-01
+P-JB-Bl-288,JBL Bluetooth Speaker,B-JBL,JBL,S-35,JBL Official Store,1839653.22,1893262.17,1006,486,True,4.88,Vietnam,,2026-03-01
+P-Lo-Wi-289,Logitech Wireless Mouse,B-Logitech,Logitech,S-12,Logitech Official Store,613823.51,700077.79,3689,2226,True,4.77,Malaysia,,2026-03-01
+P-Lo-We-290,Logitech Webcam,B-Logitech,Logitech,S-38,Logitech Official Store,1054885.27,1356023.72,4630,183,True,4.24,Thailand,,2026-03-01
+P-Ne-Ce-291,Nestle Cereal,B-Nestle,Nestle,S-44,Nestle Official Store,143742.75,185688.97,223,2012,True,4.6,Vietnam,,2026-03-01
+P-Lo-Wi-292,Logitech Wireless Mouse,B-Logitech,Logitech,S-12,Logitech Official Store,557482.45,569088.06,4387,734,True,4.91,Malaysia,,2026-03-01
+P-An-US-293,Anker USB-C Cable,B-Anker,Anker,S-45,Anker Official Store,243617.93,279217.89,2830,871,True,4.2,Vietnam,,2026-03-01
+P-An-Po-294,Anker Power Bank,B-Anker,Anker,S-8,Anker Official Store,682995.4,698120.97,4680,408,True,4.11,Vietnam,,2026-03-01
+P-Pa-Mo-295,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-42,Paula's Choice Official Store,780643.13,892111.77,2459,2285,True,4.4,Vietnam,,2026-03-01
+P-JB-He-296,JBL Headphones,B-JBL,JBL,S-41,JBL Official Store,1625572.46,2058562.46,4522,1732,True,4.7,Vietnam,,2026-03-01
+P-An-Ch-297,Anker Charger,B-Anker,Anker,S-45,Anker Official Store,527907.79,675848.39,4126,23,True,4.41,Vietnam,,2026-03-01
+P-JB-He-298,JBL Headphones,B-JBL,JBL,S-39,JBL Official Store,1323474.86,1655218.79,1017,524,True,4.86,Vietnam,,2026-03-01
+P-JB-Bl-299,JBL Bluetooth Speaker,B-JBL,JBL,S-20,JBL Official Store,2004092.35,2066933.56,4063,1352,True,4.38,Malaysia,,2026-03-01
+P-Ne-Ce-0,Nestle Cereal,B-Nestle,Nestle,S-33,Nestle Official Store,146247.39,179932.53,361,2093,True,4.94,Vietnam,,2026-04-01
+P-JB-He-1,JBL Headphones,B-JBL,JBL,S-11,JBL Official Store,1421257.56,1593709.54,2026,1294,True,4.5,Thailand,,2026-04-01
+P-An-US-2,Anker USB-C Cable,B-Anker,Anker,S-27,Anker Official Store,280293.51,342718.37,4754,1633,True,4.07,Vietnam,,2026-04-01
+P-Pa-Cl-3,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-35,Paula's Choice Official Store,672785.97,765744.54,2312,1861,True,4.08,Vietnam,,2026-04-01
+P-Pa-Cl-4,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-24,Paula's Choice Official Store,607015.82,698462.87,1849,2329,True,4.69,Vietnam,,2026-04-01
+P-Pa-Mo-5,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-38,Paula's Choice Official Store,840092.55,921671.19,3735,1058,True,4.45,Vietnam,,2026-04-01
+P-Pa-Mo-6,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-36,Paula's Choice Official Store,627019.08,741773.38,4030,1948,True,4.37,Malaysia,,2026-04-01
+P-Ne-Co-7,Nestle Coffee,B-Nestle,Nestle,S-1,Nestle Official Store,165632.99,175558.77,3294,1815,True,4.03,Malaysia,,2026-04-01
+P-Ne-Ce-8,Nestle Cereal,B-Nestle,Nestle,S-49,Nestle Official Store,140214.74,159101.12,2958,1834,True,4.85,Malaysia,,2026-04-01
+P-Pa-Se-9,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-49,Paula's Choice Official Store,877685.33,921106.68,1930,1462,True,4.49,Vietnam,,2026-04-01
+P-An-Ch-10,Anker Charger,B-Anker,Anker,S-15,Anker Official Store,364006.56,403209.25,4370,546,True,4.13,Malaysia,,2026-04-01
+P-Pa-Cl-11,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-37,Paula's Choice Official Store,546129.2,703227.23,3188,1736,True,4.99,Vietnam,,2026-04-01
+P-Lo-Wi-12,Logitech Wireless Mouse,B-Logitech,Logitech,S-4,Logitech Official Store,415651.89,463580.04,3170,2357,True,4.53,Vietnam,,2026-04-01
+P-JB-Ea-13,JBL Earbuds,B-JBL,JBL,S-3,JBL Official Store,1171305.56,1468140.15,1407,1444,True,4.71,Vietnam,,2026-04-01
+P-Pa-Cl-14,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-39,Paula's Choice Official Store,558691.69,721045.75,4961,1527,True,4.17,Vietnam,,2026-04-01
+P-JB-Bl-15,JBL Bluetooth Speaker,B-JBL,JBL,S-11,JBL Official Store,1622522.37,1939474.99,3200,2156,True,4.33,Vietnam,,2026-04-01
+P-Pa-Mo-16,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-37,Paula's Choice Official Store,717684.26,903360.79,2241,1914,True,4.23,Vietnam,,2026-04-01
+P-An-Po-17,Anker Power Bank,B-Anker,Anker,S-45,Anker Official Store,739280.16,903548.3,3660,2298,True,4.13,Thailand,,2026-04-01
+P-An-Ch-18,Anker Charger,B-Anker,Anker,S-12,Anker Official Store,415461.24,525801.67,912,2199,True,4.51,Vietnam,,2026-04-01
+P-Ne-Ce-19,Nestle Cereal,B-Nestle,Nestle,S-36,Nestle Official Store,166570.0,184007.43,1640,1244,True,4.44,Malaysia,,2026-04-01
+P-An-Ch-20,Anker Charger,B-Anker,Anker,S-27,Anker Official Store,529942.47,673263.67,4207,608,True,4.83,Vietnam,,2026-04-01
+P-Ne-Ch-21,Nestle Chocolate Drink,B-Nestle,Nestle,S-9,Nestle Official Store,117654.72,135704.76,1893,120,True,4.0,Vietnam,,2026-04-01
+P-Lo-Wi-22,Logitech Wireless Mouse,B-Logitech,Logitech,S-46,Logitech Official Store,491950.24,572099.32,1754,2339,True,4.73,Vietnam,,2026-04-01
+P-Pa-Se-23,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-3,Paula's Choice Official Store,1015181.56,1044168.9,3667,1838,True,4.63,Vietnam,,2026-04-01
+P-JB-Ea-24,JBL Earbuds,B-JBL,JBL,S-47,JBL Official Store,1257530.97,1619807.33,3264,23,True,4.2,Vietnam,,2026-04-01
+P-Pa-Cl-25,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-3,Paula's Choice Official Store,598781.78,611145.97,1118,29,True,4.63,Malaysia,,2026-04-01
+P-JB-He-26,JBL Headphones,B-JBL,JBL,S-35,JBL Official Store,1692168.23,2145058.1,2271,806,True,4.08,Vietnam,,2026-04-01
+P-Ne-Ce-27,Nestle Cereal,B-Nestle,Nestle,S-35,Nestle Official Store,159007.4,165126.45,3685,914,True,4.81,Malaysia,,2026-04-01
+P-JB-Ea-28,JBL Earbuds,B-JBL,JBL,S-40,JBL Official Store,1405081.25,1551038.83,2452,166,True,4.79,Vietnam,,2026-04-01
+P-Ne-Ce-29,Nestle Cereal,B-Nestle,Nestle,S-47,Nestle Official Store,161364.89,196676.5,2585,1318,True,4.28,Thailand,,2026-04-01
+P-An-US-30,Anker USB-C Cable,B-Anker,Anker,S-30,Anker Official Store,287004.08,336860.86,466,1561,True,4.21,Vietnam,,2026-04-01
+P-An-Po-31,Anker Power Bank,B-Anker,Anker,S-17,Anker Official Store,723905.93,763299.29,212,1474,True,4.45,Vietnam,,2026-04-01
+P-Ne-Ce-32,Nestle Cereal,B-Nestle,Nestle,S-24,Nestle Official Store,165255.04,206619.99,2337,1233,True,4.92,Thailand,,2026-04-01
+P-Pa-Mo-33,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-18,Paula's Choice Official Store,693997.51,763117.41,4479,1103,True,4.27,Malaysia,,2026-04-01
+P-Lo-We-34,Logitech Webcam,B-Logitech,Logitech,S-32,Logitech Official Store,1100027.33,1136458.63,3827,2346,True,4.9,Vietnam,,2026-04-01
+P-Pa-Cl-35,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-29,Paula's Choice Official Store,649274.98,707132.32,697,637,True,4.36,Thailand,,2026-04-01
+P-An-Po-36,Anker Power Bank,B-Anker,Anker,S-13,Anker Official Store,717661.68,914312.42,1136,2229,True,4.38,Malaysia,,2026-04-01
+P-Ne-Ch-37,Nestle Chocolate Drink,B-Nestle,Nestle,S-23,Nestle Official Store,147632.68,155381.38,1978,933,True,4.93,Vietnam,,2026-04-01
+P-Lo-We-38,Logitech Webcam,B-Logitech,Logitech,S-37,Logitech Official Store,1046629.72,1324136.41,958,527,True,4.95,Thailand,,2026-04-01
+P-Lo-Ke-39,Logitech Keyboard,B-Logitech,Logitech,S-19,Logitech Official Store,790136.74,829250.23,1346,917,True,4.36,Vietnam,,2026-04-01
+P-Ne-Co-40,Nestle Coffee,B-Nestle,Nestle,S-44,Nestle Official Store,151408.12,170067.36,4998,896,True,4.86,Malaysia,,2026-04-01
+P-JB-Ea-41,JBL Earbuds,B-JBL,JBL,S-31,JBL Official Store,1365250.5,1706850.33,4774,333,True,4.87,Vietnam,,2026-04-01
+P-Lo-Wi-42,Logitech Wireless Mouse,B-Logitech,Logitech,S-7,Logitech Official Store,414949.59,439119.68,969,544,True,4.71,Malaysia,,2026-04-01
+P-Lo-Wi-43,Logitech Wireless Mouse,B-Logitech,Logitech,S-49,Logitech Official Store,551562.33,619393.51,4243,2106,True,4.52,Malaysia,,2026-04-01
+P-Ne-Ch-44,Nestle Chocolate Drink,B-Nestle,Nestle,S-2,Nestle Official Store,114165.64,145572.52,2035,402,True,4.41,Vietnam,,2026-04-01
+P-Lo-We-45,Logitech Webcam,B-Logitech,Logitech,S-12,Logitech Official Store,1209172.23,1345165.38,3283,888,True,4.01,Malaysia,,2026-04-01
+P-An-Po-46,Anker Power Bank,B-Anker,Anker,S-28,Anker Official Store,891788.76,987497.21,2861,2156,True,4.13,Thailand,,2026-04-01
+P-Ne-Ch-47,Nestle Chocolate Drink,B-Nestle,Nestle,S-47,Nestle Official Store,133418.72,136720.22,2822,1702,True,4.18,Thailand,,2026-04-01
+P-JB-He-48,JBL Headphones,B-JBL,JBL,S-12,JBL Official Store,1445434.87,1734118.26,749,2425,True,4.65,Vietnam,,2026-04-01
+P-Ne-Ch-49,Nestle Chocolate Drink,B-Nestle,Nestle,S-11,Nestle Official Store,141922.91,145699.0,4350,1484,True,4.21,Malaysia,,2026-04-01
+P-An-Ch-50,Anker Charger,B-Anker,Anker,S-15,Anker Official Store,411608.01,475630.17,1271,520,True,4.96,Vietnam,,2026-04-01
+P-Lo-We-51,Logitech Webcam,B-Logitech,Logitech,S-20,Logitech Official Store,999669.9,1168220.7,4559,282,True,4.37,Vietnam,,2026-04-01
+P-An-US-52,Anker USB-C Cable,B-Anker,Anker,S-45,Anker Official Store,260373.9,322543.41,490,1096,True,4.39,Malaysia,,2026-04-01
+P-Ne-Ch-53,Nestle Chocolate Drink,B-Nestle,Nestle,S-47,Nestle Official Store,115380.21,143851.53,3203,220,True,4.72,Malaysia,,2026-04-01
+P-Lo-We-54,Logitech Webcam,B-Logitech,Logitech,S-5,Logitech Official Store,1058580.09,1123412.68,2325,1594,True,4.42,Malaysia,,2026-04-01
+P-An-US-55,Anker USB-C Cable,B-Anker,Anker,S-21,Anker Official Store,254594.45,284940.83,2530,2498,True,4.46,Malaysia,,2026-04-01
+P-Pa-Se-56,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-8,Paula's Choice Official Store,1184491.04,1494720.2,3529,497,True,4.05,Vietnam,,2026-04-01
+P-Lo-Wi-57,Logitech Wireless Mouse,B-Logitech,Logitech,S-11,Logitech Official Store,414800.01,515214.8,4988,1696,True,4.66,Malaysia,,2026-04-01
+P-Lo-We-58,Logitech Webcam,B-Logitech,Logitech,S-25,Logitech Official Store,1106349.16,1208876.42,899,890,True,4.01,Malaysia,,2026-04-01
+P-Ne-Ch-59,Nestle Chocolate Drink,B-Nestle,Nestle,S-34,Nestle Official Store,135281.22,172376.91,1326,623,True,4.4,Vietnam,,2026-04-01
+P-Pa-Se-60,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-36,Paula's Choice Official Store,1020852.03,1262247.73,4620,1634,True,4.64,Malaysia,,2026-04-01
+P-Lo-We-61,Logitech Webcam,B-Logitech,Logitech,S-22,Logitech Official Store,1058842.69,1308788.36,3145,141,True,4.84,Thailand,,2026-04-01
+P-Ne-Co-62,Nestle Coffee,B-Nestle,Nestle,S-48,Nestle Official Store,169722.17,197575.52,2867,353,True,4.48,Thailand,,2026-04-01
+P-JB-He-63,JBL Headphones,B-JBL,JBL,S-27,JBL Official Store,1692550.1,2153579.19,2206,605,True,4.76,Thailand,,2026-04-01
+P-Lo-We-64,Logitech Webcam,B-Logitech,Logitech,S-45,Logitech Official Store,896503.16,1070578.14,145,865,True,4.56,Vietnam,,2026-04-01
+P-An-US-65,Anker USB-C Cable,B-Anker,Anker,S-26,Anker Official Store,237639.78,258388.51,3729,1294,True,4.84,Vietnam,,2026-04-01
+P-Lo-Wi-66,Logitech Wireless Mouse,B-Logitech,Logitech,S-5,Logitech Official Store,476164.67,612408.99,4776,951,True,4.43,Vietnam,,2026-04-01
+P-Ne-Ce-67,Nestle Cereal,B-Nestle,Nestle,S-7,Nestle Official Store,162876.71,179017.61,2068,2379,True,4.85,Malaysia,,2026-04-01
+P-JB-He-68,JBL Headphones,B-JBL,JBL,S-45,JBL Official Store,1575697.03,1826723.15,4346,1396,True,4.33,Thailand,,2026-04-01
+P-Ne-Ce-69,Nestle Cereal,B-Nestle,Nestle,S-15,Nestle Official Store,179823.15,201765.03,4096,2473,True,4.46,Vietnam,,2026-04-01
+P-An-Ch-70,Anker Charger,B-Anker,Anker,S-4,Anker Official Store,501287.5,560804.73,3936,294,True,4.88,Vietnam,,2026-04-01
+P-JB-Bl-71,JBL Bluetooth Speaker,B-JBL,JBL,S-41,JBL Official Store,1968234.11,2028304.43,854,704,True,4.52,Vietnam,,2026-04-01
+P-JB-He-72,JBL Headphones,B-JBL,JBL,S-20,JBL Official Store,1492048.84,1526105.41,413,1719,True,4.05,Thailand,,2026-04-01
+P-Ne-Ce-73,Nestle Cereal,B-Nestle,Nestle,S-47,Nestle Official Store,139780.13,168526.36,3270,1993,True,4.76,Malaysia,,2026-04-01
+P-Pa-Se-74,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-14,Paula's Choice Official Store,1038661.24,1296974.47,4621,1914,True,4.41,Thailand,,2026-04-01
+P-JB-Ea-75,JBL Earbuds,B-JBL,JBL,S-16,JBL Official Store,1244498.17,1321518.18,3672,1827,True,4.75,Vietnam,,2026-04-01
+P-An-US-76,Anker USB-C Cable,B-Anker,Anker,S-22,Anker Official Store,202685.42,242403.97,2582,1588,True,4.3,Malaysia,,2026-04-01
+P-Lo-We-77,Logitech Webcam,B-Logitech,Logitech,S-49,Logitech Official Store,1117709.42,1315349.14,1782,1109,True,4.93,Vietnam,,2026-04-01
+P-Pa-Mo-78,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-39,Paula's Choice Official Store,860249.67,1044761.8,538,1666,True,4.34,Malaysia,,2026-04-01
+P-Pa-Mo-79,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-13,Paula's Choice Official Store,773084.69,830808.89,4707,266,True,4.67,Vietnam,,2026-04-01
+P-JB-Bl-80,JBL Bluetooth Speaker,B-JBL,JBL,S-1,JBL Official Store,2043719.66,2406235.44,3950,1502,True,4.16,Vietnam,,2026-04-01
+P-Ne-Ce-81,Nestle Cereal,B-Nestle,Nestle,S-35,Nestle Official Store,167862.05,172403.42,2565,82,True,4.7,Vietnam,,2026-04-01
+P-Pa-Cl-82,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-33,Paula's Choice Official Store,713275.78,890735.86,2416,2245,True,4.31,Malaysia,,2026-04-01
+P-JB-Ea-83,JBL Earbuds,B-JBL,JBL,S-16,JBL Official Store,1241474.5,1597393.81,1511,456,True,4.63,Malaysia,,2026-04-01
+P-Pa-Se-84,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-3,Paula's Choice Official Store,819383.23,907550.25,3727,599,True,4.63,Malaysia,,2026-04-01
+P-Ne-Co-85,Nestle Coffee,B-Nestle,Nestle,S-11,Nestle Official Store,180059.67,184658.89,1954,144,True,4.62,Vietnam,,2026-04-01
+P-Lo-Wi-86,Logitech Wireless Mouse,B-Logitech,Logitech,S-33,Logitech Official Store,516133.46,562170.93,79,23,True,4.68,Vietnam,,2026-04-01
+P-An-US-87,Anker USB-C Cable,B-Anker,Anker,S-4,Anker Official Store,280124.88,315055.86,3795,2443,True,4.63,Thailand,,2026-04-01
+P-An-US-88,Anker USB-C Cable,B-Anker,Anker,S-10,Anker Official Store,241326.1,264823.87,4486,573,True,4.01,Vietnam,,2026-04-01
+P-JB-Ea-89,JBL Earbuds,B-JBL,JBL,S-5,JBL Official Store,1314041.89,1378264.35,1371,685,True,4.74,Vietnam,,2026-04-01
+P-Pa-Cl-90,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-10,Paula's Choice Official Store,569057.49,622547.39,237,1542,True,4.29,Vietnam,,2026-04-01
+P-Pa-Se-91,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-39,Paula's Choice Official Store,737337.4,781801.6,4344,673,True,4.93,Thailand,,2026-04-01
+P-Ne-Ch-92,Nestle Chocolate Drink,B-Nestle,Nestle,S-47,Nestle Official Store,133115.04,159022.11,2879,1162,True,4.25,Vietnam,,2026-04-01
+P-Pa-Cl-93,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-6,Paula's Choice Official Store,589600.39,712340.86,4870,1471,True,4.27,Vietnam,,2026-04-01
+P-Ne-Ce-94,Nestle Cereal,B-Nestle,Nestle,S-48,Nestle Official Store,194275.11,209751.8,2994,1276,True,4.59,Vietnam,,2026-04-01
+P-Pa-Se-95,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-1,Paula's Choice Official Store,800380.55,827703.07,2958,305,True,4.58,Vietnam,,2026-04-01
+P-Lo-Wi-96,Logitech Wireless Mouse,B-Logitech,Logitech,S-42,Logitech Official Store,493457.02,619359.84,205,1194,True,4.1,Malaysia,,2026-04-01
+P-Pa-Mo-97,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-21,Paula's Choice Official Store,827982.61,920362.7,4492,648,True,4.43,Thailand,,2026-04-01
+P-Lo-We-98,Logitech Webcam,B-Logitech,Logitech,S-45,Logitech Official Store,1392570.27,1693703.76,3781,2091,True,4.2,Thailand,,2026-04-01
+P-Ne-Ch-99,Nestle Chocolate Drink,B-Nestle,Nestle,S-46,Nestle Official Store,138699.27,155297.68,4194,2351,True,4.25,Malaysia,,2026-04-01
+P-An-Po-100,Anker Power Bank,B-Anker,Anker,S-18,Anker Official Store,759702.25,918027.29,1659,1332,True,4.33,Thailand,,2026-04-01
+P-Pa-Se-101,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-13,Paula's Choice Official Store,1075847.82,1345278.27,3787,2439,True,4.62,Malaysia,,2026-04-01
+P-Lo-We-102,Logitech Webcam,B-Logitech,Logitech,S-9,Logitech Official Store,1003722.76,1128095.68,2586,394,True,4.8,Malaysia,,2026-04-01
+P-Lo-Wi-103,Logitech Wireless Mouse,B-Logitech,Logitech,S-18,Logitech Official Store,502281.46,633251.69,4693,449,True,4.87,Thailand,,2026-04-01
+P-An-US-104,Anker USB-C Cable,B-Anker,Anker,S-15,Anker Official Store,369710.34,392051.4,92,1167,True,4.6,Thailand,,2026-04-01
+P-JB-Ea-105,JBL Earbuds,B-JBL,JBL,S-24,JBL Official Store,1391141.62,1440846.13,3308,827,True,4.71,Malaysia,,2026-04-01
+P-Pa-Cl-106,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-7,Paula's Choice Official Store,777046.04,997656.23,2698,2355,True,4.69,Vietnam,,2026-04-01
+P-An-Po-107,Anker Power Bank,B-Anker,Anker,S-27,Anker Official Store,707200.41,782691.17,2389,750,True,4.54,Vietnam,,2026-04-01
+P-JB-He-108,JBL Headphones,B-JBL,JBL,S-5,JBL Official Store,1508134.84,1880057.23,1601,626,True,4.35,Malaysia,,2026-04-01
+P-Pa-Se-109,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-49,Paula's Choice Official Store,963646.45,1045459.46,1266,141,True,4.08,Malaysia,,2026-04-01
+P-JB-Bl-110,JBL Bluetooth Speaker,B-JBL,JBL,S-17,JBL Official Store,1881152.21,2275335.27,2972,1313,True,4.46,Malaysia,,2026-04-01
+P-JB-Ea-111,JBL Earbuds,B-JBL,JBL,S-45,JBL Official Store,1348305.57,1560023.8,3348,601,True,4.72,Malaysia,,2026-04-01
+P-Ne-Ce-112,Nestle Cereal,B-Nestle,Nestle,S-36,Nestle Official Store,145025.99,162312.5,4799,1741,True,4.21,Thailand,,2026-04-01
+P-An-US-113,Anker USB-C Cable,B-Anker,Anker,S-19,Anker Official Store,263079.65,272593.93,4012,416,True,4.57,Malaysia,,2026-04-01
+P-An-Po-114,Anker Power Bank,B-Anker,Anker,S-10,Anker Official Store,578687.34,677905.26,478,1953,True,4.5,Vietnam,,2026-04-01
+P-An-Po-115,Anker Power Bank,B-Anker,Anker,S-29,Anker Official Store,558631.15,659807.42,4045,243,True,4.12,Thailand,,2026-04-01
+P-Lo-Wi-116,Logitech Wireless Mouse,B-Logitech,Logitech,S-7,Logitech Official Store,449064.5,545065.79,1378,309,True,4.68,Vietnam,,2026-04-01
+P-Pa-Cl-117,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-49,Paula's Choice Official Store,618935.0,703974.24,3675,533,True,4.86,Malaysia,,2026-04-01
+P-An-Po-118,Anker Power Bank,B-Anker,Anker,S-16,Anker Official Store,892936.8,1082968.8,3923,1101,True,4.54,Malaysia,,2026-04-01
+P-Lo-Wi-119,Logitech Wireless Mouse,B-Logitech,Logitech,S-41,Logitech Official Store,560946.36,709466.89,2576,1392,True,4.33,Vietnam,,2026-04-01
+P-Lo-We-120,Logitech Webcam,B-Logitech,Logitech,S-15,Logitech Official Store,1290617.8,1462630.34,4264,546,True,4.65,Thailand,,2026-04-01
+P-Pa-Mo-121,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-22,Paula's Choice Official Store,784117.38,814503.97,2595,2237,True,4.74,Thailand,,2026-04-01
+P-Ne-Co-122,Nestle Coffee,B-Nestle,Nestle,S-15,Nestle Official Store,175859.07,218956.51,561,1988,True,4.94,Vietnam,,2026-04-01
+P-Pa-Cl-123,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-14,Paula's Choice Official Store,600267.77,649268.33,4165,2111,True,4.71,Malaysia,,2026-04-01
+P-Ne-Ch-124,Nestle Chocolate Drink,B-Nestle,Nestle,S-43,Nestle Official Store,151754.2,155144.66,927,1090,True,4.84,Malaysia,,2026-04-01
+P-Lo-We-125,Logitech Webcam,B-Logitech,Logitech,S-15,Logitech Official Store,1235494.08,1527548.43,1985,1164,True,4.43,Thailand,,2026-04-01
+P-Pa-Cl-126,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-35,Paula's Choice Official Store,763242.66,940605.39,73,587,True,4.66,Vietnam,,2026-04-01
+P-Ne-Ce-127,Nestle Cereal,B-Nestle,Nestle,S-16,Nestle Official Store,130984.27,139423.6,2804,995,True,4.6,Vietnam,,2026-04-01
+P-Pa-Se-128,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-13,Paula's Choice Official Store,1089086.44,1204456.92,83,620,True,4.31,Vietnam,,2026-04-01
+P-JB-Bl-129,JBL Bluetooth Speaker,B-JBL,JBL,S-12,JBL Official Store,1856211.53,2114147.41,679,2352,True,4.75,Thailand,,2026-04-01
+P-Lo-Ke-130,Logitech Keyboard,B-Logitech,Logitech,S-32,Logitech Official Store,833258.41,955095.25,413,2114,True,4.69,Thailand,,2026-04-01
+P-An-US-131,Anker USB-C Cable,B-Anker,Anker,S-1,Anker Official Store,219565.64,263080.21,4281,927,True,4.6,Malaysia,,2026-04-01
+P-Pa-Mo-132,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-6,Paula's Choice Official Store,833446.83,1027671.93,1393,2392,True,4.37,Vietnam,,2026-04-01
+P-Ne-Co-133,Nestle Coffee,B-Nestle,Nestle,S-6,Nestle Official Store,194033.84,212017.17,4530,612,True,4.24,Vietnam,,2026-04-01
+P-JB-Ea-134,JBL Earbuds,B-JBL,JBL,S-40,JBL Official Store,1341533.5,1443890.15,4580,108,True,4.67,Thailand,,2026-04-01
+P-Pa-Se-135,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-38,Paula's Choice Official Store,1067267.93,1331480.58,2765,2079,True,5.0,Malaysia,,2026-04-01
+P-An-Po-136,Anker Power Bank,B-Anker,Anker,S-27,Anker Official Store,752481.39,768735.89,4476,2305,True,4.32,Malaysia,,2026-04-01
+P-An-Ch-137,Anker Charger,B-Anker,Anker,S-11,Anker Official Store,509928.15,641372.4,4633,1332,True,4.31,Malaysia,,2026-04-01
+P-Pa-Cl-138,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-16,Paula's Choice Official Store,680882.25,801909.55,4834,2190,True,4.39,Malaysia,,2026-04-01
+P-Ne-Co-139,Nestle Coffee,B-Nestle,Nestle,S-43,Nestle Official Store,205177.3,252754.73,3551,2126,True,4.14,Vietnam,,2026-04-01
+P-Lo-We-140,Logitech Webcam,B-Logitech,Logitech,S-21,Logitech Official Store,1149616.14,1240732.47,2857,1590,True,4.65,Malaysia,,2026-04-01
+P-Lo-Ke-141,Logitech Keyboard,B-Logitech,Logitech,S-11,Logitech Official Store,660655.93,783593.62,4413,2241,True,4.67,Thailand,,2026-04-01
+P-Pa-Mo-142,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-25,Paula's Choice Official Store,780129.15,946645.77,2535,922,True,4.16,Malaysia,,2026-04-01
+P-Ne-Co-143,Nestle Coffee,B-Nestle,Nestle,S-22,Nestle Official Store,154430.49,166347.37,1779,97,True,4.95,Malaysia,,2026-04-01
+P-Pa-Se-144,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-20,Paula's Choice Official Store,1084521.35,1360730.92,2720,94,True,4.4,Vietnam,,2026-04-01
+P-JB-Ea-145,JBL Earbuds,B-JBL,JBL,S-2,JBL Official Store,1551076.73,1944215.35,3905,1615,True,4.59,Vietnam,,2026-04-01
+P-An-US-146,Anker USB-C Cable,B-Anker,Anker,S-16,Anker Official Store,226913.45,270008.21,971,834,True,4.6,Vietnam,,2026-04-01
+P-JB-Bl-147,JBL Bluetooth Speaker,B-JBL,JBL,S-27,JBL Official Store,1768100.91,2141819.2,3357,1539,True,4.13,Malaysia,,2026-04-01
+P-An-Po-148,Anker Power Bank,B-Anker,Anker,S-15,Anker Official Store,776688.0,926835.49,2684,889,True,4.06,Thailand,,2026-04-01
+P-Ne-Ch-149,Nestle Chocolate Drink,B-Nestle,Nestle,S-49,Nestle Official Store,157661.66,203871.68,3886,929,True,4.09,Vietnam,,2026-04-01
+P-An-US-150,Anker USB-C Cable,B-Anker,Anker,S-38,Anker Official Store,216635.37,249777.6,2805,910,True,4.07,Thailand,,2026-04-01
+P-JB-Bl-151,JBL Bluetooth Speaker,B-JBL,JBL,S-40,JBL Official Store,1736072.0,2139885.65,613,1324,True,4.01,Vietnam,,2026-04-01
+P-An-US-152,Anker USB-C Cable,B-Anker,Anker,S-49,Anker Official Store,235802.97,257451.96,666,1041,True,4.06,Vietnam,,2026-04-01
+P-JB-Ea-153,JBL Earbuds,B-JBL,JBL,S-18,JBL Official Store,1342108.22,1706499.54,4291,2435,True,4.99,Thailand,,2026-04-01
+P-Pa-Mo-154,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-38,Paula's Choice Official Store,863869.94,918876.55,1319,1452,True,4.3,Malaysia,,2026-04-01
+P-An-US-155,Anker USB-C Cable,B-Anker,Anker,S-31,Anker Official Store,299324.86,312206.68,1020,829,True,4.72,Malaysia,,2026-04-01
+P-JB-Ea-156,JBL Earbuds,B-JBL,JBL,S-12,JBL Official Store,1312158.8,1539459.48,2183,1299,True,4.04,Vietnam,,2026-04-01
+P-JB-He-157,JBL Headphones,B-JBL,JBL,S-26,JBL Official Store,1403496.43,1801131.36,3832,1110,True,4.47,Vietnam,,2026-04-01
+P-Lo-We-158,Logitech Webcam,B-Logitech,Logitech,S-18,Logitech Official Store,1045375.69,1317949.57,2989,1467,True,4.7,Thailand,,2026-04-01
+P-An-Po-159,Anker Power Bank,B-Anker,Anker,S-45,Anker Official Store,792648.1,1008980.35,878,2037,True,4.18,Thailand,,2026-04-01
+P-An-Po-160,Anker Power Bank,B-Anker,Anker,S-39,Anker Official Store,798548.2,904577.22,2922,1700,True,4.28,Vietnam,,2026-04-01
+P-Ne-Co-161,Nestle Coffee,B-Nestle,Nestle,S-3,Nestle Official Store,180829.2,227698.86,2815,724,True,4.29,Thailand,,2026-04-01
+P-JB-Ea-162,JBL Earbuds,B-JBL,JBL,S-35,JBL Official Store,1226161.68,1379276.79,2983,391,True,4.89,Malaysia,,2026-04-01
+P-Ne-Co-163,Nestle Coffee,B-Nestle,Nestle,S-5,Nestle Official Store,184827.29,232260.23,337,1155,True,4.22,Malaysia,,2026-04-01
+P-JB-Ea-164,JBL Earbuds,B-JBL,JBL,S-42,JBL Official Store,1674885.53,2000774.36,305,341,True,4.15,Malaysia,,2026-04-01
+P-Lo-Wi-165,Logitech Wireless Mouse,B-Logitech,Logitech,S-24,Logitech Official Store,532698.94,573110.27,3159,1356,True,4.92,Malaysia,,2026-04-01
+P-JB-Bl-166,JBL Bluetooth Speaker,B-JBL,JBL,S-13,JBL Official Store,1958027.0,2428007.4,1550,160,True,4.76,Thailand,,2026-04-01
+P-Pa-Se-167,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-30,Paula's Choice Official Store,919829.06,1070329.84,900,17,True,4.77,Thailand,,2026-04-01
+P-JB-Ea-168,JBL Earbuds,B-JBL,JBL,S-48,JBL Official Store,1784796.32,2201742.83,3013,1495,True,4.62,Thailand,,2026-04-01
+P-Lo-Ke-169,Logitech Keyboard,B-Logitech,Logitech,S-30,Logitech Official Store,821707.38,866533.35,4542,1853,True,4.44,Malaysia,,2026-04-01
+P-Lo-We-170,Logitech Webcam,B-Logitech,Logitech,S-33,Logitech Official Store,912957.76,943899.74,3338,1021,True,4.61,Malaysia,,2026-04-01
+P-An-US-171,Anker USB-C Cable,B-Anker,Anker,S-42,Anker Official Store,241116.74,287173.85,912,143,True,4.57,Vietnam,,2026-04-01
+P-Lo-Wi-172,Logitech Wireless Mouse,B-Logitech,Logitech,S-6,Logitech Official Store,542869.54,694960.15,4467,950,True,4.32,Thailand,,2026-04-01
+P-JB-Bl-173,JBL Bluetooth Speaker,B-JBL,JBL,S-49,JBL Official Store,2247053.33,2347077.82,4352,1399,True,4.35,Thailand,,2026-04-01
+P-Lo-Wi-174,Logitech Wireless Mouse,B-Logitech,Logitech,S-38,Logitech Official Store,578027.91,695337.16,1081,1578,True,4.95,Malaysia,,2026-04-01
+P-An-US-175,Anker USB-C Cable,B-Anker,Anker,S-36,Anker Official Store,306678.56,391205.51,2135,1297,True,4.01,Thailand,,2026-04-01
+P-Lo-Wi-176,Logitech Wireless Mouse,B-Logitech,Logitech,S-46,Logitech Official Store,590756.42,648577.39,4921,901,True,4.09,Malaysia,,2026-04-01
+P-Lo-We-177,Logitech Webcam,B-Logitech,Logitech,S-44,Logitech Official Store,1060625.69,1357618.44,952,141,True,4.24,Thailand,,2026-04-01
+P-Ne-Ch-178,Nestle Chocolate Drink,B-Nestle,Nestle,S-24,Nestle Official Store,129141.75,149859.32,3079,1101,True,4.75,Malaysia,,2026-04-01
+P-Pa-Mo-179,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-3,Paula's Choice Official Store,826730.99,911383.85,2007,275,True,4.46,Malaysia,,2026-04-01
+P-Lo-Wi-180,Logitech Wireless Mouse,B-Logitech,Logitech,S-12,Logitech Official Store,545584.5,610997.49,4212,1716,True,4.69,Thailand,,2026-04-01
+P-Lo-Ke-181,Logitech Keyboard,B-Logitech,Logitech,S-3,Logitech Official Store,896438.01,1097526.39,4274,989,True,4.86,Vietnam,,2026-04-01
+P-Ne-Ce-182,Nestle Cereal,B-Nestle,Nestle,S-15,Nestle Official Store,154184.97,169699.79,279,952,True,4.73,Vietnam,,2026-04-01
+P-Lo-Wi-183,Logitech Wireless Mouse,B-Logitech,Logitech,S-6,Logitech Official Store,614081.85,693441.9,2702,879,True,4.34,Vietnam,,2026-04-01
+P-Ne-Ch-184,Nestle Chocolate Drink,B-Nestle,Nestle,S-10,Nestle Official Store,163220.81,185262.14,4470,1013,True,4.08,Thailand,,2026-04-01
+P-An-Po-185,Anker Power Bank,B-Anker,Anker,S-37,Anker Official Store,718707.5,752951.33,4568,1265,True,4.59,Vietnam,,2026-04-01
+P-JB-He-186,JBL Headphones,B-JBL,JBL,S-30,JBL Official Store,1919319.92,1975141.74,2041,2160,True,4.1,Malaysia,,2026-04-01
+P-Pa-Cl-187,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-28,Paula's Choice Official Store,698703.56,859045.57,3991,610,True,4.26,Malaysia,,2026-04-01
+P-Pa-Cl-188,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-37,Paula's Choice Official Store,651822.25,704693.36,2188,2437,True,4.25,Malaysia,,2026-04-01
+P-Pa-Se-189,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-17,Paula's Choice Official Store,850889.98,1064118.44,4147,682,True,4.9,Thailand,,2026-04-01
+P-Lo-Wi-190,Logitech Wireless Mouse,B-Logitech,Logitech,S-46,Logitech Official Store,416666.68,523106.03,1292,76,True,4.81,Thailand,,2026-04-01
+P-JB-Bl-191,JBL Bluetooth Speaker,B-JBL,JBL,S-35,JBL Official Store,1281367.66,1471720.88,1113,10,True,4.68,Vietnam,,2026-04-01
+P-Pa-Cl-192,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-20,Paula's Choice Official Store,611426.99,705077.39,4515,714,True,4.65,Malaysia,,2026-04-01
+P-Pa-Se-193,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-14,Paula's Choice Official Store,903727.33,1156652.15,2980,2436,True,4.24,Vietnam,,2026-04-01
+P-An-Ch-194,Anker Charger,B-Anker,Anker,S-20,Anker Official Store,454135.75,545646.86,1665,1703,True,4.4,Malaysia,,2026-04-01
+P-Ne-Co-195,Nestle Coffee,B-Nestle,Nestle,S-43,Nestle Official Store,176157.93,198101.61,1103,1093,True,4.44,Vietnam,,2026-04-01
+P-Ne-Co-196,Nestle Coffee,B-Nestle,Nestle,S-47,Nestle Official Store,206817.84,215014.09,3937,812,True,4.16,Thailand,,2026-04-01
+P-Ne-Ce-197,Nestle Cereal,B-Nestle,Nestle,S-32,Nestle Official Store,175042.18,189329.97,2314,1222,True,4.56,Vietnam,,2026-04-01
+P-An-Ch-198,Anker Charger,B-Anker,Anker,S-44,Anker Official Store,500963.65,518026.49,2448,107,True,4.64,Vietnam,,2026-04-01
+P-Lo-We-199,Logitech Webcam,B-Logitech,Logitech,S-18,Logitech Official Store,1036349.95,1275406.26,2810,427,True,4.73,Thailand,,2026-04-01
+P-An-US-200,Anker USB-C Cable,B-Anker,Anker,S-42,Anker Official Store,257745.31,299019.0,3247,1452,True,4.55,Vietnam,,2026-04-01
+P-Lo-Wi-201,Logitech Wireless Mouse,B-Logitech,Logitech,S-48,Logitech Official Store,478165.79,564451.67,3992,451,True,4.27,Thailand,,2026-04-01
+P-An-Ch-202,Anker Charger,B-Anker,Anker,S-19,Anker Official Store,395987.81,429841.26,2493,730,True,4.82,Vietnam,,2026-04-01
+P-An-US-203,Anker USB-C Cable,B-Anker,Anker,S-48,Anker Official Store,288484.52,326581.62,2836,783,True,4.45,Vietnam,,2026-04-01
+P-Pa-Mo-204,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-49,Paula's Choice Official Store,950731.44,1152907.1,870,1819,True,4.07,Vietnam,,2026-04-01
+P-JB-Bl-205,JBL Bluetooth Speaker,B-JBL,JBL,S-23,JBL Official Store,2046763.84,2263762.97,4155,2333,True,4.16,Vietnam,,2026-04-01
+P-JB-Bl-206,JBL Bluetooth Speaker,B-JBL,JBL,S-30,JBL Official Store,1946979.77,2362297.04,4500,1965,True,4.05,Vietnam,,2026-04-01
+P-An-US-207,Anker USB-C Cable,B-Anker,Anker,S-11,Anker Official Store,277410.88,301120.53,1650,2457,True,4.95,Thailand,,2026-04-01
+P-Lo-Ke-208,Logitech Keyboard,B-Logitech,Logitech,S-11,Logitech Official Store,835899.75,864466.03,813,245,True,4.01,Thailand,,2026-04-01
+P-An-Po-209,Anker Power Bank,B-Anker,Anker,S-6,Anker Official Store,764971.6,905199.06,4616,435,True,4.25,Malaysia,,2026-04-01
+P-Pa-Cl-210,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-47,Paula's Choice Official Store,869979.53,1070428.75,4043,579,True,4.05,Malaysia,,2026-04-01
+P-Ne-Co-211,Nestle Coffee,B-Nestle,Nestle,S-17,Nestle Official Store,210396.62,224226.89,4501,1832,True,4.82,Thailand,,2026-04-01
+P-JB-Ea-212,JBL Earbuds,B-JBL,JBL,S-16,JBL Official Store,1548846.22,1616045.97,999,1099,True,4.05,Thailand,,2026-04-01
+P-Ne-Co-213,Nestle Coffee,B-Nestle,Nestle,S-15,Nestle Official Store,172199.21,210721.58,4353,1464,True,4.16,Vietnam,,2026-04-01
+P-Pa-Cl-214,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-6,Paula's Choice Official Store,604373.24,641717.37,4956,1192,True,4.41,Vietnam,,2026-04-01
+P-Pa-Cl-215,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-45,Paula's Choice Official Store,686551.24,706947.55,1840,475,True,4.8,Thailand,,2026-04-01
+P-An-US-216,Anker USB-C Cable,B-Anker,Anker,S-36,Anker Official Store,266205.43,338292.05,4966,1943,True,4.65,Thailand,,2026-04-01
+P-Ne-Ch-217,Nestle Chocolate Drink,B-Nestle,Nestle,S-9,Nestle Official Store,125018.78,156435.76,1341,392,True,4.11,Malaysia,,2026-04-01
+P-JB-Bl-218,JBL Bluetooth Speaker,B-JBL,JBL,S-44,JBL Official Store,1628325.82,1676822.23,4743,1635,True,4.99,Thailand,,2026-04-01
+P-An-US-219,Anker USB-C Cable,B-Anker,Anker,S-35,Anker Official Store,252116.37,281993.52,2518,1881,True,4.87,Thailand,,2026-04-01
+P-An-Ch-220,Anker Charger,B-Anker,Anker,S-2,Anker Official Store,430620.96,493062.61,2393,1892,True,4.85,Vietnam,,2026-04-01
+P-JB-Bl-221,JBL Bluetooth Speaker,B-JBL,JBL,S-11,JBL Official Store,2154416.35,2365770.32,916,345,True,4.78,Malaysia,,2026-04-01
+P-Pa-Mo-222,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-32,Paula's Choice Official Store,761867.84,882109.67,350,563,True,4.21,Thailand,,2026-04-01
+P-Pa-Mo-223,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-4,Paula's Choice Official Store,638919.69,759478.43,1161,2462,True,4.29,Thailand,,2026-04-01
+P-Pa-Mo-224,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-49,Paula's Choice Official Store,738721.67,893421.4,2259,660,True,4.01,Malaysia,,2026-04-01
+P-Ne-Ce-225,Nestle Cereal,B-Nestle,Nestle,S-10,Nestle Official Store,167001.39,171201.16,473,302,True,4.23,Vietnam,,2026-04-01
+P-JB-He-226,JBL Headphones,B-JBL,JBL,S-43,JBL Official Store,1655418.34,2082259.68,4461,2214,True,4.18,Thailand,,2026-04-01
+P-Lo-Ke-227,Logitech Keyboard,B-Logitech,Logitech,S-9,Logitech Official Store,754980.22,868449.47,551,1892,True,4.81,Vietnam,,2026-04-01
+P-Ne-Ch-228,Nestle Chocolate Drink,B-Nestle,Nestle,S-27,Nestle Official Store,154582.7,165233.63,1439,1699,True,4.81,Thailand,,2026-04-01
+P-Pa-Cl-229,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-28,Paula's Choice Official Store,498798.45,633128.67,2202,875,True,4.5,Malaysia,,2026-04-01
+P-Pa-Se-230,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-6,Paula's Choice Official Store,941574.41,1000133.27,4161,1713,True,4.29,Thailand,,2026-04-01
+P-JB-He-231,JBL Headphones,B-JBL,JBL,S-20,JBL Official Store,1660883.25,2083592.37,224,667,True,4.0,Vietnam,,2026-04-01
+P-An-Ch-232,Anker Charger,B-Anker,Anker,S-31,Anker Official Store,518871.23,615469.06,3819,714,True,4.68,Vietnam,,2026-04-01
+P-Lo-Wi-233,Logitech Wireless Mouse,B-Logitech,Logitech,S-7,Logitech Official Store,594052.88,698512.31,3659,1828,True,4.81,Malaysia,,2026-04-01
+P-Lo-Wi-234,Logitech Wireless Mouse,B-Logitech,Logitech,S-23,Logitech Official Store,514081.4,539251.62,645,1919,True,4.3,Thailand,,2026-04-01
+P-An-Po-235,Anker Power Bank,B-Anker,Anker,S-17,Anker Official Store,756467.13,922434.79,4601,87,True,4.15,Vietnam,,2026-04-01
+P-JB-Bl-236,JBL Bluetooth Speaker,B-JBL,JBL,S-31,JBL Official Store,1826788.3,2278794.68,3891,1990,True,4.61,Malaysia,,2026-04-01
+P-Ne-Ch-237,Nestle Chocolate Drink,B-Nestle,Nestle,S-1,Nestle Official Store,145249.73,164011.92,4733,1963,True,4.99,Vietnam,,2026-04-01
+P-An-Po-238,Anker Power Bank,B-Anker,Anker,S-47,Anker Official Store,815919.89,906930.44,158,1877,True,4.49,Thailand,,2026-04-01
+P-Ne-Ce-239,Nestle Cereal,B-Nestle,Nestle,S-33,Nestle Official Store,156209.51,189716.93,2786,1503,True,4.12,Vietnam,,2026-04-01
+P-Ne-Co-240,Nestle Coffee,B-Nestle,Nestle,S-27,Nestle Official Store,173137.57,224821.14,200,657,True,4.67,Vietnam,,2026-04-01
+P-Lo-Ke-241,Logitech Keyboard,B-Logitech,Logitech,S-22,Logitech Official Store,997084.95,1189312.62,2288,2040,True,4.55,Malaysia,,2026-04-01
+P-Pa-Mo-242,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-19,Paula's Choice Official Store,687077.48,849243.82,2829,1579,True,4.98,Thailand,,2026-04-01
+P-An-US-243,Anker USB-C Cable,B-Anker,Anker,S-38,Anker Official Store,222775.68,278384.7,2687,431,True,4.27,Thailand,,2026-04-01
+P-Ne-Ce-244,Nestle Cereal,B-Nestle,Nestle,S-47,Nestle Official Store,165835.24,206759.86,405,267,True,4.64,Vietnam,,2026-04-01
+P-JB-He-245,JBL Headphones,B-JBL,JBL,S-12,JBL Official Store,1646518.66,2034644.64,3664,1657,True,4.53,Thailand,,2026-04-01
+P-JB-He-246,JBL Headphones,B-JBL,JBL,S-4,JBL Official Store,1754084.64,1951907.89,1128,1508,True,4.76,Vietnam,,2026-04-01
+P-Pa-Mo-247,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-45,Paula's Choice Official Store,880547.24,1033878.78,820,751,True,4.97,Thailand,,2026-04-01
+P-Pa-Cl-248,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-35,Paula's Choice Official Store,590061.15,629297.1,827,352,True,5.0,Thailand,,2026-04-01
+P-Ne-Co-249,Nestle Coffee,B-Nestle,Nestle,S-25,Nestle Official Store,178636.33,187968.46,976,2410,True,4.39,Vietnam,,2026-04-01
+P-JB-Ea-250,JBL Earbuds,B-JBL,JBL,S-41,JBL Official Store,1429286.62,1839889.88,4455,654,True,4.26,Thailand,,2026-04-01
+P-JB-Ea-251,JBL Earbuds,B-JBL,JBL,S-33,JBL Official Store,1488510.26,1880118.56,2590,1776,True,4.39,Thailand,,2026-04-01
+P-Pa-Cl-252,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-9,Paula's Choice Official Store,577075.5,595397.61,4416,924,True,4.8,Malaysia,,2026-04-01
+P-Pa-Mo-253,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-14,Paula's Choice Official Store,847275.33,998461.58,4502,1184,True,4.3,Malaysia,,2026-04-01
+P-An-Ch-254,Anker Charger,B-Anker,Anker,S-48,Anker Official Store,570180.31,594454.2,4087,1306,True,4.48,Malaysia,,2026-04-01
+P-Ne-Ce-255,Nestle Cereal,B-Nestle,Nestle,S-7,Nestle Official Store,127016.47,140474.15,286,2435,True,4.88,Thailand,,2026-04-01
+P-Pa-Cl-256,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-37,Paula's Choice Official Store,684911.35,809962.92,2110,1998,True,4.81,Thailand,,2026-04-01
+P-An-Ch-257,Anker Charger,B-Anker,Anker,S-12,Anker Official Store,332080.71,419977.49,1812,1569,True,4.28,Vietnam,,2026-04-01
+P-JB-Bl-258,JBL Bluetooth Speaker,B-JBL,JBL,S-3,JBL Official Store,1546546.36,1601105.91,1188,1711,True,4.46,Thailand,,2026-04-01
+P-JB-Ea-259,JBL Earbuds,B-JBL,JBL,S-31,JBL Official Store,1682007.17,2109076.03,4705,895,True,4.59,Vietnam,,2026-04-01
+P-Lo-Ke-260,Logitech Keyboard,B-Logitech,Logitech,S-21,Logitech Official Store,844196.05,966358.17,1620,1791,True,4.96,Vietnam,,2026-04-01
+P-Ne-Ch-261,Nestle Chocolate Drink,B-Nestle,Nestle,S-45,Nestle Official Store,141963.77,163816.81,3763,2468,True,4.82,Malaysia,,2026-04-01
+P-JB-Ea-262,JBL Earbuds,B-JBL,JBL,S-15,JBL Official Store,1163167.58,1403508.42,954,2175,True,4.16,Vietnam,,2026-04-01
+P-An-US-263,Anker USB-C Cable,B-Anker,Anker,S-6,Anker Official Store,253999.84,286582.43,2700,593,True,4.95,Vietnam,,2026-04-01
+P-An-Ch-264,Anker Charger,B-Anker,Anker,S-45,Anker Official Store,451017.38,467872.62,3117,1361,True,4.99,Thailand,,2026-04-01
+P-Lo-Ke-265,Logitech Keyboard,B-Logitech,Logitech,S-7,Logitech Official Store,738512.35,776760.93,2092,843,True,4.04,Vietnam,,2026-04-01
+P-Lo-Ke-266,Logitech Keyboard,B-Logitech,Logitech,S-46,Logitech Official Store,809015.07,1039480.69,3029,310,True,4.17,Vietnam,,2026-04-01
+P-Lo-Ke-267,Logitech Keyboard,B-Logitech,Logitech,S-41,Logitech Official Store,863563.74,1006222.11,449,2223,True,4.69,Thailand,,2026-04-01
+P-JB-Bl-268,JBL Bluetooth Speaker,B-JBL,JBL,S-18,JBL Official Store,1729328.53,2032522.89,3545,1347,True,4.67,Vietnam,,2026-04-01
+P-An-Ch-269,Anker Charger,B-Anker,Anker,S-32,Anker Official Store,398526.81,452658.72,4593,818,True,4.99,Malaysia,,2026-04-01
+P-An-US-270,Anker USB-C Cable,B-Anker,Anker,S-13,Anker Official Store,223978.47,253113.86,4273,1146,True,4.62,Thailand,,2026-04-01
+P-Pa-Se-271,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-47,Paula's Choice Official Store,1031232.68,1209780.39,1884,592,True,4.07,Thailand,,2026-04-01
+P-Pa-Mo-272,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-26,Paula's Choice Official Store,878413.37,975898.26,4499,1456,True,4.49,Vietnam,,2026-04-01
+P-Lo-We-273,Logitech Webcam,B-Logitech,Logitech,S-23,Logitech Official Store,1157521.32,1497718.9,3376,1878,True,4.81,Malaysia,,2026-04-01
+P-Ne-Ch-274,Nestle Chocolate Drink,B-Nestle,Nestle,S-49,Nestle Official Store,136962.46,172928.59,156,1511,True,4.46,Vietnam,,2026-04-01
+P-JB-Ea-275,JBL Earbuds,B-JBL,JBL,S-22,JBL Official Store,1482194.74,1747796.07,4109,423,True,4.4,Malaysia,,2026-04-01
+P-Ne-Ch-276,Nestle Chocolate Drink,B-Nestle,Nestle,S-41,Nestle Official Store,105628.73,111514.33,2142,1674,True,4.36,Malaysia,,2026-04-01
+P-An-Ch-277,Anker Charger,B-Anker,Anker,S-13,Anker Official Store,564105.15,668422.65,520,1883,True,4.24,Malaysia,,2026-04-01
+P-JB-He-278,JBL Headphones,B-JBL,JBL,S-47,JBL Official Store,2057527.15,2219722.04,4805,439,True,4.35,Malaysia,,2026-04-01
+P-Pa-Mo-279,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-45,Paula's Choice Official Store,944472.91,1050780.03,2610,300,True,4.61,Thailand,,2026-04-01
+P-JB-He-280,JBL Headphones,B-JBL,JBL,S-28,JBL Official Store,1717252.37,1780893.82,2015,1565,True,4.32,Malaysia,,2026-04-01
+P-Lo-Ke-281,Logitech Keyboard,B-Logitech,Logitech,S-38,Logitech Official Store,823754.72,906109.83,931,1969,True,4.32,Malaysia,,2026-04-01
+P-Pa-Mo-282,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-49,Paula's Choice Official Store,719607.89,740232.32,1937,2396,True,4.52,Malaysia,,2026-04-01
+P-Lo-Wi-283,Logitech Wireless Mouse,B-Logitech,Logitech,S-43,Logitech Official Store,506823.02,587137.19,3583,349,True,4.32,Vietnam,,2026-04-01
+P-JB-Bl-284,JBL Bluetooth Speaker,B-JBL,JBL,S-1,JBL Official Store,2170250.14,2768483.09,4016,485,True,4.27,Malaysia,,2026-04-01
+P-Ne-Ch-285,Nestle Chocolate Drink,B-Nestle,Nestle,S-45,Nestle Official Store,123332.62,136380.76,2098,1662,True,4.07,Thailand,,2026-04-01
+P-Lo-We-286,Logitech Webcam,B-Logitech,Logitech,S-18,Logitech Official Store,1227805.49,1498133.72,2677,1784,True,4.36,Malaysia,,2026-04-01
+P-Ne-Ch-287,Nestle Chocolate Drink,B-Nestle,Nestle,S-26,Nestle Official Store,142231.83,157374.5,1441,276,True,4.33,Vietnam,,2026-04-01
+P-Lo-Wi-288,Logitech Wireless Mouse,B-Logitech,Logitech,S-29,Logitech Official Store,568127.59,720417.56,2602,942,True,4.74,Malaysia,,2026-04-01
+P-JB-Bl-289,JBL Bluetooth Speaker,B-JBL,JBL,S-48,JBL Official Store,1925664.03,2438527.43,4316,525,True,4.14,Vietnam,,2026-04-01
+P-An-Ch-290,Anker Charger,B-Anker,Anker,S-9,Anker Official Store,575491.83,625524.28,228,1786,True,4.41,Vietnam,,2026-04-01
+P-JB-Bl-291,JBL Bluetooth Speaker,B-JBL,JBL,S-5,JBL Official Store,1800147.49,1989069.29,4116,739,True,4.69,Vietnam,,2026-04-01
+P-Pa-Mo-292,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-3,Paula's Choice Official Store,982832.62,1202310.1,2775,598,True,4.21,Vietnam,,2026-04-01
+P-Ne-Co-293,Nestle Coffee,B-Nestle,Nestle,S-19,Nestle Official Store,158732.15,179608.38,923,1395,True,4.92,Malaysia,,2026-04-01
+P-Lo-We-294,Logitech Webcam,B-Logitech,Logitech,S-19,Logitech Official Store,1258058.0,1333648.64,2947,1640,True,4.38,Vietnam,,2026-04-01
+P-An-Po-295,Anker Power Bank,B-Anker,Anker,S-40,Anker Official Store,640238.61,814965.79,3685,1760,True,4.6,Vietnam,,2026-04-01
+P-An-US-296,Anker USB-C Cable,B-Anker,Anker,S-34,Anker Official Store,274624.79,346034.01,4022,522,True,4.69,Vietnam,,2026-04-01
+P-JB-Ea-297,JBL Earbuds,B-JBL,JBL,S-46,JBL Official Store,1329412.57,1376016.79,2408,1312,True,4.8,Vietnam,,2026-04-01
+P-JB-Ea-298,JBL Earbuds,B-JBL,JBL,S-30,JBL Official Store,1378511.56,1661723.79,4952,1356,True,4.87,Malaysia,,2026-04-01
+P-An-Ch-299,Anker Charger,B-Anker,Anker,S-29,Anker Official Store,468776.49,607645.74,220,1228,True,4.68,Vietnam,,2026-04-01
+P-Ne-Ch-0,Nestle Chocolate Drink,B-Nestle,Nestle,S-1,Nestle Official Store,109859.83,138501.42,1784,468,True,4.85,Malaysia,,2026-05-01
+P-Ne-Ch-1,Nestle Chocolate Drink,B-Nestle,Nestle,S-42,Nestle Official Store,146685.53,183320.91,719,1512,True,4.58,Vietnam,,2026-05-01
+P-An-Ch-2,Anker Charger,B-Anker,Anker,S-47,Anker Official Store,524420.83,656720.44,640,120,True,4.47,Vietnam,,2026-05-01
+P-JB-He-3,JBL Headphones,B-JBL,JBL,S-24,JBL Official Store,1571134.39,1665022.85,3729,1878,True,4.41,Malaysia,,2026-05-01
+P-Pa-Mo-4,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-8,Paula's Choice Official Store,786836.81,941674.71,3692,391,True,4.63,Malaysia,,2026-05-01
+P-JB-He-5,JBL Headphones,B-JBL,JBL,S-32,JBL Official Store,1636367.91,2024418.62,1754,1956,True,5.0,Thailand,,2026-05-01
+P-Ne-Co-6,Nestle Coffee,B-Nestle,Nestle,S-29,Nestle Official Store,178688.97,200134.12,1135,1995,True,4.88,Vietnam,,2026-05-01
+P-JB-He-7,JBL Headphones,B-JBL,JBL,S-27,JBL Official Store,1643093.84,1704999.66,3669,344,True,4.42,Thailand,,2026-05-01
+P-JB-Ea-8,JBL Earbuds,B-JBL,JBL,S-2,JBL Official Store,1265380.08,1388784.49,626,1963,True,4.32,Malaysia,,2026-05-01
+P-Lo-We-9,Logitech Webcam,B-Logitech,Logitech,S-20,Logitech Official Store,1154529.76,1318326.86,1581,1645,True,4.57,Vietnam,,2026-05-01
+P-Lo-Wi-10,Logitech Wireless Mouse,B-Logitech,Logitech,S-46,Logitech Official Store,458906.47,483550.57,1662,2379,True,4.93,Thailand,,2026-05-01
+P-Lo-Wi-11,Logitech Wireless Mouse,B-Logitech,Logitech,S-43,Logitech Official Store,532275.75,594910.2,2136,1572,True,4.71,Vietnam,,2026-05-01
+P-Pa-Cl-12,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-37,Paula's Choice Official Store,755449.91,842740.97,200,299,True,4.82,Malaysia,,2026-05-01
+P-Lo-We-13,Logitech Webcam,B-Logitech,Logitech,S-30,Logitech Official Store,1042397.37,1316016.25,2839,870,True,4.46,Thailand,,2026-05-01
+P-An-Ch-14,Anker Charger,B-Anker,Anker,S-43,Anker Official Store,463608.5,601670.18,1850,1874,True,4.86,Thailand,,2026-05-01
+P-Ne-Ce-15,Nestle Cereal,B-Nestle,Nestle,S-6,Nestle Official Store,123416.32,130096.39,3229,2012,True,4.07,Malaysia,,2026-05-01
+P-Lo-Ke-16,Logitech Keyboard,B-Logitech,Logitech,S-22,Logitech Official Store,861873.16,923736.41,3798,955,True,4.22,Vietnam,,2026-05-01
+P-JB-Ea-17,JBL Earbuds,B-JBL,JBL,S-29,JBL Official Store,1224464.57,1559335.7,1552,2477,True,4.54,Malaysia,,2026-05-01
+P-Lo-We-18,Logitech Webcam,B-Logitech,Logitech,S-14,Logitech Official Store,1080335.59,1192105.53,2548,989,True,4.84,Thailand,,2026-05-01
+P-An-Ch-19,Anker Charger,B-Anker,Anker,S-34,Anker Official Store,432699.74,480884.75,3215,1921,True,4.04,Malaysia,,2026-05-01
+P-JB-He-20,JBL Headphones,B-JBL,JBL,S-40,JBL Official Store,1716596.46,1832066.41,2925,69,True,4.84,Thailand,,2026-05-01
+P-An-Po-21,Anker Power Bank,B-Anker,Anker,S-7,Anker Official Store,666200.5,829309.54,4041,2160,True,4.29,Vietnam,,2026-05-01
+P-JB-Ea-22,JBL Earbuds,B-JBL,JBL,S-17,JBL Official Store,1809145.67,2200394.95,2729,1866,True,4.65,Thailand,,2026-05-01
+P-Lo-Wi-23,Logitech Wireless Mouse,B-Logitech,Logitech,S-6,Logitech Official Store,429646.64,452461.85,931,2097,True,4.19,Thailand,,2026-05-01
+P-Pa-Cl-24,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-27,Paula's Choice Official Store,724265.84,911719.89,4310,1595,True,4.83,Malaysia,,2026-05-01
+P-JB-Ea-25,JBL Earbuds,B-JBL,JBL,S-23,JBL Official Store,1589929.95,1901154.43,2490,550,True,4.45,Malaysia,,2026-05-01
+P-Lo-We-26,Logitech Webcam,B-Logitech,Logitech,S-7,Logitech Official Store,1137450.32,1417621.51,646,2322,True,4.67,Malaysia,,2026-05-01
+P-Pa-Mo-27,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-36,Paula's Choice Official Store,864984.8,1026746.28,3198,2126,True,4.97,Thailand,,2026-05-01
+P-Pa-Mo-28,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-46,Paula's Choice Official Store,945813.77,1153463.76,2264,502,True,4.47,Vietnam,,2026-05-01
+P-Ne-Ce-29,Nestle Cereal,B-Nestle,Nestle,S-25,Nestle Official Store,152936.54,173685.45,2524,990,True,4.32,Malaysia,,2026-05-01
+P-Pa-Cl-30,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-24,Paula's Choice Official Store,597498.79,643268.29,4491,613,True,4.09,Vietnam,,2026-05-01
+P-JB-He-31,JBL Headphones,B-JBL,JBL,S-24,JBL Official Store,1555084.5,1759167.59,3750,1301,True,4.16,Thailand,,2026-05-01
+P-Pa-Mo-32,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-45,Paula's Choice Official Store,879804.61,1033874.33,942,2326,True,4.73,Vietnam,,2026-05-01
+P-Ne-Co-33,Nestle Coffee,B-Nestle,Nestle,S-9,Nestle Official Store,182650.52,203069.88,3115,161,True,4.34,Vietnam,,2026-05-01
+P-Pa-Mo-34,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-19,Paula's Choice Official Store,757826.55,821145.98,2935,1976,True,4.49,Malaysia,,2026-05-01
+P-Pa-Se-35,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-18,Paula's Choice Official Store,736574.69,949617.29,1746,2021,True,4.91,Thailand,,2026-05-01
+P-Lo-Wi-36,Logitech Wireless Mouse,B-Logitech,Logitech,S-26,Logitech Official Store,572068.61,711060.79,3456,1336,True,4.79,Vietnam,,2026-05-01
+P-Ne-Co-37,Nestle Coffee,B-Nestle,Nestle,S-49,Nestle Official Store,160873.6,181886.09,2541,148,True,4.45,Thailand,,2026-05-01
+P-JB-Bl-38,JBL Bluetooth Speaker,B-JBL,JBL,S-43,JBL Official Store,1570714.58,1931701.61,2743,94,True,4.6,Thailand,,2026-05-01
+P-Lo-Ke-39,Logitech Keyboard,B-Logitech,Logitech,S-3,Logitech Official Store,901252.09,1041061.83,97,1542,True,4.43,Vietnam,,2026-05-01
+P-Lo-Ke-40,Logitech Keyboard,B-Logitech,Logitech,S-26,Logitech Official Store,752634.44,861829.21,1989,1606,True,4.02,Vietnam,,2026-05-01
+P-JB-Bl-41,JBL Bluetooth Speaker,B-JBL,JBL,S-2,JBL Official Store,1992795.7,2500854.81,1329,1727,True,4.94,Vietnam,,2026-05-01
+P-Ne-Ce-42,Nestle Cereal,B-Nestle,Nestle,S-6,Nestle Official Store,119986.78,144172.52,2026,1220,True,4.18,Thailand,,2026-05-01
+P-Pa-Mo-43,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-40,Paula's Choice Official Store,865236.74,1027250.12,4605,1802,True,4.21,Thailand,,2026-05-01
+P-JB-Bl-44,JBL Bluetooth Speaker,B-JBL,JBL,S-3,JBL Official Store,1919955.97,2056098.02,4503,539,True,4.79,Vietnam,,2026-05-01
+P-Lo-We-45,Logitech Webcam,B-Logitech,Logitech,S-17,Logitech Official Store,1157997.86,1244866.63,4530,1177,True,4.84,Malaysia,,2026-05-01
+P-Pa-Cl-46,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-38,Paula's Choice Official Store,570536.61,693164.26,393,2171,True,4.26,Malaysia,,2026-05-01
+P-Lo-Ke-47,Logitech Keyboard,B-Logitech,Logitech,S-3,Logitech Official Store,763339.24,800274.44,3035,887,True,4.48,Thailand,,2026-05-01
+P-Ne-Ce-48,Nestle Cereal,B-Nestle,Nestle,S-18,Nestle Official Store,169797.12,215903.74,2274,23,True,4.92,Vietnam,,2026-05-01
+P-Lo-Ke-49,Logitech Keyboard,B-Logitech,Logitech,S-11,Logitech Official Store,959735.76,1028318.2,3548,1030,True,4.53,Thailand,,2026-05-01
+P-An-Po-50,Anker Power Bank,B-Anker,Anker,S-42,Anker Official Store,652066.35,806500.09,4585,2305,True,4.66,Thailand,,2026-05-01
+P-Pa-Cl-51,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-30,Paula's Choice Official Store,712345.95,837923.94,2756,2268,True,4.39,Thailand,,2026-05-01
+P-Lo-Wi-52,Logitech Wireless Mouse,B-Logitech,Logitech,S-6,Logitech Official Store,389658.49,497886.15,1710,1079,True,4.74,Thailand,,2026-05-01
+P-An-US-53,Anker USB-C Cable,B-Anker,Anker,S-21,Anker Official Store,240573.39,280278.32,2116,2012,True,4.48,Vietnam,,2026-05-01
+P-Pa-Cl-54,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-32,Paula's Choice Official Store,651767.61,805095.41,3895,29,True,4.12,Thailand,,2026-05-01
+P-Pa-Cl-55,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-31,Paula's Choice Official Store,549113.3,618964.51,2653,459,True,4.44,Thailand,,2026-05-01
+P-JB-Ea-56,JBL Earbuds,B-JBL,JBL,S-18,JBL Official Store,1362689.35,1625251.74,2699,2140,True,4.62,Thailand,,2026-05-01
+P-Ne-Co-57,Nestle Coffee,B-Nestle,Nestle,S-49,Nestle Official Store,162694.2,184363.06,168,198,True,4.97,Thailand,,2026-05-01
+P-Ne-Co-58,Nestle Coffee,B-Nestle,Nestle,S-18,Nestle Official Store,183179.03,230345.94,4866,866,True,4.48,Malaysia,,2026-05-01
+P-An-US-59,Anker USB-C Cable,B-Anker,Anker,S-34,Anker Official Store,200805.24,210198.78,1957,1558,True,4.91,Vietnam,,2026-05-01
+P-JB-Ea-60,JBL Earbuds,B-JBL,JBL,S-40,JBL Official Store,1369646.66,1481532.2,2968,1278,True,4.75,Thailand,,2026-05-01
+P-Pa-Mo-61,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-22,Paula's Choice Official Store,740218.13,833157.05,3049,1286,True,4.01,Thailand,,2026-05-01
+P-Pa-Se-62,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-37,Paula's Choice Official Store,1072618.65,1216131.41,1450,1545,True,4.19,Malaysia,,2026-05-01
+P-Ne-Co-63,Nestle Coffee,B-Nestle,Nestle,S-15,Nestle Official Store,189956.13,200738.16,789,1803,True,4.76,Vietnam,,2026-05-01
+P-An-Ch-64,Anker Charger,B-Anker,Anker,S-11,Anker Official Store,481973.12,555601.37,4151,425,True,5.0,Malaysia,,2026-05-01
+P-JB-He-65,JBL Headphones,B-JBL,JBL,S-39,JBL Official Store,1470255.53,1681960.9,1989,667,True,4.95,Vietnam,,2026-05-01
+P-JB-Bl-66,JBL Bluetooth Speaker,B-JBL,JBL,S-28,JBL Official Store,2106708.47,2671025.91,2601,288,True,4.83,Malaysia,,2026-05-01
+P-JB-Ea-67,JBL Earbuds,B-JBL,JBL,S-39,JBL Official Store,1362817.11,1461404.39,2695,1393,True,4.68,Thailand,,2026-05-01
+P-An-US-68,Anker USB-C Cable,B-Anker,Anker,S-8,Anker Official Store,224101.86,272558.59,3202,772,True,5.0,Thailand,,2026-05-01
+P-An-Po-69,Anker Power Bank,B-Anker,Anker,S-5,Anker Official Store,604761.7,741917.36,250,186,True,4.28,Malaysia,,2026-05-01
+P-Ne-Ce-70,Nestle Cereal,B-Nestle,Nestle,S-12,Nestle Official Store,176401.75,228167.36,3711,1448,True,4.63,Malaysia,,2026-05-01
+P-Lo-Wi-71,Logitech Wireless Mouse,B-Logitech,Logitech,S-35,Logitech Official Store,556101.62,595353.56,3164,1661,True,4.33,Vietnam,,2026-05-01
+P-Lo-Ke-72,Logitech Keyboard,B-Logitech,Logitech,S-42,Logitech Official Store,746302.59,916357.78,3437,870,True,4.47,Vietnam,,2026-05-01
+P-Pa-Cl-73,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-35,Paula's Choice Official Store,837969.73,868195.06,3787,1198,True,4.67,Malaysia,,2026-05-01
+P-Pa-Cl-74,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-9,Paula's Choice Official Store,584807.0,711305.03,865,2251,True,4.26,Thailand,,2026-05-01
+P-Lo-We-75,Logitech Webcam,B-Logitech,Logitech,S-31,Logitech Official Store,1365003.76,1406980.69,3468,1196,True,4.31,Thailand,,2026-05-01
+P-An-US-76,Anker USB-C Cable,B-Anker,Anker,S-47,Anker Official Store,257806.04,304979.3,4603,711,True,4.7,Malaysia,,2026-05-01
+P-Pa-Cl-77,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-49,Paula's Choice Official Store,688823.56,795285.91,617,1339,True,4.03,Thailand,,2026-05-01
+P-Ne-Ch-78,Nestle Chocolate Drink,B-Nestle,Nestle,S-23,Nestle Official Store,121731.63,126286.51,194,2003,True,4.5,Malaysia,,2026-05-01
+P-JB-He-79,JBL Headphones,B-JBL,JBL,S-18,JBL Official Store,1516292.06,1676068.12,4187,2472,True,4.3,Malaysia,,2026-05-01
+P-Ne-Ch-80,Nestle Chocolate Drink,B-Nestle,Nestle,S-10,Nestle Official Store,126975.21,158687.59,3069,46,True,4.33,Vietnam,,2026-05-01
+P-JB-Ea-81,JBL Earbuds,B-JBL,JBL,S-27,JBL Official Store,1291668.77,1409636.41,1497,1156,True,4.05,Thailand,,2026-05-01
+P-Lo-Wi-82,Logitech Wireless Mouse,B-Logitech,Logitech,S-17,Logitech Official Store,582915.93,607503.13,4194,1706,True,4.46,Malaysia,,2026-05-01
+P-An-US-83,Anker USB-C Cable,B-Anker,Anker,S-33,Anker Official Store,270398.32,284281.03,475,2273,True,4.79,Vietnam,,2026-05-01
+P-Ne-Ce-84,Nestle Cereal,B-Nestle,Nestle,S-27,Nestle Official Store,167032.66,207095.97,121,131,True,4.06,Thailand,,2026-05-01
+P-Ne-Ce-85,Nestle Cereal,B-Nestle,Nestle,S-5,Nestle Official Store,150381.51,190882.78,1842,1558,True,4.32,Thailand,,2026-05-01
+P-Lo-Wi-86,Logitech Wireless Mouse,B-Logitech,Logitech,S-3,Logitech Official Store,506676.3,528524.28,1206,643,True,4.36,Malaysia,,2026-05-01
+P-JB-Bl-87,JBL Bluetooth Speaker,B-JBL,JBL,S-48,JBL Official Store,1669674.72,2109652.0,402,1525,True,4.91,Vietnam,,2026-05-01
+P-Lo-Wi-88,Logitech Wireless Mouse,B-Logitech,Logitech,S-42,Logitech Official Store,510835.06,602607.01,344,2381,True,4.01,Thailand,,2026-05-01
+P-Pa-Mo-89,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-17,Paula's Choice Official Store,821805.75,997684.09,4548,1494,True,4.29,Thailand,,2026-05-01
+P-An-Ch-90,Anker Charger,B-Anker,Anker,S-5,Anker Official Store,445893.81,467765.69,1991,1085,True,4.67,Vietnam,,2026-05-01
+P-Pa-Cl-91,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-35,Paula's Choice Official Store,638594.72,789432.43,238,645,True,4.35,Thailand,,2026-05-01
+P-Ne-Co-92,Nestle Coffee,B-Nestle,Nestle,S-27,Nestle Official Store,178657.85,207936.77,1129,2485,True,4.75,Malaysia,,2026-05-01
+P-Pa-Mo-93,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-39,Paula's Choice Official Store,763546.73,780760.41,2969,1174,True,4.84,Malaysia,,2026-05-01
+P-An-US-94,Anker USB-C Cable,B-Anker,Anker,S-31,Anker Official Store,256365.72,323798.7,1819,1190,True,4.37,Malaysia,,2026-05-01
+P-Pa-Se-95,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-9,Paula's Choice Official Store,789499.93,892493.53,1308,1207,True,4.96,Malaysia,,2026-05-01
+P-JB-Ea-96,JBL Earbuds,B-JBL,JBL,S-22,JBL Official Store,1116242.81,1302997.29,3260,820,True,4.74,Thailand,,2026-05-01
+P-Ne-Ch-97,Nestle Chocolate Drink,B-Nestle,Nestle,S-31,Nestle Official Store,121021.03,135419.21,4303,1386,True,4.76,Vietnam,,2026-05-01
+P-Pa-Se-98,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-7,Paula's Choice Official Store,1173447.98,1455278.34,347,1507,True,4.85,Thailand,,2026-05-01
+P-An-Ch-99,Anker Charger,B-Anker,Anker,S-6,Anker Official Store,469454.0,567816.0,3587,49,True,4.74,Malaysia,,2026-05-01
+P-Pa-Mo-100,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-3,Paula's Choice Official Store,749476.78,829451.42,2291,78,True,4.12,Thailand,,2026-05-01
+P-JB-He-101,JBL Headphones,B-JBL,JBL,S-2,JBL Official Store,1862873.81,2223648.68,3105,1557,True,4.27,Vietnam,,2026-05-01
+P-An-Po-102,Anker Power Bank,B-Anker,Anker,S-38,Anker Official Store,700378.06,741706.99,3617,156,True,4.95,Thailand,,2026-05-01
+P-An-Po-103,Anker Power Bank,B-Anker,Anker,S-35,Anker Official Store,679913.02,706463.93,1532,477,True,4.78,Vietnam,,2026-05-01
+P-Ne-Ce-104,Nestle Cereal,B-Nestle,Nestle,S-2,Nestle Official Store,140302.93,168079.67,3862,184,True,4.23,Thailand,,2026-05-01
+P-Ne-Ch-105,Nestle Chocolate Drink,B-Nestle,Nestle,S-47,Nestle Official Store,120100.71,148270.18,1160,2491,True,4.86,Malaysia,,2026-05-01
+P-Ne-Ce-106,Nestle Cereal,B-Nestle,Nestle,S-10,Nestle Official Store,162779.87,193823.77,3987,644,True,4.27,Vietnam,,2026-05-01
+P-An-Po-107,Anker Power Bank,B-Anker,Anker,S-7,Anker Official Store,609498.97,720554.41,2194,2236,True,4.55,Thailand,,2026-05-01
+P-Ne-Ce-108,Nestle Cereal,B-Nestle,Nestle,S-32,Nestle Official Store,118477.59,126876.92,2609,2493,True,4.05,Malaysia,,2026-05-01
+P-Lo-We-109,Logitech Webcam,B-Logitech,Logitech,S-11,Logitech Official Store,1089116.59,1393817.44,2403,1119,True,4.62,Malaysia,,2026-05-01
+P-Pa-Se-110,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-49,Paula's Choice Official Store,844374.66,979367.82,3891,1654,True,4.53,Vietnam,,2026-05-01
+P-Pa-Se-111,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-30,Paula's Choice Official Store,892394.93,930594.1,3856,483,True,4.3,Thailand,,2026-05-01
+P-Pa-Mo-112,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-34,Paula's Choice Official Store,754136.42,892754.12,3769,2402,True,4.67,Thailand,,2026-05-01
+P-An-Po-113,Anker Power Bank,B-Anker,Anker,S-39,Anker Official Store,683558.58,780615.82,2737,1887,True,4.32,Malaysia,,2026-05-01
+P-JB-Bl-114,JBL Bluetooth Speaker,B-JBL,JBL,S-38,JBL Official Store,1673454.4,1828773.47,2530,475,True,4.82,Thailand,,2026-05-01
+P-JB-Bl-115,JBL Bluetooth Speaker,B-JBL,JBL,S-19,JBL Official Store,1714743.02,1992462.62,1958,353,True,4.86,Thailand,,2026-05-01
+P-Pa-Mo-116,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-11,Paula's Choice Official Store,810619.77,832425.79,3070,2073,True,4.41,Malaysia,,2026-05-01
+P-Pa-Mo-117,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-1,Paula's Choice Official Store,764748.18,925855.33,476,285,True,4.75,Malaysia,,2026-05-01
+P-Ne-Ch-118,Nestle Chocolate Drink,B-Nestle,Nestle,S-10,Nestle Official Store,148019.06,180053.31,610,2310,True,4.46,Malaysia,,2026-05-01
+P-JB-Bl-119,JBL Bluetooth Speaker,B-JBL,JBL,S-36,JBL Official Store,1704071.33,1869447.42,531,2137,True,4.07,Thailand,,2026-05-01
+P-Lo-We-120,Logitech Webcam,B-Logitech,Logitech,S-26,Logitech Official Store,1246055.04,1532489.15,2332,2288,True,4.06,Thailand,,2026-05-01
+P-JB-Ea-121,JBL Earbuds,B-JBL,JBL,S-1,JBL Official Store,1492022.45,1795712.86,3757,1449,True,4.14,Malaysia,,2026-05-01
+P-JB-Bl-122,JBL Bluetooth Speaker,B-JBL,JBL,S-38,JBL Official Store,1849635.84,2311957.19,3275,1245,True,4.88,Malaysia,,2026-05-01
+P-Lo-Wi-123,Logitech Wireless Mouse,B-Logitech,Logitech,S-21,Logitech Official Store,467416.71,501957.91,229,375,True,4.63,Malaysia,,2026-05-01
+P-JB-Ea-124,JBL Earbuds,B-JBL,JBL,S-15,JBL Official Store,1109669.15,1301656.77,1447,1825,True,4.73,Thailand,,2026-05-01
+P-Ne-Co-125,Nestle Coffee,B-Nestle,Nestle,S-7,Nestle Official Store,164283.6,186021.84,3845,852,True,4.53,Thailand,,2026-05-01
+P-JB-He-126,JBL Headphones,B-JBL,JBL,S-26,JBL Official Store,1824606.28,2001190.96,1594,1845,True,4.63,Vietnam,,2026-05-01
+P-Ne-Ch-127,Nestle Chocolate Drink,B-Nestle,Nestle,S-7,Nestle Official Store,105900.07,128040.03,1095,680,True,4.28,Vietnam,,2026-05-01
+P-Pa-Se-128,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-10,Paula's Choice Official Store,996654.61,1285251.03,3527,952,True,4.34,Thailand,,2026-05-01
+P-JB-Bl-129,JBL Bluetooth Speaker,B-JBL,JBL,S-6,JBL Official Store,1892518.26,2237054.64,594,1606,True,4.07,Thailand,,2026-05-01
+P-Pa-Mo-130,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-17,Paula's Choice Official Store,738007.18,885110.63,4753,753,True,4.58,Thailand,,2026-05-01
+P-An-US-131,Anker USB-C Cable,B-Anker,Anker,S-22,Anker Official Store,273759.14,292716.77,1866,1486,True,4.76,Malaysia,,2026-05-01
+P-Ne-Ch-132,Nestle Chocolate Drink,B-Nestle,Nestle,S-34,Nestle Official Store,137246.82,162047.34,2782,1758,True,4.31,Vietnam,,2026-05-01
+P-An-Po-133,Anker Power Bank,B-Anker,Anker,S-11,Anker Official Store,676693.07,721569.76,1535,1131,True,4.91,Malaysia,,2026-05-01
+P-Pa-Mo-134,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-26,Paula's Choice Official Store,809978.62,886434.09,2238,1897,True,4.95,Malaysia,,2026-05-01
+P-Pa-Cl-135,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-4,Paula's Choice Official Store,635543.11,678283.29,4401,680,True,4.19,Malaysia,,2026-05-01
+P-JB-He-136,JBL Headphones,B-JBL,JBL,S-25,JBL Official Store,1493620.22,1583660.17,1645,1854,True,4.51,Malaysia,,2026-05-01
+P-JB-Bl-137,JBL Bluetooth Speaker,B-JBL,JBL,S-45,JBL Official Store,1741258.09,1996635.69,2145,2344,True,4.24,Thailand,,2026-05-01
+P-Pa-Se-138,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-44,Paula's Choice Official Store,772558.22,835231.9,1612,2091,True,4.1,Vietnam,,2026-05-01
+P-Pa-Cl-139,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-31,Paula's Choice Official Store,602632.28,765025.22,130,1784,True,4.01,Vietnam,,2026-05-01
+P-An-Po-140,Anker Power Bank,B-Anker,Anker,S-2,Anker Official Store,661555.27,839098.15,784,2263,True,4.86,Malaysia,,2026-05-01
+P-Pa-Cl-141,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-12,Paula's Choice Official Store,623269.41,673735.31,3490,510,True,4.94,Malaysia,,2026-05-01
+P-Pa-Mo-142,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-29,Paula's Choice Official Store,736431.04,931726.53,2539,925,True,4.26,Vietnam,,2026-05-01
+P-Pa-Cl-143,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-18,Paula's Choice Official Store,855903.54,962968.49,4879,1469,True,4.1,Malaysia,,2026-05-01
+P-An-US-144,Anker USB-C Cable,B-Anker,Anker,S-45,Anker Official Store,303971.37,319196.12,4999,1750,True,4.91,Malaysia,,2026-05-01
+P-Ne-Ce-145,Nestle Cereal,B-Nestle,Nestle,S-13,Nestle Official Store,123678.8,154046.76,916,1120,True,4.24,Vietnam,,2026-05-01
+P-Ne-Ce-146,Nestle Cereal,B-Nestle,Nestle,S-3,Nestle Official Store,139639.75,153056.47,4599,2305,True,4.09,Vietnam,,2026-05-01
+P-Pa-Se-147,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-4,Paula's Choice Official Store,868261.51,987473.98,1590,1169,True,4.91,Thailand,,2026-05-01
+P-An-Ch-148,Anker Charger,B-Anker,Anker,S-31,Anker Official Store,432077.71,447569.93,4172,134,True,4.24,Malaysia,,2026-05-01
+P-JB-Ea-149,JBL Earbuds,B-JBL,JBL,S-44,JBL Official Store,1371376.42,1570017.9,1383,772,True,4.98,Vietnam,,2026-05-01
+P-Lo-Ke-150,Logitech Keyboard,B-Logitech,Logitech,S-3,Logitech Official Store,746083.04,882636.0,4522,1543,True,4.47,Vietnam,,2026-05-01
+P-JB-Ea-151,JBL Earbuds,B-JBL,JBL,S-49,JBL Official Store,1400016.64,1581014.64,2887,2037,True,4.71,Malaysia,,2026-05-01
+P-An-Ch-152,Anker Charger,B-Anker,Anker,S-46,Anker Official Store,394725.5,412960.49,4681,282,True,4.28,Thailand,,2026-05-01
+P-Pa-Mo-153,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-30,Paula's Choice Official Store,756613.68,808344.79,1317,1638,True,4.16,Malaysia,,2026-05-01
+P-Lo-We-154,Logitech Webcam,B-Logitech,Logitech,S-19,Logitech Official Store,949501.38,973569.13,4677,2078,True,4.44,Vietnam,,2026-05-01
+P-An-US-155,Anker USB-C Cable,B-Anker,Anker,S-41,Anker Official Store,291732.93,358875.96,4354,2007,True,4.27,Thailand,,2026-05-01
+P-Pa-Cl-156,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-22,Paula's Choice Official Store,741370.69,842475.69,3052,2321,True,4.03,Thailand,,2026-05-01
+P-An-Ch-157,Anker Charger,B-Anker,Anker,S-30,Anker Official Store,473563.56,547729.32,3245,1716,True,4.49,Vietnam,,2026-05-01
+P-Pa-Cl-158,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-27,Paula's Choice Official Store,632634.98,772596.48,1125,992,True,4.19,Thailand,,2026-05-01
+P-JB-Ea-159,JBL Earbuds,B-JBL,JBL,S-6,JBL Official Store,1653931.47,2072182.45,1591,1680,True,4.63,Thailand,,2026-05-01
+P-An-Ch-160,Anker Charger,B-Anker,Anker,S-9,Anker Official Store,384069.97,424270.89,108,902,True,4.85,Malaysia,,2026-05-01
+P-Pa-Mo-161,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-38,Paula's Choice Official Store,764135.59,869050.35,2208,708,True,4.59,Thailand,,2026-05-01
+P-An-US-162,Anker USB-C Cable,B-Anker,Anker,S-29,Anker Official Store,264449.45,270098.92,362,1158,True,4.02,Malaysia,,2026-05-01
+P-An-US-163,Anker USB-C Cable,B-Anker,Anker,S-46,Anker Official Store,249395.43,302198.19,58,935,True,4.64,Malaysia,,2026-05-01
+P-Ne-Ch-164,Nestle Chocolate Drink,B-Nestle,Nestle,S-32,Nestle Official Store,126858.93,133077.34,2141,759,True,4.34,Thailand,,2026-05-01
+P-Pa-Se-165,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-26,Paula's Choice Official Store,972671.66,1216932.05,1594,1223,True,4.65,Malaysia,,2026-05-01
+P-Lo-Wi-166,Logitech Wireless Mouse,B-Logitech,Logitech,S-23,Logitech Official Store,417834.89,469330.13,4886,837,True,4.4,Vietnam,,2026-05-01
+P-Pa-Mo-167,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-44,Paula's Choice Official Store,875177.55,1020163.8,385,1568,True,4.9,Thailand,,2026-05-01
+P-An-US-168,Anker USB-C Cable,B-Anker,Anker,S-22,Anker Official Store,265143.31,285361.86,2292,2121,True,4.29,Malaysia,,2026-05-01
+P-An-Po-169,Anker Power Bank,B-Anker,Anker,S-2,Anker Official Store,747548.38,881272.9,2805,677,True,4.27,Malaysia,,2026-05-01
+P-JB-Bl-170,JBL Bluetooth Speaker,B-JBL,JBL,S-27,JBL Official Store,1467395.19,1784912.8,2816,875,True,4.6,Malaysia,,2026-05-01
+P-Pa-Cl-171,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-20,Paula's Choice Official Store,651443.51,829218.15,4163,664,True,4.68,Vietnam,,2026-05-01
+P-Pa-Cl-172,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-5,Paula's Choice Official Store,563572.93,677139.61,42,925,True,4.08,Thailand,,2026-05-01
+P-An-US-173,Anker USB-C Cable,B-Anker,Anker,S-39,Anker Official Store,248508.06,294179.04,1258,701,True,4.8,Vietnam,,2026-05-01
+P-An-Po-174,Anker Power Bank,B-Anker,Anker,S-24,Anker Official Store,758378.79,957533.84,1999,216,True,4.55,Malaysia,,2026-05-01
+P-Pa-Cl-175,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-25,Paula's Choice Official Store,588132.41,599998.4,971,2308,True,4.09,Vietnam,,2026-05-01
+P-Ne-Co-176,Nestle Coffee,B-Nestle,Nestle,S-32,Nestle Official Store,180666.61,232885.09,1039,1555,True,4.23,Thailand,,2026-05-01
+P-JB-Ea-177,JBL Earbuds,B-JBL,JBL,S-18,JBL Official Store,1378602.62,1700757.27,4271,1803,True,4.42,Vietnam,,2026-05-01
+P-JB-Bl-178,JBL Bluetooth Speaker,B-JBL,JBL,S-14,JBL Official Store,1910574.85,2354751.17,462,1181,True,4.19,Malaysia,,2026-05-01
+P-Lo-We-179,Logitech Webcam,B-Logitech,Logitech,S-29,Logitech Official Store,994408.11,1114178.16,2865,2210,True,4.85,Vietnam,,2026-05-01
+P-JB-Ea-180,JBL Earbuds,B-JBL,JBL,S-9,JBL Official Store,1327468.5,1560004.53,958,1956,True,4.49,Malaysia,,2026-05-01
+P-Lo-We-181,Logitech Webcam,B-Logitech,Logitech,S-37,Logitech Official Store,1078960.22,1374959.16,2623,600,True,4.56,Malaysia,,2026-05-01
+P-Pa-Se-182,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-30,Paula's Choice Official Store,924037.06,986641.18,3484,596,True,4.69,Vietnam,,2026-05-01
+P-An-US-183,Anker USB-C Cable,B-Anker,Anker,S-49,Anker Official Store,240853.31,269716.33,2098,2280,True,4.28,Thailand,,2026-05-01
+P-Lo-Ke-184,Logitech Keyboard,B-Logitech,Logitech,S-38,Logitech Official Store,777864.94,947908.48,4384,2008,True,4.78,Malaysia,,2026-05-01
+P-Lo-We-185,Logitech Webcam,B-Logitech,Logitech,S-45,Logitech Official Store,1189567.53,1528220.72,2303,241,True,4.85,Vietnam,,2026-05-01
+P-Pa-Se-186,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-31,Paula's Choice Official Store,1054523.67,1169870.72,2695,1764,True,4.18,Malaysia,,2026-05-01
+P-Ne-Ce-187,Nestle Cereal,B-Nestle,Nestle,S-27,Nestle Official Store,135057.82,159816.26,2102,2340,True,4.03,Vietnam,,2026-05-01
+P-Pa-Cl-188,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-42,Paula's Choice Official Store,450897.07,464718.76,3568,930,True,4.11,Thailand,,2026-05-01
+P-An-Ch-189,Anker Charger,B-Anker,Anker,S-49,Anker Official Store,427685.17,536490.56,3597,1003,True,4.51,Malaysia,,2026-05-01
+P-An-Ch-190,Anker Charger,B-Anker,Anker,S-43,Anker Official Store,395612.38,501020.66,3465,88,True,4.1,Malaysia,,2026-05-01
+P-Ne-Ce-191,Nestle Cereal,B-Nestle,Nestle,S-26,Nestle Official Store,161176.02,169454.55,2960,847,True,4.47,Thailand,,2026-05-01
+P-Pa-Mo-192,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-14,Paula's Choice Official Store,810668.39,848502.04,1767,909,True,4.95,Vietnam,,2026-05-01
+P-Ne-Ch-193,Nestle Chocolate Drink,B-Nestle,Nestle,S-28,Nestle Official Store,122745.1,150109.94,104,299,True,4.2,Vietnam,,2026-05-01
+P-Pa-Mo-194,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-44,Paula's Choice Official Store,792329.01,842515.2,4943,1179,True,4.37,Malaysia,,2026-05-01
+P-Ne-Ce-195,Nestle Cereal,B-Nestle,Nestle,S-35,Nestle Official Store,147474.05,158876.95,4226,665,True,4.14,Vietnam,,2026-05-01
+P-Lo-We-196,Logitech Webcam,B-Logitech,Logitech,S-36,Logitech Official Store,1591271.57,1873318.82,3113,1265,True,4.33,Vietnam,,2026-05-01
+P-JB-He-197,JBL Headphones,B-JBL,JBL,S-14,JBL Official Store,1883661.59,1979426.64,1211,981,True,4.02,Malaysia,,2026-05-01
+P-An-US-198,Anker USB-C Cable,B-Anker,Anker,S-34,Anker Official Store,263716.17,316455.68,1100,979,True,4.69,Malaysia,,2026-05-01
+P-Lo-Ke-199,Logitech Keyboard,B-Logitech,Logitech,S-40,Logitech Official Store,772294.44,994265.52,2457,1947,True,4.89,Vietnam,,2026-05-01
+P-An-US-200,Anker USB-C Cable,B-Anker,Anker,S-24,Anker Official Store,226515.14,256558.51,647,2170,True,4.12,Thailand,,2026-05-01
+P-Ne-Ch-201,Nestle Chocolate Drink,B-Nestle,Nestle,S-34,Nestle Official Store,112305.22,117847.93,4411,2380,True,4.37,Vietnam,,2026-05-01
+P-Pa-Cl-202,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-39,Paula's Choice Official Store,702267.64,753748.7,2553,1490,True,4.18,Vietnam,,2026-05-01
+P-Ne-Ce-203,Nestle Cereal,B-Nestle,Nestle,S-25,Nestle Official Store,167674.53,187691.64,1060,1770,True,4.91,Thailand,,2026-05-01
+P-An-Ch-204,Anker Charger,B-Anker,Anker,S-11,Anker Official Store,511202.84,613637.48,901,839,True,4.39,Malaysia,,2026-05-01
+P-JB-Bl-205,JBL Bluetooth Speaker,B-JBL,JBL,S-19,JBL Official Store,1720664.62,1861587.12,2135,1332,True,4.42,Thailand,,2026-05-01
+P-Lo-Wi-206,Logitech Wireless Mouse,B-Logitech,Logitech,S-27,Logitech Official Store,560775.47,617080.77,1244,328,True,4.55,Thailand,,2026-05-01
+P-Ne-Co-207,Nestle Coffee,B-Nestle,Nestle,S-33,Nestle Official Store,183019.95,229536.59,4877,1422,True,4.47,Malaysia,,2026-05-01
+P-An-Po-208,Anker Power Bank,B-Anker,Anker,S-6,Anker Official Store,781243.07,807992.02,3720,1964,True,4.9,Vietnam,,2026-05-01
+P-An-US-209,Anker USB-C Cable,B-Anker,Anker,S-2,Anker Official Store,247427.7,316693.68,254,1742,True,4.59,Thailand,,2026-05-01
+P-JB-Ea-210,JBL Earbuds,B-JBL,JBL,S-19,JBL Official Store,1336683.47,1672890.1,3581,2207,True,4.06,Vietnam,,2026-05-01
+P-Ne-Co-211,Nestle Coffee,B-Nestle,Nestle,S-5,Nestle Official Store,189634.24,223629.51,4910,2350,True,4.45,Thailand,,2026-05-01
+P-An-US-212,Anker USB-C Cable,B-Anker,Anker,S-46,Anker Official Store,219691.4,265425.6,181,1330,True,4.02,Malaysia,,2026-05-01
+P-An-Ch-213,Anker Charger,B-Anker,Anker,S-8,Anker Official Store,509563.13,543098.81,2899,425,True,4.38,Vietnam,,2026-05-01
+P-Pa-Mo-214,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-16,Paula's Choice Official Store,817332.89,987177.65,2810,1829,True,4.93,Malaysia,,2026-05-01
+P-JB-He-215,JBL Headphones,B-JBL,JBL,S-5,JBL Official Store,1225750.25,1358226.84,2855,119,True,4.51,Vietnam,,2026-05-01
+P-Lo-Wi-216,Logitech Wireless Mouse,B-Logitech,Logitech,S-25,Logitech Official Store,493159.09,567464.01,718,181,True,4.98,Malaysia,,2026-05-01
+P-Ne-Ch-217,Nestle Chocolate Drink,B-Nestle,Nestle,S-39,Nestle Official Store,139149.24,151404.8,853,2437,True,4.19,Vietnam,,2026-05-01
+P-Ne-Co-218,Nestle Coffee,B-Nestle,Nestle,S-38,Nestle Official Store,164926.2,199258.15,3336,712,True,4.83,Thailand,,2026-05-01
+P-JB-Bl-219,JBL Bluetooth Speaker,B-JBL,JBL,S-39,JBL Official Store,1866938.78,2044503.51,425,1023,True,4.57,Vietnam,,2026-05-01
+P-Pa-Se-220,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-36,Paula's Choice Official Store,699121.69,898095.07,374,661,True,4.54,Thailand,,2026-05-01
+P-JB-Ea-221,JBL Earbuds,B-JBL,JBL,S-40,JBL Official Store,1788779.58,2141158.92,492,1573,True,4.83,Malaysia,,2026-05-01
+P-Ne-Co-222,Nestle Coffee,B-Nestle,Nestle,S-25,Nestle Official Store,189511.72,229250.39,1386,1019,True,4.74,Vietnam,,2026-05-01
+P-JB-Ea-223,JBL Earbuds,B-JBL,JBL,S-13,JBL Official Store,1206502.44,1266524.48,697,1885,True,4.65,Malaysia,,2026-05-01
+P-An-US-224,Anker USB-C Cable,B-Anker,Anker,S-8,Anker Official Store,273287.49,311411.45,1105,1317,True,4.69,Vietnam,,2026-05-01
+P-Pa-Se-225,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-8,Paula's Choice Official Store,845454.65,1063355.58,1561,1390,True,4.44,Thailand,,2026-05-01
+P-An-US-226,Anker USB-C Cable,B-Anker,Anker,S-8,Anker Official Store,265745.69,320195.39,4291,1578,True,4.51,Vietnam,,2026-05-01
+P-Lo-Ke-227,Logitech Keyboard,B-Logitech,Logitech,S-12,Logitech Official Store,859422.68,961371.41,4628,917,True,4.13,Malaysia,,2026-05-01
+P-Pa-Cl-228,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-43,Paula's Choice Official Store,652453.5,846065.0,4241,230,True,4.26,Malaysia,,2026-05-01
+P-Lo-Ke-229,Logitech Keyboard,B-Logitech,Logitech,S-8,Logitech Official Store,1030856.97,1324979.26,3958,2148,True,4.49,Vietnam,,2026-05-01
+P-Ne-Ce-230,Nestle Cereal,B-Nestle,Nestle,S-5,Nestle Official Store,180526.76,212552.3,2868,2273,True,4.53,Malaysia,,2026-05-01
+P-An-Ch-231,Anker Charger,B-Anker,Anker,S-34,Anker Official Store,454634.69,539504.76,1939,1132,True,4.43,Thailand,,2026-05-01
+P-An-US-232,Anker USB-C Cable,B-Anker,Anker,S-25,Anker Official Store,249972.2,297009.44,2778,1671,True,4.23,Thailand,,2026-05-01
+P-Ne-Ce-233,Nestle Cereal,B-Nestle,Nestle,S-44,Nestle Official Store,140902.01,154183.99,4283,831,True,4.27,Vietnam,,2026-05-01
+P-Ne-Ce-234,Nestle Cereal,B-Nestle,Nestle,S-36,Nestle Official Store,136812.53,175329.26,1756,2011,True,4.22,Vietnam,,2026-05-01
+P-An-US-235,Anker USB-C Cable,B-Anker,Anker,S-47,Anker Official Store,252050.53,325473.97,3391,1000,True,4.52,Thailand,,2026-05-01
+P-Ne-Co-236,Nestle Coffee,B-Nestle,Nestle,S-47,Nestle Official Store,151454.78,171693.28,4387,788,True,4.49,Malaysia,,2026-05-01
+P-Pa-Mo-237,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-49,Paula's Choice Official Store,915281.96,975534.23,2473,1777,True,4.3,Malaysia,,2026-05-01
+P-Lo-Wi-238,Logitech Wireless Mouse,B-Logitech,Logitech,S-42,Logitech Official Store,480865.96,493962.31,2682,2146,True,4.61,Vietnam,,2026-05-01
+P-Pa-Mo-239,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-4,Paula's Choice Official Store,697037.96,727522.59,1793,2493,True,4.28,Vietnam,,2026-05-01
+P-An-US-240,Anker USB-C Cable,B-Anker,Anker,S-13,Anker Official Store,262060.92,304612.84,1412,2127,True,4.74,Vietnam,,2026-05-01
+P-Ne-Ch-241,Nestle Chocolate Drink,B-Nestle,Nestle,S-16,Nestle Official Store,137272.05,170479.69,1476,1664,True,4.84,Vietnam,,2026-05-01
+P-JB-He-242,JBL Headphones,B-JBL,JBL,S-26,JBL Official Store,1521359.51,1690701.58,4118,619,True,4.87,Thailand,,2026-05-01
+P-An-Po-243,Anker Power Bank,B-Anker,Anker,S-19,Anker Official Store,675889.9,776451.34,2401,1726,True,4.97,Malaysia,,2026-05-01
+P-Lo-Wi-244,Logitech Wireless Mouse,B-Logitech,Logitech,S-1,Logitech Official Store,497651.35,519604.0,2704,96,True,4.75,Vietnam,,2026-05-01
+P-Lo-Wi-245,Logitech Wireless Mouse,B-Logitech,Logitech,S-3,Logitech Official Store,405059.29,479583.4,2543,803,True,4.37,Vietnam,,2026-05-01
+P-JB-He-246,JBL Headphones,B-JBL,JBL,S-22,JBL Official Store,1459463.83,1563768.22,4002,1704,True,4.82,Thailand,,2026-05-01
+P-JB-He-247,JBL Headphones,B-JBL,JBL,S-25,JBL Official Store,1397431.8,1576595.86,695,2213,True,4.08,Thailand,,2026-05-01
+P-Ne-Co-248,Nestle Coffee,B-Nestle,Nestle,S-3,Nestle Official Store,176528.85,225809.22,3574,2327,True,4.94,Vietnam,,2026-05-01
+P-Ne-Ce-249,Nestle Cereal,B-Nestle,Nestle,S-49,Nestle Official Store,139967.81,159918.95,2218,1929,True,4.19,Thailand,,2026-05-01
+P-An-Po-250,Anker Power Bank,B-Anker,Anker,S-30,Anker Official Store,629074.57,792150.74,1024,1588,True,4.91,Thailand,,2026-05-01
+P-Ne-Co-251,Nestle Coffee,B-Nestle,Nestle,S-49,Nestle Official Store,149944.78,177361.41,3442,61,True,4.94,Malaysia,,2026-05-01
+P-An-Po-252,Anker Power Bank,B-Anker,Anker,S-36,Anker Official Store,571508.34,713931.7,4341,27,True,4.09,Vietnam,,2026-05-01
+P-Lo-Wi-253,Logitech Wireless Mouse,B-Logitech,Logitech,S-6,Logitech Official Store,489502.43,504273.37,463,1050,True,4.66,Vietnam,,2026-05-01
+P-Lo-Wi-254,Logitech Wireless Mouse,B-Logitech,Logitech,S-6,Logitech Official Store,619418.48,651445.35,4864,1134,True,4.77,Malaysia,,2026-05-01
+P-Ne-Ce-255,Nestle Cereal,B-Nestle,Nestle,S-42,Nestle Official Store,150242.3,182395.05,3087,555,True,4.44,Thailand,,2026-05-01
+P-Ne-Ch-256,Nestle Chocolate Drink,B-Nestle,Nestle,S-41,Nestle Official Store,128812.91,153379.2,3879,2438,True,4.76,Vietnam,,2026-05-01
+P-An-Ch-257,Anker Charger,B-Anker,Anker,S-11,Anker Official Store,411003.43,499486.46,4753,608,True,4.9,Malaysia,,2026-05-01
+P-Lo-Ke-258,Logitech Keyboard,B-Logitech,Logitech,S-34,Logitech Official Store,756984.24,822859.7,1096,1962,True,4.07,Thailand,,2026-05-01
+P-JB-Bl-259,JBL Bluetooth Speaker,B-JBL,JBL,S-1,JBL Official Store,1687347.59,1991474.22,2544,475,True,4.31,Vietnam,,2026-05-01
+P-Ne-Ch-260,Nestle Chocolate Drink,B-Nestle,Nestle,S-24,Nestle Official Store,151876.01,166784.21,3393,28,True,4.83,Thailand,,2026-05-01
+P-JB-He-261,JBL Headphones,B-JBL,JBL,S-16,JBL Official Store,1512812.58,1778285.22,451,1778,True,4.88,Thailand,,2026-05-01
+P-An-Ch-262,Anker Charger,B-Anker,Anker,S-39,Anker Official Store,514311.43,526919.72,1977,1313,True,4.54,Malaysia,,2026-05-01
+P-Ne-Ce-263,Nestle Cereal,B-Nestle,Nestle,S-12,Nestle Official Store,131559.92,163772.42,3963,430,True,4.74,Malaysia,,2026-05-01
+P-An-Po-264,Anker Power Bank,B-Anker,Anker,S-39,Anker Official Store,650968.72,768103.78,996,312,True,4.23,Vietnam,,2026-05-01
+P-Pa-Se-265,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-20,Paula's Choice Official Store,1003897.28,1248422.15,1945,172,True,4.34,Vietnam,,2026-05-01
+P-Lo-Wi-266,Logitech Wireless Mouse,B-Logitech,Logitech,S-6,Logitech Official Store,474829.4,485998.23,4763,2291,True,4.23,Thailand,,2026-05-01
+P-JB-He-267,JBL Headphones,B-JBL,JBL,S-19,JBL Official Store,1538220.34,1601514.4,2067,2217,True,4.04,Malaysia,,2026-05-01
+P-Pa-Se-268,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-47,Paula's Choice Official Store,903833.49,1138987.43,1135,1391,True,4.93,Thailand,,2026-05-01
+P-Ne-Co-269,Nestle Coffee,B-Nestle,Nestle,S-18,Nestle Official Store,172718.33,221814.68,2842,1495,True,4.79,Vietnam,,2026-05-01
+P-An-Po-270,Anker Power Bank,B-Anker,Anker,S-47,Anker Official Store,716865.01,867527.15,470,1865,True,4.29,Malaysia,,2026-05-01
+P-Lo-We-271,Logitech Webcam,B-Logitech,Logitech,S-44,Logitech Official Store,1098788.6,1174362.17,1334,1190,True,5.0,Malaysia,,2026-05-01
+P-Ne-Co-272,Nestle Coffee,B-Nestle,Nestle,S-34,Nestle Official Store,218565.72,226884.38,4294,1470,True,4.98,Vietnam,,2026-05-01
+P-Ne-Co-273,Nestle Coffee,B-Nestle,Nestle,S-36,Nestle Official Store,217054.7,237458.69,4571,720,True,4.43,Malaysia,,2026-05-01
+P-Pa-Cl-274,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-1,Paula's Choice Official Store,715476.76,757489.05,3908,281,True,4.5,Vietnam,,2026-05-01
+P-Ne-Co-275,Nestle Coffee,B-Nestle,Nestle,S-34,Nestle Official Store,146793.46,181720.76,4235,549,True,4.55,Thailand,,2026-05-01
+P-JB-Ea-276,JBL Earbuds,B-JBL,JBL,S-23,JBL Official Store,1226055.46,1338000.79,2698,623,True,4.15,Thailand,,2026-05-01
+P-Pa-Cl-277,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-42,Paula's Choice Official Store,721264.49,758014.42,2176,2369,True,4.43,Thailand,,2026-05-01
+P-Lo-We-278,Logitech Webcam,B-Logitech,Logitech,S-5,Logitech Official Store,882194.23,978010.46,1966,564,True,4.48,Vietnam,,2026-05-01
+P-JB-He-279,JBL Headphones,B-JBL,JBL,S-3,JBL Official Store,1450977.47,1860167.33,1011,806,True,4.98,Thailand,,2026-05-01
+P-Pa-Se-280,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-8,Paula's Choice Official Store,838844.16,1014419.32,4557,1937,True,4.39,Thailand,,2026-05-01
+P-Ne-Ce-281,Nestle Cereal,B-Nestle,Nestle,S-19,Nestle Official Store,139248.85,156199.66,1192,303,True,4.97,Thailand,,2026-05-01
+P-JB-Ea-282,JBL Earbuds,B-JBL,JBL,S-46,JBL Official Store,1571875.96,1829736.99,3772,1582,True,4.31,Vietnam,,2026-05-01
+P-JB-He-283,JBL Headphones,B-JBL,JBL,S-26,JBL Official Store,1774475.39,1845606.83,1933,1387,True,4.91,Thailand,,2026-05-01
+P-JB-Bl-284,JBL Bluetooth Speaker,B-JBL,JBL,S-25,JBL Official Store,1804417.32,2212096.45,3205,1103,True,4.63,Vietnam,,2026-05-01
+P-Pa-Se-285,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-26,Paula's Choice Official Store,799949.5,1030474.68,710,2075,True,4.72,Vietnam,,2026-05-01
+P-Lo-Ke-286,Logitech Keyboard,B-Logitech,Logitech,S-13,Logitech Official Store,906290.72,1052076.94,2876,2137,True,4.34,Thailand,,2026-05-01
+P-Pa-Mo-287,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-38,Paula's Choice Official Store,788573.13,909949.86,3197,2430,True,4.27,Vietnam,,2026-05-01
+P-Lo-Wi-288,Logitech Wireless Mouse,B-Logitech,Logitech,S-47,Logitech Official Store,504021.82,634688.17,4968,2322,True,4.21,Vietnam,,2026-05-01
+P-JB-He-289,JBL Headphones,B-JBL,JBL,S-41,JBL Official Store,1454336.76,1691096.71,1323,2470,True,4.48,Malaysia,,2026-05-01
+P-Pa-Se-290,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-19,Paula's Choice Official Store,820448.16,889628.81,2789,1164,True,4.64,Thailand,,2026-05-01
+P-An-Ch-291,Anker Charger,B-Anker,Anker,S-17,Anker Official Store,363715.23,394512.53,4624,1890,True,4.42,Thailand,,2026-05-01
+P-JB-Bl-292,JBL Bluetooth Speaker,B-JBL,JBL,S-4,JBL Official Store,1551995.74,1911153.81,3768,874,True,4.41,Malaysia,,2026-05-01
+P-Ne-Ch-293,Nestle Chocolate Drink,B-Nestle,Nestle,S-4,Nestle Official Store,156072.66,196361.76,4330,2433,True,4.4,Vietnam,,2026-05-01
+P-Ne-Co-294,Nestle Coffee,B-Nestle,Nestle,S-39,Nestle Official Store,195528.54,235248.54,2903,2140,True,4.95,Vietnam,,2026-05-01
+P-JB-He-295,JBL Headphones,B-JBL,JBL,S-2,JBL Official Store,1683313.58,1985323.09,3879,1410,True,4.31,Thailand,,2026-05-01
+P-Pa-Cl-296,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-33,Paula's Choice Official Store,637500.58,663172.11,2990,2204,True,4.14,Vietnam,,2026-05-01
+P-JB-Ea-297,JBL Earbuds,B-JBL,JBL,S-16,JBL Official Store,1402069.8,1812235.0,2798,1252,True,4.91,Malaysia,,2026-05-01
+P-Ne-Ch-298,Nestle Chocolate Drink,B-Nestle,Nestle,S-49,Nestle Official Store,122689.51,143720.25,2140,962,True,4.96,Vietnam,,2026-05-01
+P-An-US-299,Anker USB-C Cable,B-Anker,Anker,S-12,Anker Official Store,285242.28,368336.49,4975,1283,True,4.42,Vietnam,,2026-05-01
+P-Lo-Wi-0,Logitech Wireless Mouse,B-Logitech,Logitech,S-38,Logitech Official Store,446767.17,465163.48,971,2301,True,4.55,Thailand,,2026-06-01
+P-An-Po-1,Anker Power Bank,B-Anker,Anker,S-24,Anker Official Store,682798.14,768913.75,1366,1879,True,4.19,Malaysia,,2026-06-01
+P-Ne-Co-2,Nestle Coffee,B-Nestle,Nestle,S-25,Nestle Official Store,186498.67,206062.07,1573,276,True,4.37,Vietnam,,2026-06-01
+P-JB-He-3,JBL Headphones,B-JBL,JBL,S-3,JBL Official Store,1656465.76,1851354.18,4435,1320,True,4.58,Malaysia,,2026-06-01
+P-Lo-Ke-4,Logitech Keyboard,B-Logitech,Logitech,S-27,Logitech Official Store,944339.93,1025719.34,1678,137,True,4.77,Malaysia,,2026-06-01
+P-Lo-Wi-5,Logitech Wireless Mouse,B-Logitech,Logitech,S-37,Logitech Official Store,534914.12,625526.02,4201,1961,True,4.25,Malaysia,,2026-06-01
+P-Pa-Cl-6,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-16,Paula's Choice Official Store,782796.53,803067.97,42,928,True,4.07,Malaysia,,2026-06-01
+P-Ne-Co-7,Nestle Coffee,B-Nestle,Nestle,S-18,Nestle Official Store,197902.01,242866.33,3152,657,True,4.6,Thailand,,2026-06-01
+P-JB-Bl-8,JBL Bluetooth Speaker,B-JBL,JBL,S-41,JBL Official Store,1963631.26,2004504.79,1409,152,True,4.64,Malaysia,,2026-06-01
+P-JB-Bl-9,JBL Bluetooth Speaker,B-JBL,JBL,S-44,JBL Official Store,2140433.15,2342042.21,4354,1603,True,4.66,Thailand,,2026-06-01
+P-Ne-Co-10,Nestle Coffee,B-Nestle,Nestle,S-25,Nestle Official Store,171926.27,220267.81,2705,1380,True,4.02,Vietnam,,2026-06-01
+P-Lo-Wi-11,Logitech Wireless Mouse,B-Logitech,Logitech,S-5,Logitech Official Store,500274.88,572974.62,4514,621,True,4.93,Vietnam,,2026-06-01
+P-Lo-Ke-12,Logitech Keyboard,B-Logitech,Logitech,S-1,Logitech Official Store,871683.34,949394.18,1751,1428,True,4.02,Thailand,,2026-06-01
+P-Ne-Ce-13,Nestle Cereal,B-Nestle,Nestle,S-15,Nestle Official Store,145327.1,153564.84,4197,1311,True,4.92,Vietnam,,2026-06-01
+P-Lo-We-14,Logitech Webcam,B-Logitech,Logitech,S-32,Logitech Official Store,1100919.66,1179233.62,2814,2398,True,4.74,Thailand,,2026-06-01
+P-Ne-Ch-15,Nestle Chocolate Drink,B-Nestle,Nestle,S-19,Nestle Official Store,118060.53,136427.41,693,1777,True,4.65,Vietnam,,2026-06-01
+P-An-US-16,Anker USB-C Cable,B-Anker,Anker,S-31,Anker Official Store,303984.74,348563.47,1819,747,True,4.89,Malaysia,,2026-06-01
+P-Ne-Co-17,Nestle Coffee,B-Nestle,Nestle,S-10,Nestle Official Store,177540.59,228765.81,3155,1304,True,4.31,Thailand,,2026-06-01
+P-Pa-Cl-18,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-37,Paula's Choice Official Store,689715.71,843327.1,3168,1782,True,4.69,Thailand,,2026-06-01
+P-JB-He-19,JBL Headphones,B-JBL,JBL,S-42,JBL Official Store,1605679.48,1667389.52,121,451,True,4.77,Malaysia,,2026-06-01
+P-Ne-Ce-20,Nestle Cereal,B-Nestle,Nestle,S-49,Nestle Official Store,141078.52,146683.42,4694,1014,True,4.95,Malaysia,,2026-06-01
+P-Pa-Se-21,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-23,Paula's Choice Official Store,662465.72,773495.8,1287,2365,True,4.2,Thailand,,2026-06-01
+P-Lo-Wi-22,Logitech Wireless Mouse,B-Logitech,Logitech,S-35,Logitech Official Store,457487.37,586227.1,3989,778,True,4.51,Thailand,,2026-06-01
+P-JB-He-23,JBL Headphones,B-JBL,JBL,S-31,JBL Official Store,1774968.3,1862134.55,3058,122,True,4.82,Malaysia,,2026-06-01
+P-An-Ch-24,Anker Charger,B-Anker,Anker,S-34,Anker Official Store,356977.93,422187.52,3011,1566,True,4.86,Thailand,,2026-06-01
+P-JB-Bl-25,JBL Bluetooth Speaker,B-JBL,JBL,S-6,JBL Official Store,1716219.23,2092267.08,1643,864,True,4.28,Malaysia,,2026-06-01
+P-JB-He-26,JBL Headphones,B-JBL,JBL,S-19,JBL Official Store,1548135.57,1904087.87,3786,1184,True,4.65,Malaysia,,2026-06-01
+P-Pa-Se-27,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-44,Paula's Choice Official Store,999421.63,1084787.16,3082,1601,True,4.31,Vietnam,,2026-06-01
+P-Ne-Ce-28,Nestle Cereal,B-Nestle,Nestle,S-49,Nestle Official Store,152970.81,172303.08,4835,798,True,4.91,Vietnam,,2026-06-01
+P-An-Po-29,Anker Power Bank,B-Anker,Anker,S-48,Anker Official Store,765503.67,889041.56,900,1736,True,4.13,Thailand,,2026-06-01
+P-An-Ch-30,Anker Charger,B-Anker,Anker,S-10,Anker Official Store,442028.3,467641.51,1742,1367,True,4.18,Thailand,,2026-06-01
+P-An-Ch-31,Anker Charger,B-Anker,Anker,S-34,Anker Official Store,478323.14,614260.12,325,2058,True,4.15,Thailand,,2026-06-01
+P-Ne-Ch-32,Nestle Chocolate Drink,B-Nestle,Nestle,S-13,Nestle Official Store,130415.19,168568.21,936,1408,True,4.3,Malaysia,,2026-06-01
+P-Ne-Co-33,Nestle Coffee,B-Nestle,Nestle,S-49,Nestle Official Store,174324.36,204480.62,1099,278,True,4.56,Vietnam,,2026-06-01
+P-Lo-Wi-34,Logitech Wireless Mouse,B-Logitech,Logitech,S-3,Logitech Official Store,503514.51,561315.52,2963,446,True,4.75,Malaysia,,2026-06-01
+P-Pa-Se-35,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-24,Paula's Choice Official Store,837090.08,994436.25,1720,1002,True,4.06,Malaysia,,2026-06-01
+P-Pa-Cl-36,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-11,Paula's Choice Official Store,753324.86,964432.19,216,1602,True,4.25,Vietnam,,2026-06-01
+P-Pa-Cl-37,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-11,Paula's Choice Official Store,633022.72,784940.18,4195,389,True,4.67,Vietnam,,2026-06-01
+P-JB-Ea-38,JBL Earbuds,B-JBL,JBL,S-5,JBL Official Store,1347242.86,1508101.82,4567,808,True,4.12,Malaysia,,2026-06-01
+P-Pa-Se-39,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-21,Paula's Choice Official Store,674375.05,812462.49,286,581,True,4.61,Thailand,,2026-06-01
+P-Lo-Ke-40,Logitech Keyboard,B-Logitech,Logitech,S-30,Logitech Official Store,885222.69,954438.85,4694,1076,True,4.28,Vietnam,,2026-06-01
+P-Lo-Wi-41,Logitech Wireless Mouse,B-Logitech,Logitech,S-25,Logitech Official Store,443855.36,465922.25,286,676,True,4.59,Thailand,,2026-06-01
+P-An-Po-42,Anker Power Bank,B-Anker,Anker,S-17,Anker Official Store,533116.83,639222.11,1419,424,True,4.37,Malaysia,,2026-06-01
+P-Lo-Ke-43,Logitech Keyboard,B-Logitech,Logitech,S-4,Logitech Official Store,828915.61,1011187.74,1006,50,True,4.44,Malaysia,,2026-06-01
+P-Lo-We-44,Logitech Webcam,B-Logitech,Logitech,S-24,Logitech Official Store,1110360.33,1169851.35,3189,717,True,4.25,Malaysia,,2026-06-01
+P-Lo-Ke-45,Logitech Keyboard,B-Logitech,Logitech,S-15,Logitech Official Store,885994.73,1003608.7,3920,218,True,4.21,Vietnam,,2026-06-01
+P-Pa-Mo-46,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-45,Paula's Choice Official Store,795741.8,935020.33,3840,1209,True,4.08,Malaysia,,2026-06-01
+P-JB-Ea-47,JBL Earbuds,B-JBL,JBL,S-25,JBL Official Store,1259818.51,1610245.21,4237,1850,True,4.35,Malaysia,,2026-06-01
+P-Lo-Wi-48,Logitech Wireless Mouse,B-Logitech,Logitech,S-43,Logitech Official Store,480615.53,553582.49,909,2167,True,4.56,Malaysia,,2026-06-01
+P-Lo-We-49,Logitech Webcam,B-Logitech,Logitech,S-36,Logitech Official Store,897162.58,957419.03,4272,126,True,4.18,Vietnam,,2026-06-01
+P-Pa-Se-50,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-36,Paula's Choice Official Store,941858.26,1080383.99,3528,1449,True,4.19,Malaysia,,2026-06-01
+P-JB-He-51,JBL Headphones,B-JBL,JBL,S-16,JBL Official Store,1739241.15,2056054.96,941,2431,True,4.67,Vietnam,,2026-06-01
+P-Ne-Ch-52,Nestle Chocolate Drink,B-Nestle,Nestle,S-3,Nestle Official Store,116051.13,120929.38,3771,1016,True,4.25,Thailand,,2026-06-01
+P-Lo-We-53,Logitech Webcam,B-Logitech,Logitech,S-22,Logitech Official Store,1134855.28,1317016.88,2650,774,True,4.69,Vietnam,,2026-06-01
+P-An-Ch-54,Anker Charger,B-Anker,Anker,S-48,Anker Official Store,526119.8,548440.47,1179,51,True,4.56,Vietnam,,2026-06-01
+P-JB-Bl-55,JBL Bluetooth Speaker,B-JBL,JBL,S-26,JBL Official Store,1617871.55,1708476.05,2211,1647,True,4.25,Malaysia,,2026-06-01
+P-Pa-Cl-56,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-43,Paula's Choice Official Store,641856.7,745348.99,1025,1192,True,4.5,Malaysia,,2026-06-01
+P-Lo-Wi-57,Logitech Wireless Mouse,B-Logitech,Logitech,S-45,Logitech Official Store,433679.34,493861.81,3049,2309,True,4.83,Malaysia,,2026-06-01
+P-JB-Ea-58,JBL Earbuds,B-JBL,JBL,S-10,JBL Official Store,1253447.95,1308668.48,4957,2284,True,4.44,Malaysia,,2026-06-01
+P-Ne-Ce-59,Nestle Cereal,B-Nestle,Nestle,S-4,Nestle Official Store,140160.49,148790.92,4716,1991,True,4.06,Vietnam,,2026-06-01
+P-Pa-Mo-60,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-44,Paula's Choice Official Store,725873.56,828123.64,4638,2337,True,4.01,Thailand,,2026-06-01
+P-Ne-Co-61,Nestle Coffee,B-Nestle,Nestle,S-4,Nestle Official Store,168759.0,202340.96,1784,2469,True,4.34,Vietnam,,2026-06-01
+P-An-Ch-62,Anker Charger,B-Anker,Anker,S-31,Anker Official Store,416324.45,521821.38,4338,45,True,4.46,Vietnam,,2026-06-01
+P-An-Po-63,Anker Power Bank,B-Anker,Anker,S-3,Anker Official Store,744100.01,967101.82,3550,1784,True,4.23,Vietnam,,2026-06-01
+P-An-US-64,Anker USB-C Cable,B-Anker,Anker,S-44,Anker Official Store,260602.06,268741.94,4269,337,True,4.87,Vietnam,,2026-06-01
+P-Ne-Ch-65,Nestle Chocolate Drink,B-Nestle,Nestle,S-33,Nestle Official Store,147950.68,176352.37,3774,2377,True,4.04,Malaysia,,2026-06-01
+P-Lo-Ke-66,Logitech Keyboard,B-Logitech,Logitech,S-31,Logitech Official Store,1092501.73,1118256.72,4714,1415,True,4.1,Vietnam,,2026-06-01
+P-Ne-Ce-67,Nestle Cereal,B-Nestle,Nestle,S-23,Nestle Official Store,149364.33,170730.94,1021,1937,True,4.68,Vietnam,,2026-06-01
+P-Lo-Wi-68,Logitech Wireless Mouse,B-Logitech,Logitech,S-18,Logitech Official Store,526421.23,562045.51,1661,2364,True,4.6,Malaysia,,2026-06-01
+P-Lo-Wi-69,Logitech Wireless Mouse,B-Logitech,Logitech,S-8,Logitech Official Store,550118.55,593906.9,1516,136,True,4.83,Vietnam,,2026-06-01
+P-Lo-Wi-70,Logitech Wireless Mouse,B-Logitech,Logitech,S-39,Logitech Official Store,462898.56,560481.66,1214,293,True,4.19,Vietnam,,2026-06-01
+P-JB-He-71,JBL Headphones,B-JBL,JBL,S-26,JBL Official Store,1736811.78,2239182.1,3163,803,True,4.29,Malaysia,,2026-06-01
+P-Ne-Co-72,Nestle Coffee,B-Nestle,Nestle,S-42,Nestle Official Store,166128.31,202996.27,720,532,True,4.73,Thailand,,2026-06-01
+P-JB-Bl-73,JBL Bluetooth Speaker,B-JBL,JBL,S-24,JBL Official Store,2049531.04,2426450.29,3558,1681,True,4.43,Thailand,,2026-06-01
+P-JB-Bl-74,JBL Bluetooth Speaker,B-JBL,JBL,S-21,JBL Official Store,1800239.76,2259884.13,4292,2436,True,4.35,Vietnam,,2026-06-01
+P-Pa-Cl-75,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-33,Paula's Choice Official Store,540038.43,595055.5,1311,279,True,4.59,Vietnam,,2026-06-01
+P-Pa-Cl-76,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-4,Paula's Choice Official Store,646187.73,702250.72,2427,391,True,4.11,Thailand,,2026-06-01
+P-Pa-Se-77,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-45,Paula's Choice Official Store,961537.86,1150542.39,662,997,True,4.54,Vietnam,,2026-06-01
+P-Ne-Ce-78,Nestle Cereal,B-Nestle,Nestle,S-12,Nestle Official Store,126091.41,138946.18,3112,2396,True,4.83,Thailand,,2026-06-01
+P-Lo-Ke-79,Logitech Keyboard,B-Logitech,Logitech,S-20,Logitech Official Store,988591.78,1034399.91,1237,549,True,4.75,Thailand,,2026-06-01
+P-Ne-Ch-80,Nestle Chocolate Drink,B-Nestle,Nestle,S-19,Nestle Official Store,171426.42,210099.56,2738,1306,True,4.0,Vietnam,,2026-06-01
+P-Lo-We-81,Logitech Webcam,B-Logitech,Logitech,S-45,Logitech Official Store,1072599.62,1240981.0,1061,212,True,4.73,Vietnam,,2026-06-01
+P-An-Po-82,Anker Power Bank,B-Anker,Anker,S-16,Anker Official Store,757799.94,783106.57,4814,837,True,4.99,Vietnam,,2026-06-01
+P-JB-Bl-83,JBL Bluetooth Speaker,B-JBL,JBL,S-5,JBL Official Store,1782189.7,2315560.62,1748,684,True,4.18,Thailand,,2026-06-01
+P-Pa-Cl-84,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-16,Paula's Choice Official Store,628152.44,758601.56,4620,751,True,4.3,Malaysia,,2026-06-01
+P-Lo-Ke-85,Logitech Keyboard,B-Logitech,Logitech,S-29,Logitech Official Store,917870.86,999266.0,2221,661,True,4.93,Thailand,,2026-06-01
+P-An-Po-86,Anker Power Bank,B-Anker,Anker,S-35,Anker Official Store,716969.7,762874.4,4502,1590,True,4.37,Vietnam,,2026-06-01
+P-Lo-Wi-87,Logitech Wireless Mouse,B-Logitech,Logitech,S-39,Logitech Official Store,570155.79,725426.17,3274,1045,True,4.53,Thailand,,2026-06-01
+P-An-Po-88,Anker Power Bank,B-Anker,Anker,S-41,Anker Official Store,784062.81,1013650.39,724,321,True,4.76,Thailand,,2026-06-01
+P-Lo-We-89,Logitech Webcam,B-Logitech,Logitech,S-9,Logitech Official Store,1118199.87,1203231.34,2001,2310,True,4.78,Thailand,,2026-06-01
+P-Pa-Cl-90,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-13,Paula's Choice Official Store,717232.64,875433.43,2172,1153,True,4.16,Malaysia,,2026-06-01
+P-JB-He-91,JBL Headphones,B-JBL,JBL,S-6,JBL Official Store,1764875.9,1956625.17,4214,1943,True,4.64,Vietnam,,2026-06-01
+P-Pa-Se-92,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-46,Paula's Choice Official Store,1037392.07,1221196.82,3301,431,True,4.99,Vietnam,,2026-06-01
+P-Ne-Ce-93,Nestle Cereal,B-Nestle,Nestle,S-29,Nestle Official Store,138048.29,169772.93,1314,773,True,4.05,Thailand,,2026-06-01
+P-An-Ch-94,Anker Charger,B-Anker,Anker,S-30,Anker Official Store,536458.5,658285.05,388,854,True,4.75,Malaysia,,2026-06-01
+P-Lo-Ke-95,Logitech Keyboard,B-Logitech,Logitech,S-28,Logitech Official Store,1093654.31,1289928.02,4384,2344,True,4.58,Vietnam,,2026-06-01
+P-Lo-Wi-96,Logitech Wireless Mouse,B-Logitech,Logitech,S-20,Logitech Official Store,613688.63,685069.39,1130,677,True,4.1,Malaysia,,2026-06-01
+P-An-Ch-97,Anker Charger,B-Anker,Anker,S-39,Anker Official Store,410242.86,498261.17,2416,691,True,4.01,Thailand,,2026-06-01
+P-An-Ch-98,Anker Charger,B-Anker,Anker,S-46,Anker Official Store,435586.98,497618.13,653,1891,True,4.95,Malaysia,,2026-06-01
+P-An-US-99,Anker USB-C Cable,B-Anker,Anker,S-13,Anker Official Store,231556.34,245403.28,4048,1334,True,4.41,Thailand,,2026-06-01
+P-Lo-Ke-100,Logitech Keyboard,B-Logitech,Logitech,S-8,Logitech Official Store,1040649.14,1196280.91,1190,1886,True,4.34,Vietnam,,2026-06-01
+P-JB-He-101,JBL Headphones,B-JBL,JBL,S-28,JBL Official Store,1482178.2,1598414.37,1125,1810,True,4.16,Thailand,,2026-06-01
+P-Ne-Co-102,Nestle Coffee,B-Nestle,Nestle,S-2,Nestle Official Store,160770.83,166076.49,839,965,True,4.13,Thailand,,2026-06-01
+P-Ne-Co-103,Nestle Coffee,B-Nestle,Nestle,S-38,Nestle Official Store,140079.26,177761.88,1470,2222,True,4.75,Vietnam,,2026-06-01
+P-Lo-Wi-104,Logitech Wireless Mouse,B-Logitech,Logitech,S-8,Logitech Official Store,493178.62,587808.18,1322,1659,True,4.94,Thailand,,2026-06-01
+P-JB-He-105,JBL Headphones,B-JBL,JBL,S-32,JBL Official Store,1628622.13,1946066.95,3542,1809,True,4.72,Malaysia,,2026-06-01
+P-JB-Ea-106,JBL Earbuds,B-JBL,JBL,S-10,JBL Official Store,1478655.58,1603373.93,2544,1129,True,4.8,Vietnam,,2026-06-01
+P-An-Po-107,Anker Power Bank,B-Anker,Anker,S-6,Anker Official Store,682043.8,873793.26,257,2333,True,4.64,Vietnam,,2026-06-01
+P-An-US-108,Anker USB-C Cable,B-Anker,Anker,S-33,Anker Official Store,318865.94,360239.1,4385,1543,True,4.93,Thailand,,2026-06-01
+P-Lo-We-109,Logitech Webcam,B-Logitech,Logitech,S-44,Logitech Official Store,1100445.72,1386154.9,510,1172,True,4.8,Thailand,,2026-06-01
+P-JB-He-110,JBL Headphones,B-JBL,JBL,S-28,JBL Official Store,1468022.96,1541361.79,827,22,True,4.26,Thailand,,2026-06-01
+P-An-US-111,Anker USB-C Cable,B-Anker,Anker,S-18,Anker Official Store,239873.22,272558.31,4350,221,True,4.23,Vietnam,,2026-06-01
+P-JB-Bl-112,JBL Bluetooth Speaker,B-JBL,JBL,S-39,JBL Official Store,1426263.4,1607001.1,903,570,True,4.45,Thailand,,2026-06-01
+P-Ne-Ch-113,Nestle Chocolate Drink,B-Nestle,Nestle,S-4,Nestle Official Store,144652.7,161152.49,54,164,True,4.13,Malaysia,,2026-06-01
+P-Ne-Ce-114,Nestle Cereal,B-Nestle,Nestle,S-22,Nestle Official Store,192490.15,207521.99,2397,1429,True,4.47,Thailand,,2026-06-01
+P-Lo-Ke-115,Logitech Keyboard,B-Logitech,Logitech,S-35,Logitech Official Store,887781.56,1014789.53,927,721,True,4.61,Malaysia,,2026-06-01
+P-An-US-116,Anker USB-C Cable,B-Anker,Anker,S-40,Anker Official Store,284695.71,353385.03,3336,710,True,4.57,Thailand,,2026-06-01
+P-JB-He-117,JBL Headphones,B-JBL,JBL,S-31,JBL Official Store,1406125.27,1511687.03,4717,750,True,4.01,Malaysia,,2026-06-01
+P-Ne-Co-118,Nestle Coffee,B-Nestle,Nestle,S-4,Nestle Official Store,156781.13,178795.63,164,1292,True,4.78,Thailand,,2026-06-01
+P-Lo-We-119,Logitech Webcam,B-Logitech,Logitech,S-46,Logitech Official Store,1041550.27,1218557.72,2445,1464,True,4.22,Vietnam,,2026-06-01
+P-Lo-Ke-120,Logitech Keyboard,B-Logitech,Logitech,S-35,Logitech Official Store,811578.13,944290.22,2620,2452,True,4.38,Thailand,,2026-06-01
+P-Pa-Mo-121,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-48,Paula's Choice Official Store,802221.6,908149.73,4884,167,True,4.44,Vietnam,,2026-06-01
+P-An-Ch-122,Anker Charger,B-Anker,Anker,S-35,Anker Official Store,447404.89,508396.43,336,1367,True,4.27,Vietnam,,2026-06-01
+P-JB-Bl-123,JBL Bluetooth Speaker,B-JBL,JBL,S-24,JBL Official Store,1850501.24,2401554.25,1462,307,True,4.81,Vietnam,,2026-06-01
+P-An-Ch-124,Anker Charger,B-Anker,Anker,S-43,Anker Official Store,494845.74,521544.74,2426,1784,True,4.11,Malaysia,,2026-06-01
+P-Ne-Ch-125,Nestle Chocolate Drink,B-Nestle,Nestle,S-17,Nestle Official Store,113668.07,118474.49,2113,1095,True,4.85,Thailand,,2026-06-01
+P-An-Po-126,Anker Power Bank,B-Anker,Anker,S-15,Anker Official Store,627846.31,812231.23,931,677,True,4.12,Malaysia,,2026-06-01
+P-JB-He-127,JBL Headphones,B-JBL,JBL,S-16,JBL Official Store,1842551.5,2064790.7,2228,2292,True,4.64,Vietnam,,2026-06-01
+P-Lo-Wi-128,Logitech Wireless Mouse,B-Logitech,Logitech,S-19,Logitech Official Store,539090.27,602058.43,4791,371,True,4.06,Vietnam,,2026-06-01
+P-An-US-129,Anker USB-C Cable,B-Anker,Anker,S-31,Anker Official Store,285677.84,364483.27,1913,482,True,4.24,Malaysia,,2026-06-01
+P-Ne-Co-130,Nestle Coffee,B-Nestle,Nestle,S-29,Nestle Official Store,239843.65,246720.39,4635,674,True,4.6,Malaysia,,2026-06-01
+P-An-US-131,Anker USB-C Cable,B-Anker,Anker,S-30,Anker Official Store,228006.75,295301.27,4384,1150,True,4.52,Vietnam,,2026-06-01
+P-JB-He-132,JBL Headphones,B-JBL,JBL,S-5,JBL Official Store,1546745.3,1694840.13,2298,999,True,4.69,Vietnam,,2026-06-01
+P-Ne-Ce-133,Nestle Cereal,B-Nestle,Nestle,S-35,Nestle Official Store,149062.64,184764.14,1317,1123,True,4.65,Vietnam,,2026-06-01
+P-JB-Bl-134,JBL Bluetooth Speaker,B-JBL,JBL,S-4,JBL Official Store,1919212.19,2294746.43,884,2264,True,4.74,Thailand,,2026-06-01
+P-Pa-Se-135,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-26,Paula's Choice Official Store,907522.99,950005.21,4117,1277,True,4.4,Malaysia,,2026-06-01
+P-Ne-Co-136,Nestle Coffee,B-Nestle,Nestle,S-4,Nestle Official Store,178527.61,224058.27,1294,1264,True,4.68,Thailand,,2026-06-01
+P-Pa-Se-137,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-44,Paula's Choice Official Store,903113.13,989957.14,3122,1262,True,4.5,Malaysia,,2026-06-01
+P-An-US-138,Anker USB-C Cable,B-Anker,Anker,S-20,Anker Official Store,304380.51,328669.72,90,2177,True,4.52,Vietnam,,2026-06-01
+P-An-US-139,Anker USB-C Cable,B-Anker,Anker,S-29,Anker Official Store,241017.2,262413.94,502,963,True,4.85,Malaysia,,2026-06-01
+P-An-US-140,Anker USB-C Cable,B-Anker,Anker,S-1,Anker Official Store,254410.95,263257.29,791,30,True,4.71,Malaysia,,2026-06-01
+P-Ne-Co-141,Nestle Coffee,B-Nestle,Nestle,S-31,Nestle Official Store,211853.59,263889.5,3689,1530,True,4.13,Thailand,,2026-06-01
+P-Lo-Wi-142,Logitech Wireless Mouse,B-Logitech,Logitech,S-6,Logitech Official Store,561949.51,635754.72,1249,137,True,4.48,Malaysia,,2026-06-01
+P-Ne-Ch-143,Nestle Chocolate Drink,B-Nestle,Nestle,S-4,Nestle Official Store,140106.38,147719.18,4300,1980,True,4.01,Malaysia,,2026-06-01
+P-An-Ch-144,Anker Charger,B-Anker,Anker,S-11,Anker Official Store,423194.25,460200.83,1855,933,True,4.73,Vietnam,,2026-06-01
+P-JB-Bl-145,JBL Bluetooth Speaker,B-JBL,JBL,S-34,JBL Official Store,1926022.03,2116890.13,3993,851,True,4.53,Malaysia,,2026-06-01
+P-Pa-Cl-146,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-36,Paula's Choice Official Store,589023.98,636065.99,1517,1847,True,4.95,Vietnam,,2026-06-01
+P-Pa-Se-147,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-29,Paula's Choice Official Store,855065.66,961375.48,1315,414,True,4.53,Thailand,,2026-06-01
+P-JB-Bl-148,JBL Bluetooth Speaker,B-JBL,JBL,S-43,JBL Official Store,1745460.4,2066157.16,361,1426,True,4.39,Thailand,,2026-06-01
+P-An-Ch-149,Anker Charger,B-Anker,Anker,S-36,Anker Official Store,383292.56,412266.41,2911,862,True,4.77,Thailand,,2026-06-01
+P-Pa-Se-150,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-2,Paula's Choice Official Store,898530.41,999780.9,4292,1613,True,4.24,Malaysia,,2026-06-01
+P-Lo-Ke-151,Logitech Keyboard,B-Logitech,Logitech,S-11,Logitech Official Store,812110.03,971359.48,4449,1987,True,4.0,Malaysia,,2026-06-01
+P-JB-Bl-152,JBL Bluetooth Speaker,B-JBL,JBL,S-5,JBL Official Store,2484186.96,2924191.92,371,137,True,4.31,Thailand,,2026-06-01
+P-JB-He-153,JBL Headphones,B-JBL,JBL,S-10,JBL Official Store,1762730.4,2064006.84,1690,1601,True,4.64,Vietnam,,2026-06-01
+P-Lo-Wi-154,Logitech Wireless Mouse,B-Logitech,Logitech,S-47,Logitech Official Store,479731.4,594268.21,1142,2239,True,4.53,Thailand,,2026-06-01
+P-JB-Bl-155,JBL Bluetooth Speaker,B-JBL,JBL,S-10,JBL Official Store,1658283.53,1775607.21,1985,586,True,4.4,Malaysia,,2026-06-01
+P-An-Po-156,Anker Power Bank,B-Anker,Anker,S-47,Anker Official Store,682080.58,787573.66,1275,1643,True,4.02,Malaysia,,2026-06-01
+P-An-US-157,Anker USB-C Cable,B-Anker,Anker,S-1,Anker Official Store,221290.87,286853.85,4705,286,True,4.49,Malaysia,,2026-06-01
+P-Ne-Co-158,Nestle Coffee,B-Nestle,Nestle,S-29,Nestle Official Store,171522.82,175040.3,1938,1422,True,4.29,Thailand,,2026-06-01
+P-Lo-We-159,Logitech Webcam,B-Logitech,Logitech,S-10,Logitech Official Store,1199443.1,1537824.18,1359,1238,True,4.21,Vietnam,,2026-06-01
+P-Lo-Ke-160,Logitech Keyboard,B-Logitech,Logitech,S-6,Logitech Official Store,915329.32,950523.56,920,1575,True,4.93,Vietnam,,2026-06-01
+P-JB-He-161,JBL Headphones,B-JBL,JBL,S-46,JBL Official Store,1307579.85,1576863.83,2030,1476,True,4.95,Thailand,,2026-06-01
+P-Lo-Ke-162,Logitech Keyboard,B-Logitech,Logitech,S-37,Logitech Official Store,817323.45,1007770.12,4538,1280,True,4.73,Malaysia,,2026-06-01
+P-Ne-Ce-163,Nestle Cereal,B-Nestle,Nestle,S-12,Nestle Official Store,143950.26,159459.88,599,1978,True,4.16,Malaysia,,2026-06-01
+P-JB-Bl-164,JBL Bluetooth Speaker,B-JBL,JBL,S-15,JBL Official Store,1956139.28,2192190.68,4211,767,True,4.53,Malaysia,,2026-06-01
+P-JB-Bl-165,JBL Bluetooth Speaker,B-JBL,JBL,S-32,JBL Official Store,1411235.26,1567586.36,829,2111,True,4.91,Vietnam,,2026-06-01
+P-Ne-Ce-166,Nestle Cereal,B-Nestle,Nestle,S-15,Nestle Official Store,174213.94,199808.29,3394,2345,True,4.59,Thailand,,2026-06-01
+P-An-Ch-167,Anker Charger,B-Anker,Anker,S-36,Anker Official Store,499404.01,510884.13,3037,2325,True,4.98,Thailand,,2026-06-01
+P-Lo-Wi-168,Logitech Wireless Mouse,B-Logitech,Logitech,S-44,Logitech Official Store,535280.11,549281.02,240,2499,True,4.6,Thailand,,2026-06-01
+P-Ne-Co-169,Nestle Coffee,B-Nestle,Nestle,S-14,Nestle Official Store,165576.68,201157.26,4068,1057,True,4.59,Vietnam,,2026-06-01
+P-Lo-Ke-170,Logitech Keyboard,B-Logitech,Logitech,S-7,Logitech Official Store,737576.76,798953.22,2723,630,True,4.8,Malaysia,,2026-06-01
+P-JB-He-171,JBL Headphones,B-JBL,JBL,S-12,JBL Official Store,1678887.52,2028495.82,3559,1560,True,4.69,Thailand,,2026-06-01
+P-Ne-Co-172,Nestle Coffee,B-Nestle,Nestle,S-40,Nestle Official Store,192949.46,230179.92,3910,1841,True,4.79,Vietnam,,2026-06-01
+P-Lo-Ke-173,Logitech Keyboard,B-Logitech,Logitech,S-12,Logitech Official Store,898243.71,970246.29,3913,666,True,4.18,Thailand,,2026-06-01
+P-An-Ch-174,Anker Charger,B-Anker,Anker,S-13,Anker Official Store,304511.88,333680.74,3927,150,True,4.95,Malaysia,,2026-06-01
+P-Ne-Ch-175,Nestle Chocolate Drink,B-Nestle,Nestle,S-27,Nestle Official Store,150053.03,189478.49,2647,1520,True,4.06,Malaysia,,2026-06-01
+P-Ne-Ch-176,Nestle Chocolate Drink,B-Nestle,Nestle,S-30,Nestle Official Store,115578.94,132169.64,2416,1364,True,4.7,Vietnam,,2026-06-01
+P-JB-Bl-177,JBL Bluetooth Speaker,B-JBL,JBL,S-6,JBL Official Store,1946985.01,2391721.35,1930,2222,True,4.79,Malaysia,,2026-06-01
+P-Ne-Ch-178,Nestle Chocolate Drink,B-Nestle,Nestle,S-44,Nestle Official Store,155174.13,193974.15,2541,251,True,4.01,Vietnam,,2026-06-01
+P-Lo-We-179,Logitech Webcam,B-Logitech,Logitech,S-8,Logitech Official Store,1074761.59,1316305.57,868,422,True,4.65,Malaysia,,2026-06-01
+P-An-Po-180,Anker Power Bank,B-Anker,Anker,S-43,Anker Official Store,593067.62,657612.03,582,185,True,4.47,Thailand,,2026-06-01
+P-An-Po-181,Anker Power Bank,B-Anker,Anker,S-25,Anker Official Store,718803.52,896746.25,621,2186,True,4.63,Vietnam,,2026-06-01
+P-Ne-Ce-182,Nestle Cereal,B-Nestle,Nestle,S-31,Nestle Official Store,137758.8,158876.73,2875,103,True,4.47,Thailand,,2026-06-01
+P-Pa-Se-183,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-35,Paula's Choice Official Store,891076.28,965493.97,2500,2295,True,4.51,Malaysia,,2026-06-01
+P-JB-Bl-184,JBL Bluetooth Speaker,B-JBL,JBL,S-44,JBL Official Store,1705869.59,1974755.55,1417,183,True,4.96,Malaysia,,2026-06-01
+P-JB-Ea-185,JBL Earbuds,B-JBL,JBL,S-9,JBL Official Store,1513913.94,1860526.38,3213,1708,True,4.45,Malaysia,,2026-06-01
+P-JB-He-186,JBL Headphones,B-JBL,JBL,S-39,JBL Official Store,1626360.33,1904057.41,698,504,True,4.85,Thailand,,2026-06-01
+P-JB-He-187,JBL Headphones,B-JBL,JBL,S-38,JBL Official Store,1741286.88,2024633.42,3486,1224,True,4.98,Thailand,,2026-06-01
+P-An-Ch-188,Anker Charger,B-Anker,Anker,S-3,Anker Official Store,470629.72,580285.19,3837,2008,True,4.25,Malaysia,,2026-06-01
+P-Pa-Mo-189,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-36,Paula's Choice Official Store,928848.88,981324.57,2757,1079,True,4.7,Thailand,,2026-06-01
+P-JB-He-190,JBL Headphones,B-JBL,JBL,S-40,JBL Official Store,1675138.13,1738679.78,2109,2012,True,4.42,Vietnam,,2026-06-01
+P-JB-Bl-191,JBL Bluetooth Speaker,B-JBL,JBL,S-47,JBL Official Store,1537760.41,1844388.09,4332,1823,True,4.21,Malaysia,,2026-06-01
+P-Lo-Wi-192,Logitech Wireless Mouse,B-Logitech,Logitech,S-8,Logitech Official Store,534299.6,629522.6,1707,453,True,4.79,Thailand,,2026-06-01
+P-Lo-We-193,Logitech Webcam,B-Logitech,Logitech,S-9,Logitech Official Store,983064.19,1124264.89,1109,423,True,4.84,Malaysia,,2026-06-01
+P-JB-Bl-194,JBL Bluetooth Speaker,B-JBL,JBL,S-30,JBL Official Store,1741109.04,2167666.3,4434,235,True,4.31,Vietnam,,2026-06-01
+P-An-US-195,Anker USB-C Cable,B-Anker,Anker,S-18,Anker Official Store,264971.91,286603.2,41,1432,True,4.17,Malaysia,,2026-06-01
+P-An-Po-196,Anker Power Bank,B-Anker,Anker,S-47,Anker Official Store,720528.91,866813.44,570,81,True,4.11,Thailand,,2026-06-01
+P-Ne-Co-197,Nestle Coffee,B-Nestle,Nestle,S-7,Nestle Official Store,166180.35,205135.3,2789,493,True,4.23,Malaysia,,2026-06-01
+P-Ne-Co-198,Nestle Coffee,B-Nestle,Nestle,S-34,Nestle Official Store,196130.01,210257.84,2145,2396,True,4.56,Vietnam,,2026-06-01
+P-Lo-Wi-199,Logitech Wireless Mouse,B-Logitech,Logitech,S-15,Logitech Official Store,496942.27,565946.67,1148,250,True,4.15,Malaysia,,2026-06-01
+P-An-US-200,Anker USB-C Cable,B-Anker,Anker,S-17,Anker Official Store,240922.6,311054.74,370,567,True,4.65,Vietnam,,2026-06-01
+P-Pa-Mo-201,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-21,Paula's Choice Official Store,704736.05,748137.13,3628,2377,True,4.16,Vietnam,,2026-06-01
+P-Ne-Ce-202,Nestle Cereal,B-Nestle,Nestle,S-48,Nestle Official Store,145577.84,170395.48,998,2015,True,4.78,Malaysia,,2026-06-01
+P-JB-He-203,JBL Headphones,B-JBL,JBL,S-35,JBL Official Store,1391578.22,1456389.88,3022,559,True,4.79,Malaysia,,2026-06-01
+P-Lo-Ke-204,Logitech Keyboard,B-Logitech,Logitech,S-34,Logitech Official Store,795072.29,1023769.75,2153,1948,True,4.82,Malaysia,,2026-06-01
+P-An-Ch-205,Anker Charger,B-Anker,Anker,S-15,Anker Official Store,406916.16,508010.2,3019,1249,True,4.1,Thailand,,2026-06-01
+P-JB-He-206,JBL Headphones,B-JBL,JBL,S-44,JBL Official Store,1411458.08,1599991.38,3628,238,True,4.59,Malaysia,,2026-06-01
+P-An-Ch-207,Anker Charger,B-Anker,Anker,S-9,Anker Official Store,557419.61,672227.3,4306,1597,True,4.88,Vietnam,,2026-06-01
+P-An-Ch-208,Anker Charger,B-Anker,Anker,S-41,Anker Official Store,448706.29,497203.74,4461,1581,True,4.39,Malaysia,,2026-06-01
+P-Ne-Ch-209,Nestle Chocolate Drink,B-Nestle,Nestle,S-21,Nestle Official Store,117688.5,129292.43,1763,2264,True,4.22,Thailand,,2026-06-01
+P-Pa-Mo-210,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-23,Paula's Choice Official Store,755627.41,868815.41,2879,1865,True,4.54,Malaysia,,2026-06-01
+P-An-Ch-211,Anker Charger,B-Anker,Anker,S-24,Anker Official Store,470190.9,576597.65,3146,1983,True,4.01,Malaysia,,2026-06-01
+P-An-Po-212,Anker Power Bank,B-Anker,Anker,S-26,Anker Official Store,724811.51,872315.94,3367,2380,True,4.45,Vietnam,,2026-06-01
+P-An-Po-213,Anker Power Bank,B-Anker,Anker,S-41,Anker Official Store,540604.09,574850.5,3148,825,True,4.42,Vietnam,,2026-06-01
+P-Pa-Se-214,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-34,Paula's Choice Official Store,1039636.66,1066368.26,125,993,True,4.35,Malaysia,,2026-06-01
+P-Pa-Mo-215,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-42,Paula's Choice Official Store,780823.03,898592.68,3379,2469,True,4.54,Malaysia,,2026-06-01
+P-JB-Ea-216,JBL Earbuds,B-JBL,JBL,S-15,JBL Official Store,1493291.1,1714248.46,2472,115,True,4.36,Malaysia,,2026-06-01
+P-JB-He-217,JBL Headphones,B-JBL,JBL,S-49,JBL Official Store,1709778.5,2008950.88,127,1148,True,4.44,Vietnam,,2026-06-01
+P-Lo-Ke-218,Logitech Keyboard,B-Logitech,Logitech,S-14,Logitech Official Store,812536.07,880608.67,1846,257,True,4.48,Vietnam,,2026-06-01
+P-Ne-Ch-219,Nestle Chocolate Drink,B-Nestle,Nestle,S-45,Nestle Official Store,111158.42,118229.26,1088,1930,True,4.01,Thailand,,2026-06-01
+P-JB-Bl-220,JBL Bluetooth Speaker,B-JBL,JBL,S-23,JBL Official Store,2224952.24,2380020.09,239,2098,True,4.06,Thailand,,2026-06-01
+P-Pa-Se-221,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-2,Paula's Choice Official Store,955880.86,1108192.71,4180,1571,True,4.14,Malaysia,,2026-06-01
+P-Ne-Co-222,Nestle Coffee,B-Nestle,Nestle,S-28,Nestle Official Store,169823.95,202046.46,2544,1915,True,4.22,Malaysia,,2026-06-01
+P-Pa-Cl-223,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-12,Paula's Choice Official Store,687013.9,827384.21,1048,1184,True,4.52,Thailand,,2026-06-01
+P-Lo-Ke-224,Logitech Keyboard,B-Logitech,Logitech,S-22,Logitech Official Store,742999.99,830642.83,4606,1242,True,4.75,Malaysia,,2026-06-01
+P-JB-Bl-225,JBL Bluetooth Speaker,B-JBL,JBL,S-43,JBL Official Store,1360298.17,1644241.87,3839,2416,True,4.29,Malaysia,,2026-06-01
+P-Pa-Cl-226,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-25,Paula's Choice Official Store,819730.42,1038875.45,4974,1884,True,4.75,Malaysia,,2026-06-01
+P-Ne-Co-227,Nestle Coffee,B-Nestle,Nestle,S-12,Nestle Official Store,185632.14,234342.68,848,2173,True,4.67,Thailand,,2026-06-01
+P-Pa-Mo-228,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-20,Paula's Choice Official Store,815149.57,947912.32,3941,845,True,4.98,Vietnam,,2026-06-01
+P-Ne-Ce-229,Nestle Cereal,B-Nestle,Nestle,S-13,Nestle Official Store,142695.36,150374.97,754,992,True,4.16,Vietnam,,2026-06-01
+P-Pa-Cl-230,Paula's Choice Cleanser,B-Paula's Choice,Paula's Choice,S-5,Paula's Choice Official Store,656932.6,809988.15,4704,1542,True,4.75,Malaysia,,2026-06-01
+P-Lo-Ke-231,Logitech Keyboard,B-Logitech,Logitech,S-3,Logitech Official Store,814729.92,913438.19,3715,636,True,4.74,Malaysia,,2026-06-01
+P-JB-Ea-232,JBL Earbuds,B-JBL,JBL,S-46,JBL Official Store,1499493.41,1582881.33,2982,1599,True,4.56,Malaysia,,2026-06-01
+P-Ne-Ch-233,Nestle Chocolate Drink,B-Nestle,Nestle,S-26,Nestle Official Store,139637.0,147370.61,1314,589,True,4.28,Thailand,,2026-06-01
+P-Ne-Ch-234,Nestle Chocolate Drink,B-Nestle,Nestle,S-29,Nestle Official Store,121361.97,129347.03,844,1420,True,4.02,Thailand,,2026-06-01
+P-Pa-Mo-235,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-32,Paula's Choice Official Store,878441.62,917599.4,215,265,True,4.96,Malaysia,,2026-06-01
+P-Pa-Se-236,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-44,Paula's Choice Official Store,776640.2,958382.33,3875,619,True,4.99,Malaysia,,2026-06-01
+P-Ne-Ce-237,Nestle Cereal,B-Nestle,Nestle,S-40,Nestle Official Store,148944.47,183946.57,3309,596,True,4.09,Thailand,,2026-06-01
+P-Ne-Co-238,Nestle Coffee,B-Nestle,Nestle,S-32,Nestle Official Store,195253.62,218689.47,4365,1991,True,4.24,Vietnam,,2026-06-01
+P-Pa-Mo-239,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-24,Paula's Choice Official Store,950371.94,1111544.75,1362,2384,True,4.66,Vietnam,,2026-06-01
+P-Pa-Mo-240,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-30,Paula's Choice Official Store,780370.86,923633.64,274,1845,True,4.35,Vietnam,,2026-06-01
+P-JB-Ea-241,JBL Earbuds,B-JBL,JBL,S-2,JBL Official Store,1304081.52,1333217.81,1949,1640,True,4.73,Thailand,,2026-06-01
+P-An-US-242,Anker USB-C Cable,B-Anker,Anker,S-17,Anker Official Store,251257.99,291223.25,4041,2098,True,4.99,Thailand,,2026-06-01
+P-JB-Bl-243,JBL Bluetooth Speaker,B-JBL,JBL,S-41,JBL Official Store,1651530.08,1950130.34,1659,971,True,4.24,Malaysia,,2026-06-01
+P-Pa-Se-244,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-8,Paula's Choice Official Store,961961.87,1205483.78,32,1056,True,4.65,Thailand,,2026-06-01
+P-Pa-Mo-245,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-47,Paula's Choice Official Store,859043.03,908449.14,1167,1417,True,4.92,Malaysia,,2026-06-01
+P-Pa-Mo-246,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-13,Paula's Choice Official Store,754508.99,848519.73,4459,2165,True,4.93,Malaysia,,2026-06-01
+P-Lo-Wi-247,Logitech Wireless Mouse,B-Logitech,Logitech,S-16,Logitech Official Store,461278.33,511789.49,2633,1982,True,4.01,Vietnam,,2026-06-01
+P-Ne-Co-248,Nestle Coffee,B-Nestle,Nestle,S-27,Nestle Official Store,155415.68,175733.86,636,572,True,4.49,Malaysia,,2026-06-01
+P-Ne-Co-249,Nestle Coffee,B-Nestle,Nestle,S-14,Nestle Official Store,171754.33,190678.66,2098,1791,True,4.02,Malaysia,,2026-06-01
+P-Pa-Mo-250,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-38,Paula's Choice Official Store,816875.05,858734.22,311,1286,True,4.2,Malaysia,,2026-06-01
+P-Pa-Se-251,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-32,Paula's Choice Official Store,986406.56,1045935.31,3342,2065,True,4.57,Malaysia,,2026-06-01
+P-Lo-We-252,Logitech Webcam,B-Logitech,Logitech,S-49,Logitech Official Store,1260862.38,1341683.85,791,658,True,4.16,Malaysia,,2026-06-01
+P-Ne-Ch-253,Nestle Chocolate Drink,B-Nestle,Nestle,S-34,Nestle Official Store,136383.5,147795.81,4700,2346,True,4.61,Vietnam,,2026-06-01
+P-Ne-Co-254,Nestle Coffee,B-Nestle,Nestle,S-35,Nestle Official Store,171800.67,194000.5,2507,347,True,4.3,Vietnam,,2026-06-01
+P-An-US-255,Anker USB-C Cable,B-Anker,Anker,S-28,Anker Official Store,198400.22,254076.51,3565,2395,True,4.01,Vietnam,,2026-06-01
+P-JB-He-256,JBL Headphones,B-JBL,JBL,S-23,JBL Official Store,1797036.58,2139506.31,793,739,True,4.64,Thailand,,2026-06-01
+P-An-US-257,Anker USB-C Cable,B-Anker,Anker,S-49,Anker Official Store,262260.94,308394.58,3779,2202,True,4.07,Vietnam,,2026-06-01
+P-Lo-Wi-258,Logitech Wireless Mouse,B-Logitech,Logitech,S-41,Logitech Official Store,477460.59,544442.94,4737,2304,True,4.72,Malaysia,,2026-06-01
+P-Ne-Co-259,Nestle Coffee,B-Nestle,Nestle,S-16,Nestle Official Store,175609.86,216478.13,1639,15,True,4.61,Malaysia,,2026-06-01
+P-Ne-Ch-260,Nestle Chocolate Drink,B-Nestle,Nestle,S-35,Nestle Official Store,138044.07,160617.47,4026,695,True,4.68,Thailand,,2026-06-01
+P-Ne-Ch-261,Nestle Chocolate Drink,B-Nestle,Nestle,S-21,Nestle Official Store,144693.19,168448.95,814,401,True,4.56,Malaysia,,2026-06-01
+P-JB-Ea-262,JBL Earbuds,B-JBL,JBL,S-6,JBL Official Store,1546352.4,1946241.24,526,509,True,4.58,Malaysia,,2026-06-01
+P-An-Po-263,Anker Power Bank,B-Anker,Anker,S-14,Anker Official Store,614290.84,757414.66,3246,1597,True,4.66,Malaysia,,2026-06-01
+P-Lo-Wi-264,Logitech Wireless Mouse,B-Logitech,Logitech,S-23,Logitech Official Store,429940.02,543458.28,625,983,True,4.52,Thailand,,2026-06-01
+P-Lo-Ke-265,Logitech Keyboard,B-Logitech,Logitech,S-48,Logitech Official Store,944572.98,1060815.88,4836,1206,True,4.28,Thailand,,2026-06-01
+P-Pa-Se-266,Paula's Choice Serum,B-Paula's Choice,Paula's Choice,S-16,Paula's Choice Official Store,881703.65,1076980.16,2323,1109,True,4.7,Malaysia,,2026-06-01
+P-Ne-Ce-267,Nestle Cereal,B-Nestle,Nestle,S-8,Nestle Official Store,174220.46,184792.18,819,1302,True,4.26,Vietnam,,2026-06-01
+P-Ne-Co-268,Nestle Coffee,B-Nestle,Nestle,S-26,Nestle Official Store,260951.96,297761.76,4159,2316,True,4.82,Malaysia,,2026-06-01
+P-An-US-269,Anker USB-C Cable,B-Anker,Anker,S-15,Anker Official Store,201292.71,223073.05,110,1942,True,4.94,Thailand,,2026-06-01
+P-An-Ch-270,Anker Charger,B-Anker,Anker,S-16,Anker Official Store,472749.86,534191.19,4612,710,True,4.28,Malaysia,,2026-06-01
+P-Ne-Ch-271,Nestle Chocolate Drink,B-Nestle,Nestle,S-34,Nestle Official Store,138491.48,146372.61,238,1503,True,4.51,Malaysia,,2026-06-01
+P-An-US-272,Anker USB-C Cable,B-Anker,Anker,S-23,Anker Official Store,294543.78,365108.34,1430,1681,True,4.34,Malaysia,,2026-06-01
+P-JB-Ea-273,JBL Earbuds,B-JBL,JBL,S-45,JBL Official Store,1281387.96,1577879.68,3490,381,True,4.4,Malaysia,,2026-06-01
+P-JB-Bl-274,JBL Bluetooth Speaker,B-JBL,JBL,S-10,JBL Official Store,1719120.05,1802636.58,2741,2412,True,4.51,Vietnam,,2026-06-01
+P-Lo-Wi-275,Logitech Wireless Mouse,B-Logitech,Logitech,S-22,Logitech Official Store,494052.15,616579.2,4245,586,True,4.79,Malaysia,,2026-06-01
+P-An-Ch-276,Anker Charger,B-Anker,Anker,S-45,Anker Official Store,422533.97,541075.11,3678,1354,True,4.22,Thailand,,2026-06-01
+P-JB-Bl-277,JBL Bluetooth Speaker,B-JBL,JBL,S-39,JBL Official Store,1577968.54,1842714.13,3040,628,True,4.33,Thailand,,2026-06-01
+P-Ne-Ch-278,Nestle Chocolate Drink,B-Nestle,Nestle,S-45,Nestle Official Store,128728.7,155000.23,4285,209,True,4.72,Malaysia,,2026-06-01
+P-An-US-279,Anker USB-C Cable,B-Anker,Anker,S-17,Anker Official Store,281576.41,362153.94,2145,137,True,4.69,Malaysia,,2026-06-01
+P-Ne-Ce-280,Nestle Cereal,B-Nestle,Nestle,S-48,Nestle Official Store,176047.33,202986.46,1338,1055,True,4.62,Thailand,,2026-06-01
+P-Ne-Ce-281,Nestle Cereal,B-Nestle,Nestle,S-10,Nestle Official Store,157207.32,186583.93,2447,537,True,4.73,Thailand,,2026-06-01
+P-An-Ch-282,Anker Charger,B-Anker,Anker,S-49,Anker Official Store,370330.33,434164.32,2239,558,True,4.82,Thailand,,2026-06-01
+P-Ne-Co-283,Nestle Coffee,B-Nestle,Nestle,S-47,Nestle Official Store,147487.51,177532.36,290,2269,True,4.66,Malaysia,,2026-06-01
+P-JB-Ea-284,JBL Earbuds,B-JBL,JBL,S-42,JBL Official Store,1223533.65,1418117.03,3208,1356,True,4.27,Vietnam,,2026-06-01
+P-JB-Bl-285,JBL Bluetooth Speaker,B-JBL,JBL,S-28,JBL Official Store,1661914.86,2093205.5,2568,1301,True,4.27,Thailand,,2026-06-01
+P-An-Po-286,Anker Power Bank,B-Anker,Anker,S-3,Anker Official Store,759086.7,776089.77,1468,877,True,4.11,Thailand,,2026-06-01
+P-Lo-Ke-287,Logitech Keyboard,B-Logitech,Logitech,S-13,Logitech Official Store,864433.31,1056207.93,4038,1873,True,4.98,Vietnam,,2026-06-01
+P-Ne-Ch-288,Nestle Chocolate Drink,B-Nestle,Nestle,S-12,Nestle Official Store,136994.72,143312.98,3277,1863,True,4.51,Thailand,,2026-06-01
+P-Pa-Mo-289,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-14,Paula's Choice Official Store,818471.67,936349.91,3725,722,True,4.93,Malaysia,,2026-06-01
+P-JB-Ea-290,JBL Earbuds,B-JBL,JBL,S-5,JBL Official Store,1475357.65,1659933.24,551,1957,True,4.06,Thailand,,2026-06-01
+P-An-Ch-291,Anker Charger,B-Anker,Anker,S-24,Anker Official Store,461238.71,513006.6,2245,954,True,4.13,Malaysia,,2026-06-01
+P-Pa-Mo-292,Paula's Choice Moisturizer,B-Paula's Choice,Paula's Choice,S-43,Paula's Choice Official Store,864975.24,991602.55,2857,2063,True,4.89,Vietnam,,2026-06-01
+P-Ne-Ch-293,Nestle Chocolate Drink,B-Nestle,Nestle,S-3,Nestle Official Store,121594.6,128123.67,4209,2208,True,4.22,Vietnam,,2026-06-01
+P-An-US-294,Anker USB-C Cable,B-Anker,Anker,S-27,Anker Official Store,261566.12,291599.17,306,1780,True,4.01,Malaysia,,2026-06-01
+P-An-Ch-295,Anker Charger,B-Anker,Anker,S-46,Anker Official Store,397116.62,420532.52,188,1138,True,4.27,Thailand,,2026-06-01
+P-Lo-We-296,Logitech Webcam,B-Logitech,Logitech,S-26,Logitech Official Store,996363.37,1231333.81,3313,364,True,4.13,Malaysia,,2026-06-01
+P-JB-Bl-297,JBL Bluetooth Speaker,B-JBL,JBL,S-15,JBL Official Store,1585231.81,1922044.7,1005,917,True,4.04,Malaysia,,2026-06-01
+P-An-Po-298,Anker Power Bank,B-Anker,Anker,S-5,Anker Official Store,663182.31,733966.6,4516,2435,True,4.22,Vietnam,,2026-06-01
+P-JB-He-299,JBL Headphones,B-JBL,JBL,S-6,JBL Official Store,1461236.72,1500164.92,3450,361,True,4.72,Vietnam,,2026-06-01

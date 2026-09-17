@@ -62,25 +62,34 @@ def baseline_recommendation(
 ) -> PricingResult:
     if abs(market_weight + ml_weight - 1.0) > 1e-9:
         raise ValueError("market_weight + ml_weight must equal 1")
+
     minimum_price = minimum_profitable_price(cost, target_margin)
     anchor = market_anchor(stats, strategy)
     blended = market_weight * anchor + ml_weight * predicted_market_price
     recommended = max(minimum_price, blended)
     achieved_margin = (recommended - cost) / recommended
-    competitive = competitiveness(recommended, stats["p25"], stats["median"], stats["p75"])
+    comp = competitiveness(recommended, stats["p25"], stats["median"], stats["p75"])
+
     warning = None
     if minimum_price > stats["p75"]:
         warning = "Required gross margin places the price above competitor P75."
+
     explanation = [
-        f"Margin floor is ${minimum_price:.2f}.",
-        f"Market anchor for '{strategy}' strategy is ${anchor:.2f}.",
-        f"ML market-price estimate is ${predicted_market_price:.2f}.",
-        f"Final price is ${recommended:.2f}, while enforcing the margin floor.",
+        f"Minimum profitable price: {minimum_price:.2f}.",
+        f"{strategy.title()} market anchor: {anchor:.2f}.",
+        f"ML market-price estimate: {predicted_market_price:.2f}.",
+        f"Final recommendation: {recommended:.2f}.",
     ]
     if warning:
-        explanation.append("The target margin is difficult to achieve competitively.")
+        explanation.append("The requested margin conflicts with the observed competitive range.")
     else:
-        explanation.append("The recommendation remains within the normal competitive range.")
+        if recommended < stats["p25"]:
+            explanation.append("The recommendation is below competitor P25 while still satisfying the margin floor.")
+        elif recommended <= stats["p75"]:
+            explanation.append("The recommendation is inside the normal P25-P75 competitive range.")
+        else:
+            explanation.append("The recommendation is above competitor P75 because of the selected pricing strategy or ML estimate.")
+
     return PricingResult(
         recommended_price=round(recommended, 2),
         minimum_profitable_price=round(minimum_price, 2),
@@ -91,7 +100,7 @@ def baseline_recommendation(
         target_margin=target_margin,
         achieved_margin=round(achieved_margin, 4),
         strategy=strategy,
-        competitiveness=competitive,
+        competitiveness=comp,
         warning=warning,
         explanation=explanation,
     )

@@ -4,11 +4,15 @@ project:
 
 data:
   raw_path: "data/raw/marketplace_data.csv"
+  master_path: "data/processed/master_products.csv"
   processed_path: "data/processed/cleaned_products.csv"
-  mock_rows_per_month: 800
+  external_dir: "data/external"
+  update_log: "data/processed/data_update_log.jsonl"
+  mock_rows_per_month: 600
 
 model:
   model_dir: "models"
+  registry_dir: "models/registry"
   market_price_model: "market_price_model.joblib"
   demand_model: "demand_model.joblib"
   tfidf_vectorizer: "tfidf_vectorizer.joblib"
@@ -36,3 +40,18 @@ supported:
     - "Beauty"
     - "Electronics"
     - "Home & Living"
+  currency_by_country:
+    Vietnam: "VND"
+    Thailand: "THB"
+    Malaysia: "MYR"
+    Singapore: "SGD"
+    Indonesia: "IDR"
+    Philippines: "PHP"
+  fx_to_usd:
+    VND: 0.0000395
+    THB: 0.0295
+    MYR: 0.235
+    SGD: 0.785
+    IDR: 0.0000585
+    PHP: 0.0173
+    USD: 1.0

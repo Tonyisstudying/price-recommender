@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
+from pathlib import Path
 import joblib
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -16,11 +17,16 @@ class SimilarityEngine:
     @classmethod
     def fit(cls, df: pd.DataFrame) -> "SimilarityEngine":
         corpus = (
-            df["sku_name_clean"].fillna("") + " " +
+            df["product_name_clean"].fillna("") + " " +
             df["brand_clean"].fillna("") + " " +
             df["category"].fillna("").str.lower()
         )
-        vectorizer = TfidfVectorizer(ngram_range=(1, 2), min_df=2, sublinear_tf=True)
+        vectorizer = TfidfVectorizer(
+            ngram_range=(1, 2), 
+            min_df=2, 
+            sublinear_tf=True,
+            max_features=100000,
+        )
         matrix = vectorizer.fit_transform(corpus)
         return cls(vectorizer, matrix, df.reset_index(drop=True))
 
@@ -42,6 +48,13 @@ class SimilarityEngine:
             (self.products["marketplace"] == marketplace) &
             (self.products["category"] == category)
         ].copy()
+        if snapshot_date is not None and not pool.empty:
+            same_date = pool[pool["snapshot_date"] == snapshot_date]
+            if not same_date.empty:
+                pool = same_date
+            else:
+                latest = pool["snapshot_date"].max()
+                pool = pool[pool["snapshot_date"] == latest]
         if pool.empty:
             return pool
         positions = pool.index.to_numpy()

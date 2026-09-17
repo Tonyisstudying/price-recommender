@@ -16,6 +16,7 @@ class PricingRequest(BaseModel):
     strategy: Strategy = "balanced"
 
 class PricingResponse(BaseModel):
+    currency: str
     recommended_price: float
     minimum_profitable_price: float
     predicted_market_price: float
@@ -30,6 +31,8 @@ class PricingResponse(BaseModel):
     explanation: list[str]
     competitor_count: int
     comparable_products: list[dict]
+    model_version: str
+    data_snapshot: str
     optional_optimized_price: float | None = None
     expected_demand: float | None = None
     expected_profit: float | None = None

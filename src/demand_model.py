@@ -4,60 +4,58 @@ from pathlib import Path
 import joblib
 import numpy as np
 import pandas as pd
-from sklearn.ensemble import HistGradientBoostingRegressor
+from catboost import CatBoostRegressor
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
-from sklearn.compose import ColumnTransformer
-from sklearn.preprocessing import OneHotEncoder
-from sklearn.impute import SimpleImputer
-from sklearn.pipeline import Pipeline
 
-CATEGORICAL = ["country", "marketplace", "category", "brand"]
-NUMERIC = ["price_usd", "discount", "rating", "log_reviews", "competitor_median", "competitor_p25", "competitor_p75"]
+CATEGORICAL = ["country", "marketplace", "category", "brand_name", "currency"]
+NUMERIC = [
+    "price_usd", "discount_rate", "rating_score", "log_reviews",
+    "competitor_median_usd", "competitor_p25_usd", "competitor_p75_usd",
+    "competitor_count", "price_vs_median",
+]
 
 
 def prepare_frame(df: pd.DataFrame) -> pd.DataFrame:
-    frame = df.copy()
-    frame["log_reviews"] = np.log1p(frame.get("reviews", 0).fillna(0))
-    for col in ["competitor_median", "competitor_p25", "competitor_p75"]:
-        if col not in frame:
-            frame[col] = frame["price_usd"]
-    return frame
+    out = df.copy()
+    out["log_reviews"] = np.log1p(out.get("review_count", 0).fillna(0))
+    if "price_vs_median" not in out:
+        out["price_vs_median"] = out["price_usd"] / out["competitor_median_usd"].replace(0, np.nan)
+        out["price_vs_median"] = out["price_vs_median"].fillna(1.0)
+    for col in NUMERIC:
+        if col not in out:
+            out[col] = 0.0
+    for col in CATEGORICAL:
+        if col not in out:
+            out[col] = "Unknown"
+        out[col] = out[col].fillna("Unknown").astype(str)
+    return out
 
 
-def build_model() -> Pipeline:
-    categorical = Pipeline([
-        ("imputer", SimpleImputer(strategy="most_frequent")),
-        ("encoder", OneHotEncoder(handle_unknown="ignore", sparse_output=False)),
-    ])
-    numeric = Pipeline([("imputer", SimpleImputer(strategy="median"))])
-    preprocessor = ColumnTransformer([
-        ("cat", categorical, CATEGORICAL),
-        ("num", numeric, NUMERIC),
-    ])
-    model = HistGradientBoostingRegressor(
-        max_iter=300, learning_rate=0.06, max_leaf_nodes=31,
-        l2_regularization=1.0, random_state=42
-    )
-    return Pipeline([("preprocessor", preprocessor), ("model", model)])
-
-
-def train_model(train_df: pd.DataFrame):
+def train_model(train_df: pd.DataFrame, target_col: str = "demand_target"):
     frame = prepare_frame(train_df)
     x = frame[CATEGORICAL + NUMERIC]
-    y = np.log1p(frame["sold"].clip(lower=0))
-    model = build_model()
-    model.fit(x, y)
-    return model
+    y = np.log1p(frame[target_col].clip(lower=0))
+    model = CatBoostRegressor(
+        iterations=600,
+        depth=7,
+        learning_rate=0.05,
+        loss_function="RMSE",
+        random_seed=42,
+        verbose=False,
+        allow_writing_files=False,
+    )
+    model.fit(x, y, cat_features=CATEGORICAL)
+    return model, target_col
 
 
 def predict_demand(model, df: pd.DataFrame) -> np.ndarray:
     frame = prepare_frame(df)
-    values = model.predict(frame[CATEGORICAL + NUMERIC])
-    return np.maximum(np.expm1(values), 0)
+    pred = np.expm1(model.predict(frame[CATEGORICAL + NUMERIC]))
+    return np.maximum(pred, 0)
 
 
-def evaluate(model, test_df: pd.DataFrame) -> dict:
-    y_true = test_df["sold"].clip(lower=0).to_numpy()
+def evaluate(model, test_df: pd.DataFrame, target_col: str = "demand_target") -> dict:
+    y_true = test_df[target_col].clip(lower=0).to_numpy()
     y_pred = predict_demand(model, test_df)
     return {
         "mae": float(mean_absolute_error(y_true, y_pred)),
