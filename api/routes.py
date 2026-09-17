@@ -124,6 +124,24 @@ def model_info() -> dict:
         "serving_dataset_fingerprint": dataset_fingerprint(data),
     }
 
+
+@router.get("/pricing/recommend")
+def recommend_help() -> dict:
+    return {
+        "message": "This endpoint requires a POST request with a JSON pricing request.",
+        "docs": "/docs",
+        "example": {
+            "country": "Vietnam",
+            "marketplace": "Shopee",
+            "category": "Accessories",
+            "product_name": "Logitech M331 Wireless Mouse",
+            "cost": 8.0,
+            "target_margin": 0.30,
+            "strategy": "balanced",
+        },
+    }
+
+
 @router.post("/pricing/recommend", response_model=PricingResponse)
 def recommend(request: PricingRequest) -> PricingResponse:
     try:

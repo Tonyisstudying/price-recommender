@@ -1,0 +1,23 @@
+services:
+  - type: web
+    name: sea-pricing-api
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /api/v1/health
+    envVars:
+      - key: PYTHONUNBUFFERED
+        value: "1"
+
+  - type: web
+    name: sea-pricing-dashboard
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    dockerCommand: streamlit run app/streamlit_app.py --server.address 0.0.0.0 --server.port ${PORT:-8501}
+    envVars:
+      - key: PRICING_API_URL
+        fromService:
+          type: web
+          name: sea-pricing-api
+          envVarKey: RENDER_EXTERNAL_URL
+      - key: PYTHONUNBUFFERED
+        value: "1"
