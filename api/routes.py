@@ -83,8 +83,24 @@ def _canonicalize_serving_data(data: pd.DataFrame) -> pd.DataFrame:
     out = out.rename(columns={old: new for old, new in renames.items() if old in out})
     if "snapshot_date" not in out:
         out["snapshot_date"] = pd.to_datetime(out.get("month"), errors="coerce")
+    if "price_current_usd" not in out and "price_current_local" in out:
+        fx = out.get("currency", pd.Series("USD", index=out.index)).map(
+            CONFIG["fx_to_usd"]
+        ).fillna(1.0)
+        out["price_current_usd"] = pd.to_numeric(
+            out["price_current_local"], errors="coerce"
+        ) * fx
+    if "price_current_usd" not in out and "price_usd" in data:
+        out["price_current_usd"] = pd.to_numeric(
+            data["price_usd"], errors="coerce"
+        )
     if "price_current_local" not in out:
         out["price_current_local"] = out["price_current_usd"]
+    if "price_current_usd" not in out:
+        raise ValueError(
+            "Serving data must contain price_usd, price_current_usd, or "
+            "price_current_local."
+        )
     if "discount_rate" not in out:
         out["discount_rate"] = pd.to_numeric(out.get("discount", 0), errors="coerce").fillna(0)
     if "currency" not in out:
